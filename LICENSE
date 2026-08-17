@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Scope note
+
+The MIT License above applies to the source code and original content of
+this repository. It does **not** apply to the Mapudungun New Testament
+files in `data/bible-mapudungun/` (`arnNT.pdf`, `bible.md`,
+`bible_download.md`, and related extractions), which are © 2011 Wycliffe
+Bible Translators, Inc. and licensed separately under CC BY-NC-ND
+(Attribution–NonCommercial–NoDerivatives). See
+`data/bible-mapudungun/LICENSE.md` for the full terms of that license.
