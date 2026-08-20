@@ -2,11 +2,11 @@
 # pipeline_02_pdftotext.sh
 #
 # Extracts the Mapudungun New Testament PDF to bible-pdftotext.md using
-# `pdftotext -layout` (poppler-utils). This reproduces EXACTLY the bare
-# command run in-chat: no header, no wrapping, no markers — just the raw
-# pdftotext output. -layout is what preserves correct word spacing on
-# this XeLaTeX-generated PDF (pdfplumber and PyMuPDF's default text mode
-# both fail to insert spaces here; pdftotext -layout does not).
+# `pdftotext -layout` (poppler-utils). No header, wrapping, or markers
+# are added — this is the raw pdftotext output as-is. -layout is what
+# preserves correct word spacing on this XeLaTeX-generated PDF
+# (pdfplumber and PyMuPDF's default text mode both fail to insert
+# spaces here; pdftotext -layout does not).
 #
 # Usage:
 #   ./pipeline_02_pdftotext.sh [path/to/arnNT.pdf] [output_dir]

@@ -2,7 +2,7 @@
 
 Reproducible scripts that turn the source PDF (`arnNT.pdf`) into the
 Markdown corpus files used elsewhere in this project. Numbered to match
-the order these extraction methods were actually tried, in chat.
+the order these extraction methods were tried during development.
 
 ## Files
 
@@ -16,12 +16,6 @@ the order these extraction methods were actually tried, in chat.
 Scripts 01–03 are independent — run whichever you want, in any order,
 to compare extraction quality across libraries. Script 04 depends on
 the output of script 02.
-
-**Reproducibility:** each script's extraction logic was verified against
-the actual files produced earlier in this project's chat history —
-pipeline_02's output is byte-identical to the original `bible-pdftotext.md`,
-and pipeline_04's output is byte-identical to the original `bible.md`
-(both diffed directly, not just visually compared).
 
 ## Usage
 

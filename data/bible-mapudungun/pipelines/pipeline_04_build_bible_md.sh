@@ -6,7 +6,7 @@
 # clean bible.md: book headers with anchors, a linked table of contents,
 # "### Chapter N" headings, and bold (**N**) verse numbers.
 #
-# This reproduces the EXACT parsing heuristics used in-chat:
+# This uses the following parsing heuristics:
 #   - Page-header lines (e.g. "Matew 1:13   2   Matew 1:25") are stripped
 #     via regex, not via a literal page-break marker.
 #   - Book titles are detected as a standalone line, indented >= 5 spaces,

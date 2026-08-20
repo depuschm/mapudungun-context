@@ -2,10 +2,9 @@
 # pipeline_03_pymupdf.sh
 #
 # Extracts the Mapudungun New Testament PDF to bible-pymupdf.md using
-# PyMuPDF (the `fitz` module). This reproduces EXACTLY the script run
-# in-chat (same header lines, same page-join logic, no extra wrapping or
-# "--- page N ---" markers). Produces correctly spaced output on this
-# PDF (unlike pipeline_01_pdfplumber.sh).
+# PyMuPDF (the `fitz` module). No extra wrapping or "--- page N ---"
+# markers are added — just the raw page-by-page extraction. Produces
+# correctly spaced output on this PDF (unlike pipeline_01_pdfplumber.sh).
 #
 # Usage:
 #   ./pipeline_03_pymupdf.sh [path/to/arnNT.pdf] [output_dir]
@@ -33,7 +32,7 @@ if [[ ! -f "${PDF_PATH}" ]]; then
   curl -fsSL -o "${PDF_PATH}" "${PDF_URL}"
 fi
 
-# 3. Run the exact extraction script used in-chat
+# 3. Run the extraction
 echo "Running PyMuPDF (fitz) extraction..."
 python3 - "${PDF_PATH}" "${OUT_FILE}" <<'PYEOF'
 import sys

@@ -2,11 +2,11 @@
 # pipeline_01_pdfplumber.sh
 #
 # Extracts the Mapudungun New Testament PDF to bible-pdfplumber.md using
-# the Python `pdfplumber` library. This reproduces EXACTLY the script run
-# in-chat (same header lines, same page-join logic, no extra wrapping or
-# "--- page N ---" markers) — known to produce word-smashed output
-# (e.g. "NgünechenñiKümeDungu") on this particular XeLaTeX-generated PDF.
-# Kept for reproducibility / comparison purposes only.
+# the Python `pdfplumber` library. No extra wrapping or "--- page N ---"
+# markers are added — just the raw page-by-page extraction. This method
+# is known to produce word-smashed output (e.g. "NgünechenñiKümeDungu")
+# on this particular XeLaTeX-generated PDF. Kept for reproducibility /
+# comparison purposes only.
 #
 # Usage:
 #   ./pipeline_01_pdfplumber.sh [path/to/arnNT.pdf] [output_dir]
@@ -34,7 +34,7 @@ if [[ ! -f "${PDF_PATH}" ]]; then
   curl -fsSL -o "${PDF_PATH}" "${PDF_URL}"
 fi
 
-# 3. Run the exact extraction script used in-chat
+# 3. Run the extraction
 echo "Running pdfplumber extraction..."
 python3 - "${PDF_PATH}" "${OUT_FILE}" <<'PYEOF'
 import sys
