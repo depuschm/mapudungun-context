@@ -1,7 +1,3 @@
-# Ngünechen Ñi Küme Dungu — pdftotext extraction
-### Raw output of `pdftotext -layout` on arnNT_prt.pdf
-
-```text
                                                                       ii
 
                     Ngünechen ñi Küme Dungu
@@ -35120,4 +35116,4 @@ lifru mew.
    21 Fey Ñidol Jesus füreneaeymünmew kom eymün. Felepe may.*
 
 * 22:21 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
-```
+

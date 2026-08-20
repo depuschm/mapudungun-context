@@ -1,11 +1,11 @@
-# Ngünechen Ñi Küme Dungu — pdfplumber extraction
-### Raw output of Python `pdfplumber` on arnNT_prt.pdf
+# Ngünechen Ñi Küme Dungu — New Testament in Mapudungun
 
-```text
---- page 1 ---
+Copyright © 2011 Wycliffe Bible Translators, Inc. CC BY-NC-ND.
+
+---
 
 
---- page 2 ---
+
 ii
 NgünechenñiKümeDungu
 NewTestamentinMapudungun(CI:arn:Mapudungun)
@@ -42,7 +42,6 @@ thoseScripturesanddocuments.Forotheruses,pleasecontacttherespectivecopyrightowne
 PDFgeneratedusingHaiolaandXeLaTeXon8Aug2026fromsourcefilesdated29Jan2022
 e483fc1d-75da-5814-bcbc-2919e9a5acad
 
---- page 3 ---
 Contents
 Matew . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
 Marku . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
@@ -73,7 +72,6 @@ Juda. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .512
 Apokalipsi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .515
 iii
 
---- page 4 ---
 Matew1:1 1 Matew1:12
 Matew
 Matewtañiwirielchikümedungu
@@ -123,7 +121,6 @@ AmonemyallfitaJosias.
 püresukonayengelutatipuisraelcheBabiloniatrokiñmapumew.
 12Dewrupalutitripantuñipüresukonalepunengün,
 
---- page 5 ---
 Matew1:13 2 Matew1:25
 JekoniasemyallfitaSalatiel,
 SalatielemyallfitaSorobabel.
@@ -176,7 +173,6 @@ eludunguwiyümñikureyewaelfeleyñimupituaeltañieludunguelengu,feyngelaytañiw�
 engu. † 1:21EbrewdungunmewtiüyJesus“montulkey”kam“ñidoltaMontulchefe”pinürke.
 ‡ 1:23Isaia7.14LXX;Isaia8.8,10LXX. § 1:25Kiñekekuyfiwirinmewngelay:“wünen”.
 
---- page 6 ---
 Matew2:1 3 Matew2:13
 2
 Ñiwitranngepantripaweantüpüleküpachikimkewentru
@@ -228,7 +224,6 @@ ngüneduamkefilutatipuwangülen. † 2:6Mikea5.2. ‡ 2:11insienso:lüpümngekey
 §
 mew. 2:11mira:kiñeanümkamewnentuelchiperfume.
 
---- page 7 ---
 Matew2:14 4 Matew3:3
 14FeymewJosepepikawlu,puntripaytipichichekatañiñukeengünñi
 amuaeltaEgipto,
@@ -276,7 +271,6 @@ chillkamew:
 femngechitamünllowafieltaÑidol.’”*
 * 2:15Osea11.1. † 2:18Jeremia31.15. * 3:3Isaia40.3LXX.
 
---- page 8 ---
 Matew3:4 5 Matew3:17
 4Juantañitakuwünngürelerkeytarekalkamellumew,katrariwtuley
 kiñekoriwentrariwemew.Feytañiikeelchiiyaelchoriürkekalelfünmew
@@ -325,7 +319,6 @@ LifKümePüllükiñepallumareke,feyakuykisumew.
 kakeluwimtun;sadusew:kiñepichitrokiñjudiuche,epekomrekesaserdotengeyengün,feydoy
 falintukefilutatiwünelechikechulifrumüleluKuyfiChillkamew.
 
---- page 9 ---
 Matew4:1 6 Matew4:16
 4
 ÑikintukaduamngentaJesus
@@ -377,7 +370,6 @@ Galileamapuchewtañimülemumtatipujudiutuwünngenochiche.
 * 4:4Deuteronomio8.3. † 4:6Salmo91.11-12. ‡ 4:7Deuteronomio6.16. § 4:10Deuteronomio
 6.13.
 
---- page 10 ---
 Matew4:17 7 Matew5:4
 Tüfeychipuchedumiñmalelurekeñiwesakedungumew
 alofmaeyewrekekiñefütrakümedungu”pi.*
@@ -426,7 +418,6 @@ engüntakoneltuleyNgünechentañiülmenmülewemew.
 pingechirukañitrawüluamengünkañikimeltungeamengün. ‡ 4:25Dekapolistrokiñmapu:
 kiñefütratrokiñmapunielumaripichikewaria.
 
---- page 11 ---
 Matew5:5 8 Matew5:20
 5Ayüwünnieytatiñompiwkengelu,kisuengünamllowalutatimapu
 Ngünechentañitukulpakünuletew.
@@ -478,7 +469,6 @@ chumkawnorumekonpulayaymünNgünechentañiülmenmülewemew.
 dungu. † 5:18kiñepuntukakiñeletranorume:tüfachidungulegtunieludoypichiletranewe
 falinolurekefelelutileydungumew.
 
---- page 12 ---
 Matew5:21 9 Matew5:34
 Jesuskimeltuyñichumngentalladkün
 21“Eymüntaallkükeymüntamünkuyfikelakuemtañifeypingeelengün:
@@ -527,7 +517,6 @@ Kuyalltunmewtukukefilmüntawenumapu,Ngünechenamnieluñilongko
 ‡ 5:21Exodo20.13; Deuteronomio5.17. § 5:27Exodo20.14; Deuteronomio5.18. * 5:31
 Deuteronomio24.1. † 5:33Levitiko19.12;Numero30.2.
 
---- page 13 ---
 Matew5:35 10 Matew5:48
 35Kafemngechiüytukefilmünkuyalltunmewtüfachimapu,Ngünechenam
 tañinamunrekepünolelutatüfamew.Kafemngechiüytukefilmünkuyalltun
@@ -577,7 +566,6 @@ kuyfiwirinmewngelay:“kangillatuñmayafimüntamünpukayñetukeetewkatamünkutra
 romachetañikofrayaeltaimpuestu,feymewkakelutipujudiurumeüdekefeyewellkangünenmanielu
 tiputrokiñjudiutrokingekefuy.
 
---- page 14 ---
 Matew6:1 11 Matew6:14
 1“Femkilmünkümekedunguretamünpeaetewtikakelupuche.
 Femngechifemülmün,tamünChawtamüleluwenumapuchemmewrume
@@ -629,7 +617,6 @@ mewngelay:“femngechitakomcheñikimael”. ‡ 6:13Kiñekekuyfiwirinmewngelay:�
 longkoülmenwenumapumew,kanieymipepiluwün,kafütrakümefelen,karumelfeleayamuleachi
 tripantumew.Felepemay.”
 
---- page 15 ---
 Matew6:15 12 Matew6:26
 15Weluwiñoduamanofilmüntakakeluche,kafemngechi
 wiñoduamalayaeymünmewtamünChaweymüntamünyafkanmew.
@@ -680,7 +667,6 @@ eymüntadoyfaliymüntatipuüñümmew!
 nieaelñiinanieelchiwimtundungu.Tüfachiwimtunkuyfikepujudiuñiwimtunürke. 6:18Kiñeke
 kuyfiwirinmewngelay:“femngechitakomcheñikimael”.
 
---- page 16 ---
 Matew6:27 13 Matew7:6
 27¿Ineyrumefillrakiduamkülele,doyalüntupeafuymayñimongenkiñe
 orarewall?†
@@ -733,7 +719,6 @@ mewkisuamdoyfütrarikulongkoülmenngelukarumekümekechemkünniefuykakelucheñipe
 femnoel. 7:6Tatipusañwetiputrewakütuünunngechikulliñfeltatipujudiumew,feymewrume
 illamtukefuy.
 
---- page 17 ---
 Matew7:7 14 Matew7:23
 7“Ngillatulemün,feyNgünecheneluaeymünmew.Kintuaymün,fey
 peaymün.Mütrümaymüntawülngiñmew,feynülalngeaymün.
@@ -783,7 +768,6 @@ kaeymitamiüymewfemiyiñafmanngechidungu.
 23Welufeymewiñchellowdunguafiñ:‘Chumkawnorumekimuwkelayiñ.
 ¡Kiñepületripamüniñchemew,wesakedungufemkelu!’
 
---- page 18 ---
 Matew7:24 15 Matew8:9
 Tatiepuadkünudungu
 (Luka6.47-49)
@@ -834,7 +818,6 @@ tañiwerkükeel.Feypifiyümkiñekesoltawñiamuael,amukey.Fey
 kapitan:longkolechisoltawkiñepatakasoltawmew. Kisungüneniekefuytikuarteltitrokiñmapu
 chewñimülentatitrokiñsoltawRomatuwlu.
 
---- page 19 ---
 Matew8:10 16 Matew8:23
 feypifiyümkangeluñiküpayael,küpakey.Kawerküfiyümtañikonatañichem
 chumaelrume,feyfemkey.
@@ -885,7 +868,6 @@ Jesustüngümnagümfitatikürüfkatirewlafken
 ‡ 8:17Isaia53.4. § 8:20tati“Wentrukünuwpalu”kam“WentruñiFotüm”Jesustañifemngechi
 üytuwkefel.
 
---- page 20 ---
 Matew8:24 17 Matew9:3
 24Feymewtilafkenmewtriparumeykiñefütrakürüf,feyrumenewentu
 ingafpüramekeytirewtatifarkumew,weluJesusumawturkey.
@@ -935,7 +917,6 @@ wentru.
 dungu,rakiduamiengün:“Feytüfatañifeypielchidungumewnotukafita
 Ngünechen.”
 
---- page 21 ---
 Matew9:4 18 Matew9:15
 4Jesusamkimnielutañifemngechirakiduamkülenengün,feyramtufiti
 puwentru:
@@ -984,7 +965,6 @@ mülentatinofiotakisuengünmew?Weluakuaytiantüñiyengetuaeltati
 nofio,feywülaketaayunayayengün.
 * 9:13Osea6.6. † 9:13Kiñekekuyfiwirinmewngelay:“ñiwiñorakiduamtuael”.
 
---- page 22 ---
 Matew9:16 19 Matew9:30
 16Ineyrumetalapatuletakiñelludtakuwün,lapantukulelkelafitakiñe
 wekatrünpañu.Tatilapantukuelchiwekatrünpañutrüküfkey,feydoy
@@ -1037,7 +1017,6 @@ kullingekefuyñingümameaelfemngechiñidoykümeadtripayaeltingüman. 9:27Davidme
 dullielchiYomelche: tipujudiuñifeypikefelchiüyñitukulelafieltiMontulchefe,feyDavidñi
 Yomelchengeael.
 
---- page 23 ---
 Matew9:31 20 Matew10:6
 31Welu,tripapatulumüten,nütramkayngukomtiyechitrokiñmapumew
 tañifemeltaJesus.
@@ -1088,7 +1067,6 @@ felelu.
 dungu. † 10:4kananita:feytüfatakiñewentrukoneltulelukiñetrokiñmalokachefemewayülelu
 ñiweychayafieltatipuromachengüneniefilutatipujudiuIsraelmapumew.
 
---- page 24 ---
 Matew10:7 21 Matew10:23
 7AmulelmünfeykimelaymünñifülkülepanNgünechentañilongko
 ülmenngeael.
@@ -1140,7 +1118,6 @@ komrupanonisraelchetañipuwariamew.
 ‡ 10:13kümetüngün:tatipujudiuñiwimtunchaliwündungu. § 10:14mütrowaymüntitrufürtañi
 nieeltamünokota:femngechifemkefuytatipucheñipengelaelñirumewesaduamün.
 
---- page 25 ---
 Matew10:24 22 Matew10:39
 24“Kiñenorumetatikimeltukeel,doynielaykimüntañikimeltufemew
 kakiñewerküpeelchikonadoypepiluwlaytañiwerkükeetewmew.
@@ -1190,7 +1167,6 @@ Ngünechenñifüreneafieltache
 * 10:25Belsebu:Weküfü,longkolelukakelupuweküfümew. † 10:27nütramyeafimüntawente
 rukakütu:femngechitakomcheñikümeallküaeltidungu. ‡ 10:36Mikea7.6.
 
---- page 26 ---
 Matew10:40 23 Matew11:13
 40“Ineyrumetamünkümellowetew,iñchetallowenew.Feyineyrume
 tañikümellowetew,kafemngechillowfiiñchetañiwerküetew.
@@ -1241,7 +1217,6 @@ dungumewkimelngeyñiküpayaeltatiCristo,feyakuluwülataJuan
 fentekünuyengün.
 * 11:2Kiñekekuyfiwirinmewfeypiley:“werküyepudisipulu”. † 11:10Malakia3.1.
 
---- page 27 ---
 Matew11:14 24 Matew11:29
 14Feyeymünayüfilmüntamünfeyentuafieltüfachidungu,feyJuanürke
 tatipelonwentruküpaluEliareke,eymüntamününgümniefel.
@@ -1291,7 +1266,6 @@ mewkafanetulelu,feyiñchetakansatuluwayiñ.
 mew,iñcheamñompiwkengelukamallmangelanrume,feytafamngechi
 kansatuaymün.
 
---- page 28 ---
 Matew11:30 25 Matew12:13
 30Iñcheñiyukutamüntukuleluwfielfanelayyenmewkaküdawngelay
 tamüneluwfielchidungu”pi.
@@ -1343,7 +1317,6 @@ kuwüreke.
 12:1ürkütunantü:tipujudiuñiafpuchiantüsemanamewfeychimewelukelafuyñiküdawaeliney
 norume. † 12:7Osea6.6.
 
---- page 29 ---
 Matew12:14 26 Matew12:29
 14Welutipufarisewtripatulutisinagogamew,nütramkawiengün
 chumngechiñilangümafieltaJesus.
@@ -1394,7 +1367,6 @@ rukamewfemngechiñimüntuñmayafieltañinieelchichemkün,wünelumew
 § *
 ngañwadkülechichekakuñifallkülelu. 12:20Isaia42.1-3. 12:21Isaia42.4LXX.
 
---- page 30 ---
 Matew12:30 27 Matew12:42
 kümetrarinofiletingenruka,¿chumngechiamkonpuafuytirukamew?
 Welutrarikünufile,feywülakepepimüntuñmayafuyñinieelchichemkün.
@@ -1446,7 +1418,6 @@ ramtukadungungealetafantepumewmüleyechipuche,tatilongkoülmen
 domowitrapürayayñikondenayafieltüfachipuche,fewlamüleluameymün
 mewkiñedoyfütrakimünnielutaSalomonmew.
 
---- page 31 ---
 Matew12:43 28 Matew13:8
 Ñiwiñotuntatiweküfü
 (Luka11.24-26)
@@ -1497,7 +1468,6 @@ ketranmew,kakiñekefünwülikayumarifün,kakiñekewülikülamari.
 mülekefellelfünpülechewñingenonchemnorume. ‡ 12:47Kiñekekuyfiwirinmewngelaytati
 versu47.
 
---- page 32 ---
 Matew13:9 29 Matew13:23
 9Tatinielupilun,allküpetüfachidungu.”
 ChumngelukimeltukeyJesustatiadkünudungumew
@@ -1550,7 +1520,6 @@ cheallkülutatikimelündungukakümekimfilu,feyrumekümekosecha
 *
 13:15Isaia6.9-10LXX.
 
---- page 33 ---
 Matew13:24 30 Matew13:36
 wülkey.Kiñeketüfaengüntatilongkoketranwülitapatakafünkiñefün
 mew,kakeluwülikayumarifün,feykangeluwülikülamarifün.”
@@ -1601,7 +1570,6 @@ tañipudisipulufülkontueyew,feyfeypingeytañikümekimelafieltatiadkünu
 dungutiwesakachuweflutilelfünmew.
 † 13:35Salmo78.2.
 
---- page 34 ---
 Matew13:37 31 Matew13:52
 37Jesusllowdungufiñipudisipulu:“Tatinganlutikümefünketranfey
 tatiWentrukünuwpalu.
@@ -1651,7 +1619,6 @@ tañilongkoülmenngen,kiñengenrukareketafeley,feykomtañinieelchi
 wekechemkünkakuyfintuwkülechichemkünmew,kakekiñekekimniefiñi
 tuntekefalin.
 
---- page 35 ---
 Matew13:53 32 Matew14:12
 DuamkünungelaytaJesusNasaretwariamew
 (Marku6.1-6;Luka4.16-30)
@@ -1701,7 +1668,6 @@ amuyengüntañikimelafieltaJesusñilangümngentaJuan.
 * 14:1Erode:ErodeAntipa,kiñegobernadorGalileakaPereatrokiñmapumew4aC-39dC. † 14:3
 Felipe:ErodetañichawmewpeñimülekefuluRomawariamew.
 
---- page 36 ---
 Matew14:13 33 Matew14:30
 Jesuselufiiyaelkechuwarangkawentru
 (Marku6.30-44;Luka9.10-17;Juan6.1-14)
@@ -1753,7 +1719,6 @@ FeymewPedrotripaytipichifarkumew,feyllituyñitrekayaelwenteko
 30Feyngüneduamluñirumenewenngentatikürüf,llükay.Ñochingeluamñi
 llañnagüntikomew,feywirari:
 
---- page 37 ---
 Matew14:31 34 Matew15:10
 —¡MontulenÑidol!
 31Feymewmüten,JesusnüñmafiñikuwütaPedrokafeypifi:
@@ -1805,7 +1770,6 @@ Deuteronomio5.16. † 15:4Exodo21.17. ‡ 15:6Kiñekekuyfiwirinmewngelay:“kamt
 §
 rume”. 15:9Isaia29.13LXX.
 
---- page 38 ---
 Matew15:11 35 Matew15:28
 11Chemiyaelrumeiletacheelukelafiñiwesapiwkengeael,welumay
 tatitripakelutawünmewwesalkakefitache.
@@ -1857,7 +1821,6 @@ mesa.
 Feychilelenmewmütentatidomoñipüñeñtremolewetuy.
 Jesustremolyefifentrenpukutran
 
---- page 39 ---
 Matew15:29 36 Matew16:3
 29Jesustripapatuytiyemew,feyakuyGalileatañiinaltupichilafken,
 feymewpürapuykiñewingkulmewkaanükünuwpuy.
@@ -1909,7 +1872,6 @@ ngüneduamlaymünchemdunguñimülenfantepumew?*
 *
 16:3Kiñekekuyfiwirinmewngelaytaversu2kaversu3.
 
---- page 40 ---
 Matew16:4 37 Matew16:18
 4Tüfachipuchewesakepiwkengelukakisungünewünngeluayüleyengün
 ñipengelelngeaelkiñeafmanngechidungu,weludoypengelelngewelayay
@@ -1961,7 +1923,6 @@ weküfünorumewewlayaeyew.
 † 16:14Elia:kiñepelonwentrutipujudiuñiüngümkefeltatiküpayalukomdunguñipepikapayaelti
 Mesiangealu. ‡ 16:18Pedroñiüy“kura”pinürke.
 
---- page 41 ---
 Matew16:19 38 Matew17:4
 19Wenumapuülmenmüleweñillafeeluaeyu.Eymita‘trariley’pifilmita
 tüfachimapumew,kafemngechiNgünechentrarilelurekeleliwülnieaeyew.
@@ -2010,7 +1971,6 @@ taJesus.Ñiangealofiantüreke,katañitakuwünrumelingaripirereke.
 pichikeküniruka:kiñeeymingealu,kakiñetaMoysengealukakiñe
 Eliangealu.
 
---- page 42 ---
 Matew17:5 39 Matew17:21
 5PetudungumekelutaPedro,kiñealofkülechitromümunulpaeyewkiñe
 llawfeñreke,feytatitromümewtripaykiñedungunfeypilu:“Feytüfaiñche
@@ -2062,7 +2022,6 @@ Jesuskawiñomenütramkayñilayaelkañiwiñomongetuael
 *
 17:21Kiñekekuyfiwirinmewmütenmüleyversu21.
 
---- page 43 ---
 Matew17:22 40 Matew18:6
 22PetumiyawlukiñentrürñidisipuluengünGalileatañitrokiñmapu
 mew,Jesusfeypifiñipudisipulu:
@@ -2113,7 +2072,6 @@ piwkengelukiñepichichereke,doykümeafuykiñefütrakurañi
 judiuwentrutingillatuwerukamew.Tatikulliaelfantenürketatiküdawfeñiwewkeelepuantüküdaw
 mew.
 
---- page 44 ---
 Matew18:7 41 Matew18:20
 trapeltukukünulelngeaelñipelmew,feyñiütrüftukungeaeltatidoyllufülechi
 lafkenmew.
@@ -2165,7 +2123,6 @@ iñchemüleankisuengünmew.”
 *
 18:11Kiñekekuyfiwirinmewngelayversu11.
 
---- page 45 ---
 Matew18:21 42 Matew19:2
 Feleyñiwiñoduamangetuaelkangeluche
 21FeymewPedrofülkontufitaJesuskaramtufi:
@@ -2216,7 +2173,6 @@ Judeatrokiñmapumew,Jordantañitripaweantüpüle.
 2Rumefentrencheinaeyew,kafeymewJesustremolyefitatipu
 kutrankülelu.
 
---- page 46 ---
 Matew19:3 43 Matew19:17
 3KiñeketipufarisewfülkonpuyngüntaJesusmewrengünenmewtañi
 ramtuafiel,feyfeypieyew:
@@ -2267,7 +2223,6 @@ mongen?
 * 19:5Genesis2.24LXX. † 19:7Deuteronomio24.1. ‡ 19:9Kiñekekuyfiwirinmewngelay:“Fey
 kureyefilutiwüdakünuelchidomo,kafemngechiñiwaldomofengey”.
 
---- page 47 ---
 Matew19:18 44 Matew20:1
 —¿Chemmewantakümepiwkekimeltufepien?Kiñeleymütentatiküme
 piwkengelu.Weluayülmitaminieaeltatirumelmongen,müngeltuafimitati
@@ -2318,7 +2273,6 @@ kintuaelküdawfeñikatrüofadelaetew.
 longkoakuchamew:rumeküdawngechidungupinürke. ‡ 19:29Kiñekekuyfiwirinmewngelay:
 “kamdomo”.
 
---- page 48 ---
 Matew20:2 45 Matew20:18
 2Feytingenofadentukümenütramkafitipuküdawfeñituntenkulliafiel
 engünkiñeantüküdawmew,*feywerküfiñiküdawelmengeaeltiofadentu
@@ -2370,7 +2324,6 @@ tatileydungumew,kakondenangeanfeytañilangümngeael.
 * 20:2ñituntenkulliafielengünkiñeantüküdawmew:feytakiñedenario. † 20:16Kiñekekuyfi
 wirinmewngelay:“Pütrüleytatimangelel,welupichileytatidullinieel”.
 
---- page 49 ---
 Matew20:19 46 Matew20:30
 19Kachalintukungeantatikaketrokiñkemapuküpayechipuchemewtañi
 ayentukangeaelkañiwülelkangeaelkatañilangümngeaelkürusmew,welu
@@ -2421,7 +2374,6 @@ kutranpiwkeyemuyu!
 femngechifawtisangeafuymuchumngechifawtisangentaiñche?” 20:23Kiñekekuyfiwirinmew
 ngelay:“kafawtisangeaymuchumngechifawtisangentaiñche”.
 
---- page 50 ---
 Matew20:31 47 Matew21:11
 31Tatipuchelladkütudungueyewtañiwirarkümekenoaelengu,welukisu
 engudoywirari:
@@ -2472,7 +2424,6 @@ Jesuswemünentufitatineosiakelungillatuwerukamew
 (Marku11.15-19;Luka19.45-48;Juan2.13-22)
 * 21:5Isaia62.11;Sakaria9.9. † 21:9Salmo118.25-26.
 
---- page 51 ---
 Matew21:12 48 Matew21:22
 12Jesuskonpuytatingillatuwerukamew,feywemünentupufitiyemew
 komtatifendemekelukatatingillakamekelu.‡Ütrüfrulpañmafitañimesa
@@ -2524,7 +2475,6 @@ kulliñnorumeñilangümngeael.Feymewtipuchefelefuyñitrafkintuaelñipülatañill
 § *
 pülatangillatuwerukamew. 21:13Isaia56.7;Jeremia7.11. 21:16Salmo8.2LXX.
 
---- page 52 ---
 Matew21:23 49 Matew21:33
 23Dewrupalukomtüfachidungu,Jesuskonpuytingillatuwerukañi
 lepünmew.Feymülepulutüfeymewkakimeltumekelu,fülkontupueyewtati
@@ -2575,7 +2525,6 @@ Tatiadkünudungutiwesakeküdawfemew
 ofadentukamalalmafi.Pepikaykiñemülewechewtañidewmayamta
 pulkukadewmaykiñealüpürachirukakompületañipuwkintunieamñi
 
---- page 53 ---
 Matew21:34 50 Matew22:4
 ofadentu.Feymewmütenamediakünulelfiñimapukiñekepuküdawfe,fey
 kisuamuykañpüle.
@@ -2625,7 +2574,6 @@ pumangel,welutüfeyengünpilaytañiküpayael.
 ‘Feypiafimüntatipumangeliñchetañikomdewmaniewiyentaiyael.
 † 21:42Salmo118.22-23. ‡ 21:44Kiñekekuyfiwirinmewngelayversu44.
 
---- page 54 ---
 Matew22:5 51 Matew22:21
 Langümfalüntañiellakechimotrinkekulliñ,kaitrokompepikaley.Küpape
 engüntañifotümñimafünmew.’
@@ -2678,7 +2626,6 @@ FeymewfeypitaJesus:
 *
 22:19denario:tatipuromacheñipünekefelchimonedapülata.
 
---- page 55 ---
 Matew22:22 52 Matew22:37
 —Elufimüntatiemperadorkisutañikoneltuleel,kaelufimünñi
 koneltuleeltaNgünechen.
@@ -2730,7 +2677,6 @@ kakomtamikimünmew.”*
 *
 Exodo3.6. 22:37Deuteronomio6.5.
 
---- page 56 ---
 Matew22:38 53 Matew23:6
 38Feytüfatatiwünenwerkündungukadoyfalilukomwerkündungu
 mew.
@@ -2781,7 +2727,6 @@ wülatamipukayñe:miñchenamunpinürke. 22:44Salmo110.1. 23:5pichikewirindungu:
 (filakteria)pefingeDeuteronomio6.8mew;fütrakechiñayngechitakuwün:femngechiñikimngeaelñi
 poyeniefieltaNgünechen.
 
---- page 57 ---
 Matew23:7 54 Matew23:23
 7kaayükeyengüntañichaliaetewtatipucherumeyamünmewtarüpü
 mewkatañiYamfalKimeltufeñipingeaelengün.
@@ -2834,7 +2779,6 @@ maripuwlumewtatimenta,kaaniskatatikuminu,welu
 † 23:8Kiñekekuyfiwirinmewngelay:“tatiCristo”. ‡ 23:14Kiñekekuyfiwirinmewngelayversu
 14.
 
---- page 58 ---
 Matew23:24 55 Matew23:39
 ngüneduamkelafimüntatidoyduamtufalchidungumülelutileydungumew:
 ñimüleaelrüfnordungu,tamünkutranpiwkeyecheaelkatamünrumel
@@ -2885,7 +2829,6 @@ dungu:‘¡PüramyengepetatiküpaleluÑidolNgünechenmew!’”§
 §
 23:39Salmo118.26.
 
---- page 59 ---
 Matew24:1 56 Matew24:16
 24
 Jesuskimeliñiteyfükangeaeltatingillatuweruka
@@ -2936,7 +2879,6 @@ feypefilmünNgünechenñikayñeñifillwesamekentingillatuwerukamew
 16feymewtatipuchemüleluJudeatrokiñmapumew,lefmawpeengün
 fütrakewingkulmew.
 
---- page 60 ---
 Matew24:17 57 Matew24:32
 17Katatimüleluwekuntripatañirukamew,wiñokontukilpetañi
 yemetuaelchemnorume.
@@ -2988,7 +2930,6 @@ walüngantü.
 24:20ürkütunantümew:feytipuchengelafuyñiküdawaelkafemngechielungekelafuyñitripayael
 doykiñekilometro.
 
---- page 61 ---
 Matew24:33 58 Matew24:51
 33Kafemngechi,pefilmünkomtüfachidungu,kimaymüntañipüllelepan
 ñiakuaeltatiWentrukünuwpalu.
@@ -3040,7 +2981,6 @@ wesaüllüfaytatipukoylangünenchereke.Feymewtangümayaykakütrüray
 tañiforo.
 † 24:36Kiñekekuyfiwirinmewngelay:“tatiFotümnorume”.
 
---- page 62 ---
 Matew25:1 59 Matew25:16
 25
 Tatiadkünudungumariüllchakedomomew
@@ -3092,7 +3032,6 @@ kakechumoneda.
 *
 25:13Kiñekekuyfiwirinmewngelay:“ñiwiñometuaeltaNgünechenñiFotümtatiWentrukünuwpalu”.
 
---- page 63 ---
 Matew25:17 60 Matew25:35
 17Kafemngechifemitatillowluepumoneda,feywewikaepumoneda.
 18Welutatillowlukiñemoneda,feyamuytañirüngalafielñipülata.
@@ -3144,7 +3083,6 @@ tüfachimapu.
 iñche,elumunkoñipütokoael.Kapenoluñiumañtuamtaiñche,elumunñi
 umañtuaeltamünrukamew.
 
---- page 64 ---
 Matew25:36 61 Matew26:5
 36Nienolutakuwüniñche,feyeymünelumun.Kutranküleluiñche,ka
 witrankontumumen.Karselmewmüleluiñche,kaküpaymüntamün
@@ -3195,7 +3133,6 @@ KiñedomotukulelfiperfumetaJesus
 26:2Paskuakawiñantü: tatipujudiuñikawiñantütañitukulpangekemumchumngechiñi
 montulngenpüresukonalelutatipujudiuEgiptomapumew.
 
---- page 65 ---
 Matew26:6 62 Matew26:21
 6MülepuluJesustaBetaniawariamew,Simontañirukamew,tatileproso
 pikeel,
@@ -3246,7 +3183,6 @@ engün.
 ñi montulngen püresukonalekelu tati pu judiu Egipto mapu mew ka ñi dewmangeken kofke
 lefawrangenoludewtripatuluengüntaEgiptomapumew.
 
---- page 66 ---
 Matew26:22 63 Matew26:35
 22Feykisuengünrumeweñangkülewey,feymewkakekiñekeramtuy
 engün:
@@ -3296,7 +3232,6 @@ iñchefemlayan.
 Feykomtatipudisipulukafemngechifeypiengün.
 ‡ 26:28Kiñekekuyfiwirinmewngelay:“tatiweeldungu”. § 26:31Sakaria13.7.
 
---- page 67 ---
 Matew26:36 64 Matew26:52
 JesusngillatuytaGetsemanimew
 (Marku14.32-42;Luka22.39-46)
@@ -3347,7 +3282,6 @@ Feymewtatikakelufülkonpuy,feynüfiengüntaJesustañipüresuafiel.
 katrünentuñmafiñikiñepiluntatiWünenLongkoSaserdotetañikona.
 52Jesustafeypieyew:
 
---- page 68 ---
 Matew26:53 65 Matew26:66
 —Üchaftukutungetamiwaykichewtaminiekefimum.Komtati
 langümchekelutawaykimew,kafemngechilangümngeaytawaykimew.
@@ -3399,7 +3333,6 @@ rumeduamtuwelaiñtañifeypintukungeael.¡Eymünallküñmafimüntañi
 wesanotukafieltaNgünechenñidungunmew!
 66¿Chumngentufimünkay?
 
---- page 69 ---
 Matew26:67 66 Matew27:5
 Feykisuengünllowdunguy:
 —Feleytañilangümngeael.
@@ -3449,7 +3382,6 @@ Welukisuengüntallowdungueyew:
 5FeymewJudaütrüftukukünuputufitatipumonedatatingillatuweruka
 mew,feytripaykapültrükünuwi.
 
---- page 70 ---
 Matew27:6 67 Matew27:22
 6Tatipulongkolelutipusaserdotemewñimitufiengüntiyechipülataka
 feypiengün:“Tüfachipülatamewlangümfalfuiñkiñewentru,feyngelaytaiñ
@@ -3501,7 +3433,6 @@ Komllowdunguyengün:
 *
 27:10Sakaria11.12-13.
 
---- page 71 ---
 Matew27:23 68 Matew27:39
 23Pilatotafeypieyewengün:
 —Fey¿chemwesafemiamfe?
@@ -3553,7 +3484,6 @@ welepüle.
 ngelay: “femngechiñimupiaelñifeypikünueltipelonwentru: pewtuwiengüntañiwüdamkayafiel
 kisukeengüntañitakuwün”.
 
---- page 72 ---
 Matew27:40 69 Matew27:57
 40feypilenmew:
 —¡Eymi,tatifeypikelutamiteyfüafieltingillatuwerukatakülaantümew
@@ -3604,7 +3534,6 @@ tuwünche,kafeyentulelutaJesusmew.
 27:46 Salmo 22.1. 27:51 fütra kortina: püntülniefilu ti ellakonchi ngillatuwe tati doy
 ponwitulechingillatuwemew.
 
---- page 73 ---
 Matew27:58 70 Matew28:7
 58JosewütufitaPilatokafeypifiñielungetuaelJesustañikuerpu.
 FeymewPilatowerküyñiwülngetuaeltialwe.
@@ -3654,7 +3583,6 @@ feypikünuel.Pepafimuchewtañitukukünungefumum.
 amuaytaGalilea.Wünepuwaytaeymünmew.Tiyemewtapeafimün.’Fey
 tüfachidungutaiñcheniepentamufeypiwafiel.
 
---- page 74 ---
 Matew28:8 71 Matew28:20
 8Tatiepudomotarumematukeltripapatuyengutatirünganlolomew.
 Rumellükaley,welukarumeayüwküleyengu,feylefkülenküpatuyengutañi
@@ -3697,7 +3625,6 @@ Felepemay.†
 28:8Kiñekekuyfiwirinmewngelay: “Feyküpaletuluenguñikimelpatuafieltatipudisipulu”.
 † 28:20Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 75 ---
 Marku1:1 72 Marku1:10
 Marku
 Markutañiwirielchikümedungu
@@ -3746,7 +3673,6 @@ reke.
 LXX. 1:4uwemapumew:feytimapuchewngelayineynorume,Jordanlewfüñikonweantü
 püle.
 
---- page 76 ---
 Marku1:11 73 Marku1:22
 11Kakiñedungunallküngeywenumapumewfeypilu:“Eymitaiñcheñi
 piwkeyenFotüm,iñchetañimanelnieel.”
@@ -3797,7 +3723,6 @@ rume. 1:21sinagoga:kakekiñekelofchejudiutuwünngeluniekefuyñisinagogapingechir
 RumekümekimniefiluMoyseñileydungu,tatikechuwünewirielchilifruebrewdungumüngell.Rume
 yamfalwentrungeyengüntañirumekimfielmewtatileydungukatikakeluwimtun.
 
---- page 77 ---
 Marku1:23 74 Marku1:39
 23Feytatiwariamewmülechisinagogamewmülerkeykiñewentru
 konweküfülelu,feytüfeychiwentrutawirartufitaJesus:
@@ -3848,7 +3773,6 @@ Tremolngeytakiñewentrunielutaleprakutran
 † 1:32dewkonlutaantü:Tatipujudiukiñeantüpikefuyngündewkoniyümwülataantü,feydew
 rupayümtiürkütunantü(v.1.21),feykisuengünkallitutukefuyñiküdaw.
 
---- page 78 ---
 Marku1:40 75 Marku2:10
 40Kiñewentrunieluleprakutran‡fülkonpuytaJesusmew,feylukutulen
 feypifi:
@@ -3901,7 +3825,6 @@ ngürelekefuychañillmamüllmewkawilpatulekefuypelemew(feyfeltakiñeküpülruka)
 Wentrukünuwpalu:WentruñiFotümpinürke,kiñewichulechiüyñiüytungeaeltaJesustiWeChillka
 mew.
 
---- page 79 ---
 Marku2:11 76 Marku2:21
 Feymewfeypifitatilañmaleluñikuerpu:
 11—Eymitafeypipeeyu:witratungekanüngetamingütantu.Fey
@@ -3954,7 +3877,6 @@ wimtun. 2:18ayunalerkeyJuantañipudisipulu: tatiwimtuleluñiayunayael, feytati
 eluwnoluñiiyaeltañimupitunieaelñiinanieelchiwimtundungu.Tüfachiwimtunkuyfikepujudiu
 ñiwimtunürke.
 
---- page 80 ---
 Marku2:22 77 Marku3:6
 22Kafemngechitawepulkurumetukungekelaytalludkuerumew.Tati
 wepulkutapawkülkayafuytatilludkueru,feyngünayafuytatipulkukati
@@ -4005,7 +3927,6 @@ engüntaJesus.
 trawüluamengünkañikimeltungeamengün. † 3:6Erodetañikelluntukunieetewchipuche:
 kiñetrokiñjudiucheayüleluErodeñigobernadorküleael,welutiRomatuwchigobernadorno.
 
---- page 81 ---
 Marku3:7 78 Marku3:22
 Rumefentrenchetamüleyinaltutipichilafkenmew
 7Jesusamuytañipudisipuluengüninaltupichilafken,feyinaeyewta
@@ -4060,7 +3981,6 @@ dungu. 3:18Selote:feytüfatakiñewentrukoneltulelukiñetrokiñmalokachefemewayü
 weychayafieltatipuromachengüneniefilutatipujudiuIsraelmapumew. 3:22Belsebu:Satana
 pinürke,tatilongkolelutipuweküfümew.
 
---- page 82 ---
 Marku3:23 79 Marku4:4
 weküfümew,feytaelueyewpepiluwüntatüfachiwentrutañipepi
 wemünentuafieltatipuweküfü.”
@@ -4111,7 +4031,6 @@ nganael.
 üñüm,üpitufitifünketran.
 † 3:32Kiñekekuyfiwirinmewfeypiley“Tamiñuke,tamipupeñikalamngen...”
 
---- page 83 ---
 Marku4:5 80 Marku4:19
 5Kakiñekefünketranpachügnagikurantumew,chewtañinewe
 rüngenomumtamapu.Feychifünketranmüchaymütennoyüy,tatimapuam
@@ -4161,7 +4080,6 @@ kümedungu.‡
 * 4:9tatiayüluñiallkütuael,allkütupe:tatinielupilun,allküpepinürke. † 4:12Isaia6.9-10LXX.
 ‡ 4:19elukelafiñimüleaelpiwkemewtikümedungu:ñiwülaelfünpinürke.
 
---- page 84 ---
 Marku4:20 81 Marku4:34
 20Welutakiñekeleyallkükelutatiwerkendungu,feyengüntallowkefiti
 kümedungu,kawülkeyrumekümekosecha,kümemapumewnganelchifün
@@ -4212,7 +4130,6 @@ kimeltuelmew,weluwichukomkümekimeltukefiñipudisipulu.
 §
 4:23tatiayüluñiallkütuael,allkütupe:tatinielupilun,allküpepinürke.
 
---- page 85 ---
 Marku4:35 82 Marku5:11
 Jesustüngnagümfitatikürüfkatirewlafken
 (Matew8.23-27;Luka8.22-25)
@@ -4264,7 +4181,6 @@ trokiñmapumew.
 5:1Kiñekekuyfiwirinmewfeypiley“Gadara”;kakiñekewirinmewmüley“Gergesa”kam“Gerasa”.
 † 5:9Lekionrumefentrenweküfüpinürke.
 
---- page 86 ---
 Marku5:12 83 Marku5:28
 12feymewtatipuweküfüllellipueyew:
 —Werkümuiñtatipusañwemewkaelumuiñtaiñkonpuaelkisuengün
@@ -4314,7 +4230,6 @@ fülkontupufitaJesusfuripüle,feyidañmafitañitakuwün,
 tremolewetuan”pirkeyñirakiduam.
 ‡ 5:20Dekapolistrokiñmapu:kiñefütratrokiñmapunielumaripichikewaria.
 
---- page 87 ---
 Marku5:29 84 Marku6:2
 29Feychilelenmewmüten,tañiwütrulekechimollfüñkachütuy,fey
 kangentuwitañikuerpumewdewtañitremoletunñikutranmew.
@@ -4365,7 +4280,6 @@ kiñentrüramuytañipudisipuluengün.
 Tatitrawülechipuche,allkütuñmafiluñidunguntaJesus,rumeafmatulen
 ramtuwiengün:
 
---- page 88 ---
 Marku6:3 85 Marku6:14
 —¿Chewantaadümifentrendungutatüfa?¿Chewantaentuyfeychikimün
 katañipengelelchiafmanngechipepiluwün?
@@ -4416,7 +4330,6 @@ dungu. † 6:11mütrowaymüntamünnamunmewmülechitrufür:femngechifemkefuytatip
 pujudiuñiwimtun. 6:14Kiñekekuyfiwirinmewfeypiley:“Erodekaytafeypirkey”,welukakelu
 kuyfiwirinmewmüley:“feypingerkey”.
 
---- page 89 ---
 Marku6:15 86 Marku6:29
 15Kakiñekentufeypirkey:“FeytüfatatipelonwentruEliapingekelu.”*Ka
 kiñekentufeypirkey:“Kiñepelonwentrutati.Kuyfimewmülekechipupelon
@@ -4469,7 +4382,6 @@ Jesuselufiiyaeltakechuwarangkawentru
 6:15tatipelonwentruElia:kiñepelonwentrutipujudiuñiüngümkefeltatiküpayalukomdungu
 ñipepikapayaeltiMesiangealu.
 
---- page 90 ---
 Marku6:30 87 Marku6:46
 30Rupalukomtüfachidungu,tatipuapostoltrawüluwiJesusengün,fey
 nütramelpatufikomtañichumünengünkatañikimeltuel.
@@ -4522,7 +4434,6 @@ mewfeyñipuwaelengünBetsayda,weluJesuspetuchalimeketufitatipu
 che.
 46Feydewchalitufilutipuche,amuytawingkulmewñingillatumeael.
 
---- page 91 ---
 Marku6:47 88 Marku7:5
 47Feydewpunlu,tatifarkurangilafkenamulewiyerkey.Jesusamta
 kisulewelutatilelfünmew,
@@ -4574,7 +4485,6 @@ fütakecheemtañiwimtundungu?Podkülentañikuwüikeyengün.
 *
 7:4Kiñekekuyfiwirinmewngelay:“katingütantu”.
 
---- page 92 ---
 Marku7:6 89 Marku7:23
 6FeyJesustallowdungueyew:
 —FentekümemupituyñipielmewtatipelonwentruIsaiatamünkoyla
@@ -4626,7 +4536,6 @@ wesalkawkeytache.
 tipukopa,kafemngechimüngeltukefimünfentrenkakeluwimtundungu”. 7:10Exodo20.12;
 Deuteronomio5.16. * 7:10Exodo21.17. † 7:16Kiñekekuyfiwirinmewngelayversu16.
 
---- page 93 ---
 Marku7:24 90 Marku8:1
 KiñekatripanchedomofeyentuytaJesusmew
 (Matew15.21-28)
@@ -4676,7 +4585,6 @@ chenierkelayengünchemrumetañiiyael.FeymewJesusmütrümfitañipu
 disipulu,feyfeypifi:
 ‡ 7:24Kiñekekuyfiwirinmewngelay:“kaSidon”.
 
---- page 94 ---
 Marku8:2 91 Marku8:17
 2—Kutranduamyeniefiñtatüfachipuche.Külaantüdewmañimülepan
 engüntüfamew,feychemrumenielaytañiiyaelengün.
@@ -4728,7 +4636,6 @@ feypieyew:
 longkontukulaymünkangüneduamlaymüniñchetañifemelchidungu?¿Rüf
 dungumewantapetulongkontukulaymün?
 
---- page 95 ---
 Marku8:18 92 Marku8:31
 18¿Nieymünnge,welupelolaymün,kanieymünallküam,welu
 allkülaymün?¿Feytukulpalaymünam?
@@ -4779,7 +4686,6 @@ NgünechenñiFotüm,katañiillamtukayaetewtatipuputremfütakeche,‡tati
 mew”. † 8:29tatiCristopikeel:CristokamtatiMesia,tatipujudiuñiüngümnieelchiMontulchefe,
 Ngünechenñitukulpakünuel. ‡ 8:31putremfütakeche:tipujudiuñilongko,rumeyamfalkülelu.
 
---- page 96 ---
 Marku8:32 93 Marku9:7
 longkolelupusaserdotemewkatipukimeltukeluMoyseñileydungu.
 Feypifitañilangümngeael,weluñiwiñomongetuaelkülaantüalumew.
@@ -4829,7 +4735,6 @@ iñcheñisakinFotüm:allkütuñmafimüntakisumütenñidungun!”
 §
 8:34eluwkülepeñikutrankawaeliñchereke:meñkuñpürampetañiküruspinürke.
 
---- page 97 ---
 Marku9:8 94 Marku9:23
 8Feychilelenmewmüten,adkintuluengüntawallpüle,EliaMoyseengu
 pengewetulay.Jesuskisulewetuy.
@@ -4882,7 +4787,6 @@ taiñchiñkakellumuiñ.
 23FeyJesustafeypifitingenfotüm:
 —¿Chumngechiampepilfulmipimi?¡Kompepilfalitatifeyentulumew!
 
---- page 98 ---
 Marku9:24 95 Marku9:38
 24Feymewtatipichiwentruñichawwirari:
 —Iñchetafeyentun.¡Kelluentañidoyfeyentuael!
@@ -4934,7 +4838,6 @@ feymiyawkenoluamiñchiñmew,feymewkatrütufiyiñ.
 *
 9:29Kiñekekuyfiwirinmewngelay:“kaayuno”.
 
---- page 99 ---
 Marku9:39 96 Marku10:4
 39FeymewJesustallowdungufiñipudisipulu:
 —Katrütukefilmün.Ineyrumepengel-lekiñeafmatufalpepiluwüniñche
@@ -4985,7 +4888,6 @@ engün,feyramtufiengün:
 §
 46. 9:49Kiñekekuyfiwirinmewfeypiley:“Kakomchalintukuelchiilochadiñmangeay”.
 
---- page 100 ---
 Marku10:5 97 Marku10:20
 —Moysewülitiwerkündungutañiwüdangeaeltakurefeyñielungeaelta
 kiñewirindungutañidewwüdangen.
@@ -5035,7 +4937,6 @@ ngünenkakilngerume,kayamafimitamichawkatamiñuke.’§
 * 10:6Genesis1.27LXX. † 10:7Kiñekekuyfiwirinmewngelay:“tañiwichuamayewaelñikure
 engu”. ‡ 10:8Genesis2.24LXX. § 10:19Exodo20.12-16;Deuteronomio5.16-20.
 
---- page 101 ---
 Marku10:21 98 Marku10:33
 —Kimeltufe,komtüfeychidungutafemkenwechewentrungelumütenta
 iñche.
@@ -5087,7 +4988,6 @@ langümngeaelkachalintukungeaytatipukatripanchemew.
 ngelay:“feytipuchemaneluwluñifentrenchemkünmew”. ‡ 10:29Kiñekekuyfiwirinmewngelay:
 “kamdomo”.
 
---- page 102 ---
 Marku10:34 99 Marku10:47
 34Ayentukangeaytakisu,tofkütukangeaykawülelkangeaykalangümngeay.
 Welukülaantürupale,wiñomongetuay.”
@@ -5141,7 +5041,6 @@ tifawtismoiñchetañillowael? pinürke. 10:39Eymukutrankawaymukalangümngeaymu
 chumngechiñirupayaeltaiñchefeychidungumew:Eymutapepiputuaymutatifürepulku,ka
 llowaymutatifawtisangeniñchetañillowaelpinürke.
 
---- page 103 ---
 Marku10:48 100 Marku11:10
 —¡Jesus,DavidmewtripachiDullinYomelche,†kutranduamyeentaiñche!
 48Fentrenchetafeypieyewtañiñüküfküleael,welukisutadoywirari:
@@ -5193,7 +5092,6 @@ emñituwünche!
 *
 tukulpakünuelchiMontulchefeDavidñiyomelcheñitripayael. 11:10Salmo118.25-26.
 
---- page 104 ---
 Marku11:11 101 Marku11:23
 11FeykonpuluJesustaJerusalenmew,üngküamuytatingillatuweruka
 mew.Wallpüleadkintupuy,weludewputrafiarkeluamfeymewmüten
@@ -5243,7 +5141,6 @@ trokiñmapumewñiküpalnieelchipülatamewpepikullikelafuyimpuestukapepingillakel
 norumeñilangümngeael.Feymewtipuchefelefuyñitrafkintuaelñipülatañillowngekeelchipülata
 ngillatuwerukamew. ‡ 11:17Isaia56.7.
 
---- page 105 ---
 Marku11:24 102 Marku12:3
 feyentunonmew,femlayay,welufeyentuleleñirüffeleaeltañifeypiel,
 feymewketafemaytañipiel.
@@ -5294,7 +5191,6 @@ chemnorume.
 §
 11:26Kiñekekuyfiwirinmewngelayversu26.
 
---- page 106 ---
 Marku12:4 103 Marku12:17
 4Feymewtatingenngeluwerküykakiñekona,welutatüfa
 wedokañmangeytañilongkokafillwesakapingey.
@@ -5345,7 +5241,6 @@ FemngechiñillowdunguelmewtaJesus,rumeñmaafmatuleweyengün.
 *
 12:11Salmo118.22-23.
 
---- page 107 ---
 Marku12:18 104 Marku12:31
 Tiramtuntawiñomongetundungumew
 (Matew22.23-33;Luka20.27-40)
@@ -5397,7 +5292,6 @@ wünelechikechulifrumüleluKuyfiChillkamew. ‡ 12:19Deuteronomio25.5. § 12:23K
 wirinmewngelay:“feychimongeletuleengün”. * 12:26Exodo3.6 † 12:30Deuteronomio6.4-5.
 ‡ 12:31Levitiko19.18.
 
---- page 108 ---
 Marku12:32 105 Marku12:43
 32FeytikimeltukeluMoyseñileydungufeypieyew:
 —Rumekümeytati,kimeltufe.Rüfngeytamipiel:Kiñeleymütenta
@@ -5447,7 +5341,6 @@ komtikakelupuchemewchewñitukungekemumtapülata.
 § *
 12:33Deuteronomio6.4-5;Deuteronomio4.35;Levitiko19.18. 12:36Salmo110.1LXX.
 
---- page 109 ---
 Marku12:44 106 Marku13:13
 44Feykomkakeluwülkeyengüntañisofrantunieelchipülata,weluti
 domo,pofrengefuyrume,wülikomñiniefeltañimongeluwam.
@@ -5497,7 +5390,6 @@ langümafiengün.
 welutatipuchetuntepuleñimongenyafüluwünmewinanieelimew,fey
 engüntamontuay.
 
---- page 110 ---
 Marku13:14 107 Marku13:31
 Tatimüleachikutrankangen
 (Matew24.15-28;Luka21.20-24)
@@ -5549,7 +5441,6 @@ mupiael.
 *
 13:14Kiñekekuyfiwirinmewngelay:“tatipelonwentruDanielñiwirielchi”.
 
---- page 111 ---
 Marku13:32 108 Marku14:7
 KimniengelaytuntenmewñiwiñometuaeltatiWentrukünuwpalu
 (Matew24.36-44)
@@ -5599,7 +5490,6 @@ mew.
 kawiñantütañitukulpangekemumchumngechiñimontulngenpüresukonalekelutatipujudiuEgipto
 mapumew. † 14:3nardo:tatiaseytenentukeelkiñefolilanümkamüleluIndiatrokiñmapumew.
 
---- page 112 ---
 Marku14:8 109 Marku14:22
 8Feytüfachidomotafemitañipepifemel:kisutatukulelenewperfume‡
 petutañirüngalngenontaiñche.
@@ -5651,7 +5541,6 @@ feypilenmew:
 —Ifimün,feytüfataiñcheñikuerputati.
 ‡ 14:8tukulelenewperfume:tatipujudiuwimtulerkefuyñitukulelafielperfumetila.
 
---- page 113 ---
 Marku14:23 110 Marku14:37
 23Kafeymewmütennüfikiñekopa.FeyrupanmañumtufilutaNgünechen,
 eluyefitañipudisipulu,feykomputuyengün.
@@ -5702,7 +5591,6 @@ tañiumawkülenengün.FeypifitaPedro:
 kuyfiwirinmewngelay:“epurupachimew”. ‡ 14:36tüfachifütrakutrankawünmew:fürepulku
 pinürke.
 
---- page 114 ---
 Marku14:38 111 Marku14:55
 38Trepewkülemünkangillatulemüntamünfamtukungenoaeltawesake
 dungumew.Eymüntapilefuymüntamünfemaelkümekedungu,welu
@@ -5753,7 +5641,6 @@ engüntangillatuwerukamew,feyeñumtuleytainaltukütral.
 kintukadungulelfiengüntaJesusñikondenayafielkañilangümafiel,weluta
 perkelayengünchemkoyladungurumeñiwitrantulelafiel.
 
---- page 115 ---
 Marku14:56 112 Marku14:70
 56Rumefentrenchetapuwürkeytañidalluntukuafielrekoylakedungu
 mewtaJesus,welukakerumeyñidunguengün,feymewchaflayñi
@@ -5805,7 +5692,6 @@ müleyelutüfeymewkawiñomefeypifiengüntaPedro:
 §
 14:68Kiñekekuyfiwirinmewngelay:“Feymewkakaraykiñealka”.
 
---- page 116 ---
 Marku14:71 113 Marku15:13
 —RüfngeyeymitaJesusñikompañ,kafemngechiGalileatuwüncheta
 eymi.Katamidungunkütufemngerumeykisureke.*
@@ -5856,7 +5742,6 @@ femngechiñifeypiaelengüntañilifrenentungetuaeltaBarabas.
 * 14:70Kiñekekuyfiwirinmewngelay:“Katamidungunkütufemngerumeykisureke”. † 14:72
 Kiñekekuyfiwirinmewngelay:“epuchikakaranon”.
 
---- page 117 ---
 Marku15:14 114 Marku15:30
 14FeyPilatotafeypieyewengün:
 —Fey¿chemwesadungufemürkeyamfe?
@@ -5907,7 +5792,6 @@ wiñomedewmatukefilu,
 *
 15:28Kiñekekuyfiwirinmewngelayversu28.
 
---- page 118 ---
 Marku15:31 115 Marku15:46
 31KafemngechiayentukaeyewtaJesustipulongkolelutatipusaserdote
 mewkatipukimeltukeluMoyseñileydungu.Feypiengün:
@@ -5959,7 +5843,6 @@ kuerpu,feyiwüdüfitatisafanamew.Feymewmütenyefikatukupufikiñe
 §
 ulechingillatuwemew. 15:39Kiñekekuyfiwirinmewngelay:“allküluñiwirarünka”.
 
---- page 119 ---
 Marku15:47 116 Marku16:13
 rünganlolomewwengaleluchengkekuramewkatakukünufitikonwekiñe
 fütrakuramew.
@@ -6010,7 +5893,6 @@ Jesustañiyefaldungufieltañipuapostol
 *
 16:9Tatidoykümekekuyfiwirinmewngelaytatipuversu16.9-20.
 
---- page 120 ---
 Marku16:14 117 Marku16:20
 14Feywüla,Jesuspewfaluwfitatimarikiñepudisipulu,anüleluengün
 mesamew.Lladkütudungufitañikümefeyentunonmewkatañi
@@ -6038,7 +5920,6 @@ afmanngechidungu.
 Felepemay.†
 † 16:20Kiñekekuyfiwirinmewngelay:“Felepemay.”
 
---- page 121 ---
 Luka1:1 118 Luka1:13
 Luka
 Lukatañiwirielchikümedungu
@@ -6087,7 +5968,6 @@ ngillatuweñimanadpülechewlüpümngekeytiinsienso.
 —Sakaria,llükakilnge.Ngünechentaallküñmaeymewtamingillatun,fey
 tamikureIsabelnieaykiñewentrupüñeñ,feyñiüyJuanpintukulelafimi.
 
---- page 122 ---
 Luka1:14 119 Luka1:30
 14Eymitarumeayüwaymi,feykafemngechitikakelupucherume
 ayüwaytipichicheñichoyüngenmew,
@@ -6138,7 +6018,6 @@ feykisuturamtuwiñichempifelcheytichalindungu.
 *
 1:28Kiñekekuyfiwirinmewngelay:“Rumepoyefaldomotaeymikakelupudomomew.”
 
---- page 123 ---
 Luka1:31 120 Luka1:51
 —Maria,llükakilnge.EymitarumefütraayüwünnieaymiNgünechentami
 füreneetewmew.
@@ -6189,7 +6068,6 @@ tati¡trürümfalnochikümeüynielu!
 50Ngünechenrumelkutranpiwkeyekefitüfeychipuchetañiyamnieetew.
 51Afmatufaldungufemikomñipepiluwünmew.
 
---- page 124 ---
 Luka1:52 121 Luka1:73
 Elulafiñifemaelñiadkünuelchidungutatipumallmangelu.
 52Müntuñmafitipulongkoülmenñinieelchipepiluwün,
@@ -6240,7 +6118,6 @@ kañingüyünentunoafielñinorkümeeldungu.
 73FeytüfaürketañikuyalltudungulelfieltaAbraamiñchiñtaiñwünenchaw
 em:
 
---- page 125 ---
 Luka1:74 122 Luka2:10
 74kisutaiñÑidolmontulürkeaetewiñchiñtaiñpukayñemew,
 femngechitaiñpoyeafieltaÑidolfeytaiñllükanonrume.
@@ -6291,7 +6168,6 @@ pepiluwünalofürkeykisuengünñiwallpüle,feyrumellükarkeyngün.
 feypiwayiñkiñekümedungu,feytüfarumefütraayüwünngeaytakomche
 mew.
 
---- page 126 ---
 Luka2:11 123 Luka2:28
 11TüfachipuntachoyüngeyDavidñiwariamewkiñeMontulchefe,feyti
 Cristo,tatiÑidolngealu.
@@ -6342,7 +6218,6 @@ rukamewfemngechiñimupituaelchumngechiñifeypilentileydungu.
 feypilenmew:
 * 2:23Exodo13.2,12. † 2:24Levitiko12.8.
 
---- page 127 ---
 Luka2:29 124 Luka2:46
 29“Ñidol,fewlamupiytamitukulpaelchidungu.
 Adkünuafimimaytamikonañilayaelkümetüngünmew,
@@ -6392,7 +6267,6 @@ kintumetuafiel.
 rangitipukimeltukeluMoyseñileydungu,allkütuñmaniengeyñichem
 pimekenkaramtukaniengey.
 
---- page 128 ---
 Luka2:47 125 Luka3:8
 47Feykomtüfeychipucheallkütuñmanieetewñidungun,rume
 afmatuleweyengünñirumekimünmewkakisuñifentekümellowdungun
@@ -6443,7 +6317,6 @@ NgünechentüfachipukurafemkünuafuyAbraamñiyomelchengeael.
 *
 3:5-6Isaia40.3-5.
 
---- page 129 ---
 Luka3:9 126 Luka3:23
 9Chumngechitatokipuwküleyñifolilkatrünentuafielkiñeanümka,ka
 femngechipuwküleytaNgünechenñiramtukadungucheael,feychemche
@@ -6495,7 +6368,6 @@ Jesucristotañikuyfituwünche
 Joseñifotümtrokiniengekerkefuy.
 JoseEliemñifotümürkefel,
 
---- page 130 ---
 Luka3:24 127 Luka4:1
 24feykafemngechiMatatemñifotümürkefel,
 kaLeviemñifotümürkefel,kaMelkiemñifotümürkefel,
@@ -6549,7 +6421,6 @@ Jesustakintukaduamngey
 1JesusngünenieetewtiLifKümePüllü,wiñopaytiJordanlewfümew,fey
 NgünechenñiLifKümePüllüñipepiluwünmewpuwitiuwemapumew.
 
---- page 131 ---
 Luka4:2 128 Luka4:17
 2Üyewmülepuymelimariantü,feytiweküfükintukaduameyew.Chem
 iyaelrumeirkelayfeychirupayechiantümew,feyrupalutimelimariantü
@@ -6600,7 +6471,6 @@ Ngünechenñidungumew.” ‡ 4:8Deuteronomio6.13. § 4:11Salmo91.11-12. * 4:12
 Deuteronomio6.16. † 4:15sinagoga:Kakekiñekelofchejudiutuwünngeluniekefuyñisinagoga
 pingechirukañitrawüluamengünkañikimeltungeamengün.
 
---- page 132 ---
 Luka4:18 129 Luka4:34
 18“ÑidoltañiLifKümePüllümüleyiñchemew.
 Kisutadullienewtañiwewpilelafieltatiwekimelündungutatipuñom
@@ -6652,7 +6522,6 @@ tuwlu?¿Wütumupaiñtaiñapümkamupayafiel?Iñchetakimnieeyu,ka
 kimnieneymitaNgünechentañilifkümeDullinngen.
 ‡ 4:19Isaia61.1-2.
 
---- page 133 ---
 Luka4:35 130 Luka5:1
 35FeymewJesuskatrütudungufitiyechiweküfüfeypilenmew:
 —¡Dungukilngekaelkünutufingetatüfeychiwentru!
@@ -6702,7 +6571,6 @@ engünamtañiallkütuaelNgünechentañiwerkendungu.
 4:44Kiñekekuyfiwirinmewfeypiley:“Judeamüleyechisinagogamew.” 5:1tipichilafken
 Genesaret:tatiGalileapingechilafkenñikangeluüy,fülküleluamGenesaretpingechilürmapumew.
 
---- page 134 ---
 Luka5:2 131 Luka5:16
 2Kiñekechallwafeelkünurkeyepufarkuinaltuayliñmew,feymew
 wellilerkeytiepufarku,feytipuchallwafeamamurkeluñiküchametuaelñi
@@ -6753,7 +6621,6 @@ tremoltuafieltipukutran.
 16WeluJesuspüntütripakefuyñingillatuaeltilelfünpülechewngelaykiñe
 rukachenorume.
 
---- page 135 ---
 Luka5:17 132 Luka5:29
 Jesustremolfikiñewentrulañmaleluñikuerpu
 (Matew9.1-8;Marku2.1-12)
@@ -6805,7 +6672,6 @@ mew.
 † 5:17farisew:kiñetrokiñjudiuchemüngeltuniekefiluMoysetañileydungu,kafemngechitatikakelu
 wimtun.
 
---- page 136 ---
 Luka5:30 133 Luka6:5
 30WelutipufarisewkatipukimeltukeluMoyseñileydungukiñewküley
 engüntañifillpiafieltaJesusñipudisipulu.Feymewkisuengünfeypifitati
@@ -6857,7 +6723,6 @@ tañichalintukulelngeel,feyirkefikaeluyefiñipukompañ.Welutüfachi
 kofkepusaserdotemütenfelerkefuytañiiyafel.
 5Feymewkafeypi:
 
---- page 137 ---
 Luka6:6 134 Luka6:17
 —TiWentrukünuwpaluÑidolküleytatiürkütunantümew.
 Tatiwentrulañmaleluñikuwü
@@ -6910,7 +6775,6 @@ tañiinayawülkeetewkarumefentrenchetuwluJudeatrokiñmapu,
 dungu. † 6:15Selote:feytüfatakiñewentrukoneltulelukiñetrokiñmalokachefemewayülelu
 ñiweychayafieltatipuromachengüneniefilutatipujudiuIsraelmapumew.
 
---- page 138 ---
 Luka6:18 135 Luka6:34
 JerusalenkatipulafkenchewariaTirokaSidon.Akurkeyengüntañi
 allkütuñmayafieltaJesusñikimeltunkatañitremolngetuaelengünñi
@@ -6962,7 +6826,6 @@ Tatipuyafkafekafemngechikelluwkeyengün.
 müten,¿chemkümedunguamtati?Kafemngechitatipuyafkafewelukonke
 areluwkeyngün,femngechitañiwiñoleltuaelñiaretuel.
 
---- page 139 ---
 Luka6:35 136 Luka6:47
 35Eymünmüleytamünpiwkeyeafieltamünpukayñe,kamüleytamün
 femaelkümekedungu,katamünarengülümael,welutamün
@@ -7013,7 +6876,6 @@ femkelaymüniñchetañiayüelchidungu?
 47Feytüfanütrameluwayiñineymewtañiinayentulenkiñechefeyentulu
 iñchemew,tañiallkütuñmaetewkafemkeluiñcheñiayüelchidungu:
 
---- page 140 ---
 Luka6:48 137 Luka7:13
 48Feytachiwentrurekefeley,feydewmayaluñiruka,wünerüngaywente
 chapukura,feymewanümiñiruka.Feymangilutilewfü,rumenewentu
@@ -7062,7 +6924,6 @@ Kompañnieeyewrumefentrenchemülelutiwariamew.
 13FeyÑidol,pefilutidomo,kutranpiwkeyefikafeypifi:
 —Ngümakilnge.
 
---- page 141 ---
 Luka7:14 138 Luka7:28
 14Feymewmütenfülkonpuy,kanüfiñikuwümewtillangiñi
 yeniengemumtialwe.Feytipucheñiyenieetew,witrakünuwiengün.Fey
@@ -7114,7 +6975,6 @@ koneltuleluNgünechenñiülmenmülewemew,doywünenküleytaJuanmew.”
 *
 7:27Malakia3.1.
 
---- page 142 ---
 Luka7:29 139 Luka7:44
 29KomtüfeychipucheallkütufilutaJuan,kenütipukofrakelutaimpuestu
 RomangealukütufawtisaeyewtaJuan,ngüneduamluengünamJuanñi
@@ -7166,7 +7026,6 @@ FeyJesusfeypifitaSimon:
 —¿Ngüneduamfimiñichumüntüfachidomo?Tayikonpapentamiruka
 mew,feyelulaenkotañiküchayaelñinamun,welufeytachidomo
 
---- page 143 ---
 Luka7:45 140 Luka8:8
 küchuñmaenewñinamunkisuñiküllemew,feykapiwümüñmatuenewkisu
 ñitünaylongkomew.
@@ -7216,7 +7075,6 @@ ChumngeluamkimeltukeyJesustatiadkünudungumew
 kiñewitrantukulelkefuyolifuaseyteñiangemewkalongkomew,feyñiküchatripayamtitrufürti
 longkomewñitrekalepaelchitrufürngechirüpümew.
 
---- page 144 ---
 Luka8:9 141 Luka8:21
 9FeytipudisipuluramtufingüntaJesusñichempifeltüfeychiadkünu
 dungu.
@@ -7269,7 +7127,6 @@ peaetew.
 *
 8:10Isaia6.9.
 
---- page 145 ---
 Luka8:22 142 Luka8:32
 Jesustüngnagümfitikürüfkatirewlafken
 (Matew8.23-27;Marku4.35-41)
@@ -7320,7 +7177,6 @@ konpuael.
 † 8:26Kiñekekuyfiwirinmewfeypiley“Gadara”,kakiñekewirinmewmüley“Gerasa”kam“Gergesa”.
 ‡ 8:30Lekionfentrenweküfüpinürke.
 
---- page 146 ---
 Luka8:33 143 Luka8:46
 33Feytipuweküfütripatuytiwentrumew,feykonpuyngüntipusañwe
 mew,feytüfaengünlefnagitiküllegpülekaütrüftukuwpuyngüntipichi
@@ -7372,7 +7228,6 @@ feypi:
 8:43 Kiñeke kuyfi wirin mew ngelay: “femngechi pünerkey kom ñi niekefelchi chemkün tañi
 kulliafieltipulawentuchekelu.”
 
---- page 147 ---
 Luka8:47 144 Luka9:6
 47Feytidomo,ngüneduamluñipepillumumanonñifemelchidungu,
 müllmüllkülenamuyñilukutuaelJesusñiinafülpüle.Feyküme
@@ -7423,7 +7278,6 @@ mongelfingüntipukutran.
 Erodetanewefeyentulay
 (Matew14.1-12;Marku6.14-29)
 
---- page 148 ---
 Luka9:7 145 Luka9:20
 7TatilongkoülmenErodeallküyñinütramyengentaJesuskakomñi
 femelchidungu.FeyErodekimlayñichemchumael,kiñekecheamfeypilu
@@ -7475,7 +7329,6 @@ wentrungen,tatiwiñomongetulu.
 20—Eymünkay,¿ineypimukenantaiñche?―ramtuytakisu.
 FeymewllowdungueyewPedro:
 
---- page 149 ---
 Luka9:21 146 Luka9:36
 —EymitaNgünechenñiCristo.
 Jesusnütramkaytañilayael
@@ -7526,7 +7379,6 @@ engün.
 36Feychilelenmewallküngelutidungun,Jesuskisulewetuy.Welutiküla
 disipulufeypirkelafiineynorumetüfachidungutañipeelengün.
 
---- page 150 ---
 Luka9:37 147 Luka9:50
 Jesustremolürkefikiñewechewentrukonweküfülelu
 (Matew17.14-18;Marku9.14-27)
@@ -7577,7 +7429,6 @@ Taiñkayñetrokinoetew,feytakelluntukuleyiñchiñmew
 kelluleytati.
 DuamkünungelaytaJesusSamariañikiñewariamew
 
---- page 151 ---
 Luka9:51 148 Luka10:2
 51PetufülpaludewmatatiantüJesustañiamutuaeltawenumapu,
 yafüluwiñiamuaeltaJerusalen.
@@ -7628,7 +7479,6 @@ mewngelay:“Eymünkimlaymünchemtamünpimeken.TatiWentrukünuwpaluküpalaytatip
 ñiapümafiel,welumayñimontulafiel.” 10:1Kiñekekuyfiwirinmewfeypiley: “reglemari
 disipulu”.
 
---- page 152 ---
 Luka10:3 149 Luka10:19
 femngechiwerküaydoyfentrenküdawfetañikimeltuafieltipucheti
 werkendungu.
@@ -7679,7 +7529,6 @@ ayüwkülenwiñomeyngün.FeyfeypipatufiengüntaJesus:
 ilolafemew,katamünwewafielkomkayñeñinewen,welu
 allfül-layaeymünmewrume.
 
---- page 153 ---
 Luka10:20 150 Luka10:32
 20Weluayüwkilmüntamünmüngeltuetewtipuweküfü,welumayta
 ayüwaymüntüfachidungumew:ñidewwirintukulentamünüytawenu
@@ -7729,7 +7578,6 @@ pülerumey,feyamuyñirüpütulen.
 † 10:27Deuteronomio6.5. ‡ 10:27Levitiko19.18. § 10:32kiñeLeviñituwünche:tatikoneltulelu
 Leviñitrokiñreñmachemew,nierkefuytiküdawñikelluaeltingillatuwerukamew.
 
---- page 154 ---
 Luka10:33 151 Luka11:3
 33WelukiñeillamfalwentruSamariatuwlukafemngechiamulerkey
 feytichirüpümew.Feypefilu,rumekutranpiwkeyefitiallfükalechiwentru,
@@ -7781,7 +7629,6 @@ kafemngechimüngeltunmülepetüfachimapumew.*
 pünengekefuy ñi liftuam ti allfen. 11:2 Kiñeke kuyfi wirin mew ngelay: “Chumngechi
 müngeltuniengeymiwenumapukafemngechimüngeltunmülepetüfachimapumew”.
 
---- page 155 ---
 Luka11:4 152 Luka11:18
 4Wiñoduamamuiñtaiñyafkanmew
 chumngechiiñchiñwiñoduamakefiyiñkomtüfeyengüntaiñwesa
@@ -7832,7 +7679,6 @@ weküfüBelsebuñingüneluwünmew.
 † 11:4Kiñekekuyfiwirinmewngelay: “kamontulniemuiñkomwesakedungumew”. ‡ 11:11
 Kiñekekuyfiwirinmewngelay:“elupeafuymayñifotümkiñekura,eluenkofkepieliyew?¿Ka”.
 
---- page 156 ---
 Luka11:19 153 Luka11:32
 19Welutüfafeyngele,¿ineyamelukeeyewpepiluwüntatipuchetamün
 inakeetewfemngechitañiwemünentuafieltatipuweküfü?Feymew,kisu
@@ -7884,7 +7730,6 @@ mülepan,doyfütrakimünnientaSalomonmew.
 32KafemngechitaNinifepuchepuwletañiwüldungaelengüntati
 afaelchiantümew,kondenayafifantepumülechipuche,feyNinifepuche
 
---- page 157 ---
 Luka11:33 154 Luka11:46
 amwiñoduamtuluengüntaNgünechenmewfeychiallküluengünJonañi
 wewpielchidungu.Feytüfamewmülepantaiñche,feydoywünenkülenta
@@ -7934,7 +7779,6 @@ dungu:
 —Kimeltufe,feytamifeypinmewiñchiñpiñmaltukamupeiñmay.
 46WeluJesusllowdungufitiwentrukimeltukeluMoyseñileydungu:
 
---- page 158 ---
 Luka11:47 155 Luka12:5
 —¡Awngeymüntaeymün,kimeltukelutaMoyseñileydungu!Tikakeluche
 meñkukünulkefimünrekefentrenwimtundungu,ineyrumetañipepilnoel,
@@ -7984,7 +7828,6 @@ chumafel.
 müntuñmafiluñimongentachekanieypepiluwüntañitukuafieltakütral
 mapumew.Feymaytallükakeafimün.
 
---- page 159 ---
 Luka12:6 156 Luka12:21
 6“¿Fendengekelayantakechupichikeüñümepupichikemonedamew?
 Welufemngellefulerume,tüfachipichikeüñümkiñenorume
@@ -8034,7 +7877,6 @@ chemkünkisungealumüten,welupofrengeytaNgünechenmew.”
 Ngünechenkisukünukelafiñipuyall
 (Matew6.25-34)
 
---- page 160 ---
 Luka12:22 157 Luka12:39
 22FeymewJesuskafeypifiñipudisipulu:“Tüfachidungufeypiwayiñ:fill
 rakiduamkülekilmünchumngechitamüniyaelkachemtamün
@@ -8088,7 +7930,6 @@ weñengeael.
 12:25 Ka müleafuy kangelu rulpadungun: ¿Iney am rume fill rakiduamkülele, ka pichin
 tremümpeafuymayñikuerpukiñerangiñmetrorewall?
 
---- page 161 ---
 Luka12:40 158 Luka12:55
 40Eymünkafeypewütuwküleaymün,feytiWentrukünuwpaluküpayaytiora
 mewtamündoyüngümnienofielmew.”
@@ -8138,7 +7979,6 @@ konweantüpüle,‘mawünaytati’pikeymün,feyfemkey.
 55Kafemngechiwaywenkürüfiyüm,‘kümengetuay’pikeymün,fey
 femngechifemkey.
 
---- page 162 ---
 Luka12:56 159 Luka13:11
 56¡Koylangünenche!Eymünkümekimnieymüntamünngüneduamafielñi
 chumlekentatikallfüwenukanagmapu.¿Feychumngeluam
@@ -8188,7 +8028,6 @@ sinagogamew.
 11Mülerkeytüyemewkiñedomokutrankülelumaripuratripantudewma.
 Kiñeweküfüpotrongelnierkeeyew,feypepikümenorümkerkelayñikuerpu.
 
---- page 163 ---
 Luka13:12 160 Luka13:28
 12FeymewJesuspefilutidomo,mütrümfikafeypifi:
 —Papay,dewlifretuymitamikutranmew.
@@ -8239,7 +8078,6 @@ kutrankawün,feypeafimüntaAbraam,Isaak,Jakobkakomtipupelon
 wentrumüleluNgünechenñiülmenmülewemew,welueymün
 wemütripaleaymün.
 
---- page 164 ---
 Luka13:29 161 Luka14:7
 29Femngechitaküpayaytatipuchepikumadpüle,waywenpüle,tripawe
 antüpülekakonweantüpüleñianüpayaeltañiiyaelengünNgünechenñi
@@ -8288,7 +8126,6 @@ ngülamfi:
 *
 13:35Salmo118.26.
 
---- page 165 ---
 Luka14:8 162 Luka14:23
 8—Ineyrumemangelelmewkiñekawiñmafüwünmew,
 anükünuwkelayaymidoykümewangkumew,feyakulerumekangelu
@@ -8340,7 +8177,6 @@ werküfielchidungu,welupetuapolaytiruka.’
 tatipuchemew,feyamungetipurüpüpüle,feyaporiafingetipuchetañi
 konpayaelengün,femngechifentrenchemüleaytañirukamew.
 
---- page 166 ---
 Luka14:24 163 Luka15:5
 24Iñchetafeypiwayiñkiñenorumetüyechipuchetañiwünemangelfel,
 konpalayaytañiipayaeliñcheñirukamew.’
@@ -8391,7 +8227,6 @@ dunguyemekefiengüntaJesusñientuüñfilfielfeypilenmew:
 Feypetufilewüla,norduamküleweay.
 5Feydewpetufile,fenteñiayüwünmeñkupüramafiñillangkaforomew.
 
---- page 167 ---
 Luka15:6 164 Luka15:24
 6Feyakutuleñirukamew,trawülayñipuwenikañipukarukatu,fey
 feypiafi:‘Kiñentrürayüwayiñ,dewpetuntañiñamümkefelchiufisa.’
@@ -8442,7 +8277,6 @@ kuwümewkaokotañinamunmew.
 24Tüfaiñcheñifotümtati,lakefuyrekekawiñomongetuy.Ñamkefuytati,ka
 petufiyiñ!’Feyeluwiengünñinieaeltakawiñ.
 
---- page 168 ---
 Luka15:25 165 Luka16:9
 25“Feytifütacheñiwünenfotümmiyawürkeylelfünmew.Feywiñomelu,
 akutuyinafülruka,feyallküytimusikakatipurun.
@@ -8494,7 +8328,6 @@ puchepelonñifotümpingekelufemkelayengün.’
 mapumewfemngechitamünwewaeltaweni,feydewafletifentren
 chemkün,müleayineytamünllowaetewtaeymüntirumelmülewemew.
 
---- page 169 ---
 Luka16:10 166 Luka16:23
 10“Kafeypiwayiñ,tatimanelngelutuntepichinngeayrume,ka
 femngechimanelngeaytifentrelelumew,tatinienoluyamüntipichinmew
@@ -8544,7 +8377,6 @@ rüngalngelu,eluwünmangey.
 lalu,feypürakintuy,feymewperkefialükamaputaAbraam,kaLasaruengu
 mülelutüyemew.
 
---- page 170 ---
 Luka16:24 167 Luka17:7
 24Feymewwirarüy:‘¡ChachayAbraam,kutranpiwkeyeentaiñche!
 WerküfingetaLasaru.Küchukünupeñiwechuñchangüllkuwükomew,fey
@@ -8594,7 +8426,6 @@ Chumngechiñipoyecheaeltakiñekona
 7“Feyfeypiwayiñkangeluadkünudungu:Kiñechenierkeykiñekona,fey
 tüfachikonawiñomelelelfünmew,dewketramapumelekamdew
 
---- page 171 ---
 Luka17:8 168 Luka17:23
 kamañufisalerume,¿feyfeypingepeafuymay:‘Konpangefawpüle.
 Anüpangetamiipayael?’
@@ -8642,7 +8473,6 @@ tatiWentrukünuwpalu,welupelayafimün.
 23Kiñekefeypiayngün:‘Fawmüley’kam‘tüyeñimülen’,weluamukilmün
 kainakefilmünrume.
 
---- page 172 ---
 Luka17:24 169 Luka18:4
 24Chumngechitakiñellüfkeñwilüfiyümpelontukeykiñepületawenu
 mew,feykaalofpukeykañpüle,femngechitafemayfeychiantü*
@@ -8692,7 +8522,6 @@ tapuche.
 * 17:24Kiñekekuyfiwirinmewngelay:“feychiantü”. † 17:36Kiñekekuyfiwirinmewngelayversu
 36.
 
---- page 173 ---
 Luka18:5 170 Luka18:19
 5Welufemkellefulirume,tüfachilantudomofillantüreke
 küpatumekekeenew,iñchetaingkayafiñ,feytañiküpatumekenoaetewkatañi
@@ -8743,7 +8572,6 @@ KiñerikuwentrupetudunguluJesusengu
 —¿ChumngeluantaLifmongenkimeltufepien?Tilifmongenngelukiñeley
 müten:Ngünechentatey.
 
---- page 174 ---
 Luka18:20 171 Luka18:38
 20Dewkimnieymitawerkündungu:‘Ñiwaldomokilnge,langümkilnge,
 weñekilnge,koylatukilngefemngechitamiwesalkanoafieltaineynorume,
@@ -8795,7 +8623,6 @@ taiñche!
 *
 18:20Exodo20.12-16;Deuteronomio5.16-20.
 
---- page 175 ---
 Luka18:39 172 Luka19:12
 39Feytichipuchewüneamulelukatrütudungueyewtañiwirarkümekenoael,
 welukisudoyelchiwirarüy.
@@ -8846,7 +8673,6 @@ pürümkachiNgünechenñilongkoülmenngen.
 12Feymewnütramelfitüfachiadkünudungu:“Mülekefuykiñewentru
 longkoülmenküpalmengelu,feytüfaamurkeyalükamapu,tatikangelu
 
---- page 176 ---
 Luka19:13 173 Luka19:31
 trokiñmapumew,femngechitañilongkoülmenkünungeaelkañi
 wiñometuael.
@@ -8897,7 +8723,6 @@ ineyrumepetupüralaeyew,nentutrapelafimu,feyküpalafimu.
 31Feyineyrumeramtuelmumewchumngelutamunentutrapelpefiel,
 feypiafimu‘Ñidolduamtueyewtati’.
 
---- page 177 ---
 Luka19:32 174 Luka19:47
 32Feytiepudisipuluamuyngukapepufingutipichifurikukom
 chumngechiñifeypikünuetewtaJesus.
@@ -8948,7 +8773,6 @@ langümafuelengüntaJesus.
 * 19:45Kiñekekuyfiwirinmewngelay:“kangillakamekelu”. † 19:46Isaia56.7. ‡ 19:46Jeremia
 7.11.
 
---- page 178 ---
 Luka19:48 175 Luka20:16
 48Welupepil-layengünñichumngechikünuaeltañiayüfelengünñi
 femaelchidungu,feykomtipucheamkuñiwtunmewkümeallkütulelu
@@ -8999,7 +8823,6 @@ langümfingün.
 16Feyküpayaylangümpayafitüfeychipuküdawfe,feyfeytichiofadentu
 eluafitakakeluküdawfe.”
 
---- page 179 ---
 Luka20:17 176 Luka20:28
 Feyallküluengüntüfachidungu,feypi:
 —¡Tüfeychidunguchumkawnorumefemkilpe!
@@ -9049,7 +8872,6 @@ feytilaluñipeñimüleyñikureyetuafieltilantudomofemngechitañi
 fotümelafielñilachipeñi.†
 * 20:17Salmo118.22. † 20:28Deuteronomio25.5.
 
---- page 180 ---
 Luka20:29 177 Luka20:47
 29Feymülekerkefuykiñerupareglepeñiwen.Feykiñetiwentruwüne
 kurengey,welulayfeyñielnonkiñefotümnorume.
@@ -9100,7 +8922,6 @@ kutrankaway.”
 pünotuwerekemiñchetaminamun:kiñeadkünudungutatiwewfiluñipukayñe. † 20:43Salmo
 110.1.
 
---- page 181 ---
 Luka21:1 178 Luka21:16
 21
 Tipofrelantudomoñiofrenda
@@ -9151,7 +8972,6 @@ chempilayaeymünmewrume.
 16Welutamünchawkütutaellkawültukuaeymünmew.Tamipupeñi,tami
 pureñmakatamipuwenikafemay.Kakiñekentueymünlangümngeaymün.
 
---- page 182 ---
 Luka21:17 179 Luka21:34
 17Feyitrokomchemülelumapumewüdeaeymünmewiñcheñiduam,
 18welukiñetamünkallongkonorumetañamlayay.
@@ -9203,7 +9023,6 @@ rekekañikonaeltiwesakewimtunmew,tiputundungumewnorumeka
 *
 21:27Daniel7.13.
 
---- page 183 ---
 Luka21:35 180 Luka22:14
 tamünrumeküdaweluwkülenoaeltüfachimongenmewfemngechitatüyechi
 antüñiakunoaelkiñelloftundungurekeeymünmew.
@@ -9254,7 +9073,6 @@ Jesus,feypepikapuyngutiPaskuapuniyael.
 14Feypuwlutiora,ñiiyamengünJesuskatipuapostolanüpuyengünti
 mesamew.
 
---- page 184 ---
 Luka22:15 181 Luka22:31
 15FeymewJesusfeypifiñipudisipulu:
 —¡RumeayülekenñiiyafieltatiPaskuaiyaeleymüniñchiñpetutañilanon!
@@ -9305,7 +9123,6 @@ JesuswünekimelüytaPedroñillumumayaetew
 —Simon,Simon,allkütunge.Weküfütangillatupefuyeymüntamün
 chiñükayaetewkachillareke.
 
---- page 185 ---
 Luka22:32 182 Luka22:46
 32WeluiñchetallellipupefiñtaNgünecheneymimew,femngechitañi
 afnoaeltamimupiltuniñchemew.Feyeymi,dewwiñotulmitaiñchemew,
@@ -9355,7 +9172,6 @@ disipulu,feypepatufiñiumawkülen.Weweyewengünñiweñangkün.
 femngechitawewlayaeymünmewtatikintukaduamchekelu.
 * 22:37Isaia53.12. † 22:44Kiñekekuyfiwirinmewngelayversu43-44.
 
---- page 186 ---
 Luka22:47 183 Luka22:62
 PüresungeytaJesus
 (Matew26.47-56;Marku14.43-50;Juan18.3-11)
@@ -9407,7 +9223,6 @@ feypietewtaÑidol:“Fachantüpetuñikakaranontaalka,külarupa
 TatipusoltawayentuniefiengüntaJesus
 (Matew26.67-68;Marku14.65)
 
---- page 187 ---
 Luka22:63 184 Luka23:6
 63FeytichipuwentrungüneduamniefilutaJesusayentuniefika
 wülelkamekefingün.
@@ -9456,7 +9271,6 @@ JesuspuwülngeytaErodemew
 taGalilea.
 ‡ 22:69Salmo110.1.
 
---- page 188 ---
 Luka23:7 185 Luka23:23
 7FeyfeypingeluñiGalileatuwün,PilatowerküfiJesustaErodemew,kisu
 amgobernadorkülelutaGalileamapumew,feytiyechiantümiyawürkey
@@ -9507,7 +9321,6 @@ engünñiayüel.
 *
 23:17Kiñekekuyfiwirinmewngelayversu17.
 
---- page 189 ---
 Luka23:24 186 Luka23:40
 24FeymewPilatowültukufitañilangümngeaeltaJesuschumngechiñi
 ayüeltipuche.
@@ -9559,7 +9372,6 @@ kürusmew,lukatuniefitaJesus:
 §
 ñiyafkantatüfaengün.Kimlayengüntañifemmeken”. 23:34Salmo22.18.
 
---- page 190 ---
 Luka23:41 187 Luka23:55
 —¿EymillükanielafimiantaNgünechen?Kafemngechikutrankawünmew
 feleymi.
@@ -9610,7 +9422,6 @@ amuyngünkapemefingüntirünganlolokainaduammefingünchumngechi
 *
 23:46Salmo31.5.
 
---- page 191 ---
 Luka23:56 188 Luka24:18
 56Feyakutuluengünñirukamew,dewmapatuytiperfumekatipoma.
 Feytipudomokansatuyengüntatiürkütunantümew,chumngechi
@@ -9661,7 +9472,6 @@ Feymewwitrakünuwingu,feyrumeweñangkülen
 —¿WelueymiumañpelafuymiJerusalenwariamew,feykimlaymiamtati
 rupachidungu?
 
---- page 192 ---
 Luka24:19 189 Luka24:35
 19FeyJesusramtueyewengu:
 —¿Chemdunguantarupay?
@@ -9713,7 +9523,6 @@ kofke.
 Jesuspewfaluwfiñipuapostol
 (Matew28.16-20;Marku16.14-18;Juan20.19-23;Hecho1.6-8)
 
---- page 193 ---
 Luka24:36 190 Luka24:53
 36Petumekeluñinütramkanengüntüfachidungu,feychilelenmewmüten
 Jesuswitralerumeykisuengünñirangiñmewkachalipuyfeypilenmew:
@@ -9764,7 +9573,6 @@ Felepemay.*
 *
 24:53Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 194 ---
 Juan1:1 191 Juan1:16
 Juan
 Juantañiwirielchikümedungu
@@ -9813,7 +9621,6 @@ pepiluwünngeytaiñchemew,kisuamwünenküleluiñchemew”pi.
 16KafemngechiJesucristoñifütrapepiluwünmew,komllowiyiñküme
 felen.
 
---- page 195 ---
 Juan1:17 192 Juan1:28
 17KafemngechiMoysemewllowiyiñtatileydungu,weluJesucristomew
 llowiyiñtatirüfpiwkeyenkafemngechiNgünechenñirüfdungu.
@@ -9864,7 +9671,6 @@ Ngünechenñitukulpakünuel. ‡ 1:21Elia:kiñepelonwentrutipujudiuñiüngümkef
 komdunguñipepikapayaeltiMesiangealu. 1:23Isaia40.3. 1:24farisew: kiñetrokiñ
 judiuchemüngeltuniekefiluMoysetañileydungu,kafemngechitatikakeluwimtun.
 
---- page 196 ---
 Juan1:29 193 Juan1:45
 29Feykangeluantümew,JuantiFawtisachefepefitaJesus,petufülpuluta
 kisumew,feyfeypi:“¡Leliwülfimün,feytüfachiwentrutaNgünechenñi
@@ -9913,7 +9719,6 @@ kaPedro.
 45FeymewFelipeamuyñiyemeafieltaNatanael,feyfeypifi:
 † 1:42Kiñekekuyfiwirinmewfeypiley“Jonañifotüm”. ‡ 1:42Sefa:üyche“kura”pinürke.
 
---- page 197 ---
 Juan1:46 194 Juan2:8
 —Pefiñtatüyechiwentru,Moyseñitukulpaelñiwirielchidungumew,ka
 tipupelonwentruñichillkamew.TüfachiwentrutaJesuspingey,Josetañi
@@ -9964,7 +9769,6 @@ Feyfentekümeapolfingün.
 —Feywiñomenentutumünpichinko,feyyelelfimüntatilongkokünungelu
 mafünmew.
 
---- page 198 ---
 Juan2:9 195 Juan2:21
 Feyfemngechifemingün.
 9Feytilongkokünungelumafünmewwünepütokofitikopulkuwkületulu,
@@ -10015,7 +9819,6 @@ trokiñmapumewñiküpalnieelchipülatamewpepikullikelafuyimpuestukapepingillakel
 norumeñilangümngeael.Feymewtipuchefelefuyñitrafkintuaelñipülatañillowngekeelchipülata
 ngillatuwerukamew. ‡ 2:17Salmo69.9.
 
---- page 199 ---
 Juan2:22 196 Juan3:11
 22Feymew,wiñomongetulutaJesuskisuñipudisipulutukulpayngüntüfey
 tañifeypieltaJesus,feyfeyentuyengüntatiWirinChillkañifeypielmewka
@@ -10067,7 +9870,6 @@ feypiwkefiel,
 3:1farisew:kiñetrokiñjudiuchemüngeltuniekefiluMoysetañileydungu,kafemngechitatikakelu
 wimtun.
 
---- page 200 ---
 Juan3:12 197 Juan3:29
 12feyfeyentumunolifemngechidunguyümtüfachimapumewmülechi
 dungu,¿chumngechiamfeyentuaymündunguwliyiñtawenumapumülechi
@@ -10119,7 +9921,6 @@ nieelchiweni,mülelutimafünmewallküñmafiluñinütramkamekentinofio,
 † 3:13Kiñekekuyfiwirinmewngelay:“tatiwenumapumülelu”. ‡ 3:25Kiñekekuyfiwirinmew
 feypiley:“kiñekejudiuengün”.
 
---- page 201 ---
 Juan3:30 198 Juan4:10
 rumeayükey.Feytafamngechiiñcherüfdungumewrumeayüwkülentati
 nofioreke.
@@ -10171,7 +9972,6 @@ tamongenko.
 kayñetukerkefuyngüntipujudiutisamariacheengünkakerumeluengünamñitripancheñiwimtun
 dungumew.
 
---- page 202 ---
 Juan4:11 199 Juan4:26
 11Feytidomofeypieyew:
 —Chachay,nielaymichemrumetaminentuafielkokatiposokorumealü
@@ -10222,7 +10022,6 @@ komkümekimelpayaeiñmew.
 26FeymewJesusfeypifitidomo:
 —Feyiñchetati,eymitamipetudunguetew.
 
---- page 203 ---
 Juan4:27 200 Juan4:45
 27Feychilelenmewakutuykisuñipudisipulu,feymewmüleduamkülewey
 engünJesusñipetudungumekenkiñedomoengu.Welukiñenorume
@@ -10273,7 +10072,6 @@ mew.
 amkafemngechiamulutatiPaskuakawiñmewtaJerusalenkadew
 pefuyngünitrokomñifemeltakisutüfeychiwariamew.
 
---- page 204 ---
 Juan4:46 201 Juan5:7
 46FeyJesuswiñotuytaKanaGalileamewchewpulkukünutufitatiko.Fey
 mülerkeytatilongkoülmenñikiñekapitan,feynierkeykiñekutrankülechi
@@ -10324,7 +10122,6 @@ kangelukutranwünekonkey.
 *
 5:4Kiñekekuyfiwirinmewngelayversu4.
 
---- page 205 ---
 Juan5:8 202 Juan5:24
 8FeyJesusfeypifitiwentru:
 —Witrange,kawitrañpüramtungetamingütantu,feytrekatunge.
@@ -10376,7 +10173,6 @@ dungukafeyentukeluiñcheñiChawmewñiwerküetew,nieytarumel
 iney no rume. ‡ 5:16 Kiñeke kuyfi wirin mew ngelay: “ka kintukefuyngün chumngechi ñi
 langümafuel”.
 
---- page 206 ---
 Juan5:25 203 Juan5:42
 mongen,feytakondenangelayayrumelñilayael,welumaydewfeleyñi
 rumelmongeletuael.
@@ -10427,7 +10223,6 @@ eluwafieltarumelmongen.
 41“Iñcheayükelantacheñirewenchepiwkeñipüramyeaetew.
 42KimniewiyiñtaeymünkakimnientamünpiwkeyenofieltaNgünechen.
 
---- page 207 ---
 Juan5:43 204 Juan6:13
 43IñcheküpanñiChawtañiwerküetewmew,feyeymüntallowmulan,
 weluküpafulekangelurekisuduam,feyketallowafuymün.
@@ -10478,7 +10273,6 @@ tatiwükankekofkemew,tatisofralutikechukawellakofkemew.
 *
 6:7Rumefentrenpülata:epupatakadenariofaliypuraküyenküdaw.
 
---- page 208 ---
 Juan6:14 205 Juan6:30
 14Feytipuche,pefilutüfachiafmatufaldunguñifemeltaJesustañi
 kimngeaelñiineyngen,feypiengün:
@@ -10528,7 +10322,6 @@ tüfachidungukisuñiFotümmew―pi.
 mewkisutañiwerküetew.
 30Feymewramtuyengün:
 
---- page 209 ---
 Juan6:31 206 Juan6:48
 —¿Chemafmafaldunguamfemaymifemngechipefiliyiñtaiñfeyentuael?
 ¿Chemkümedunguamfemaymiiñchiñmew?
@@ -10579,7 +10372,6 @@ mongen.
 48Iñchefelentakofkerekewülkelutarumelmongen.
 † 6:31Salmo78.24. ‡ 6:45Isaia54.13.
 
---- page 210 ---
 Juan6:49 207 Juan6:65
 49Eymüntamünkuyfiketuwünemifiengüntatimanatiuwemapumew.
 Femfuyrume,layeyengün.
@@ -10632,7 +10424,6 @@ Chawtaküpalnoeliyew.
 6:59 sinagoga: kake kiñeke lofche judiu tuwünngelu niekefuy ñi sinagoga pingechi ruka ñi
 trawüluamengünkañikimeltungeamengün.
 
---- page 211 ---
 Juan6:66 208 Juan7:11
 66Feymewmüten,rumefentrentañiinayawülkeetewtaJesus,
 elkünutueyew,kadoymiyawelayengüntakisumew.
@@ -10684,7 +10475,6 @@ feypiyawingün:
 7:2künirukakawiñ:kiñekawiñpuraantükeluñitukulpayamtatipujudiutañikuyfikecheemñi
 mülekefelkünirukamewtiuwemapumew.
 
---- page 212 ---
 Juan7:12 209 Juan7:28
 —¿Chewcheymüleytüfeychiwentru?
 12Feytipuchemew,Jesusrumenütramyengey.Kiñekentufeypiyeyengün:
@@ -10737,7 +10527,6 @@ küpaletatiCristo,ineyrumekimlayaychewñituwün.”
 28FeymewJesusallkülutüfachidunguñifeypintipuche,petumekeluñi
 kimeltuntatingillatuwerukamew,feypinewentudungunmew:
 
---- page 213 ---
 Juan7:29 210 Juan7:44
 —¡Felerkeytamünkimniemufielchewñituwüntaiñche!Weluiñcheküpan
 kisungünewünmewno,welumayiñcheküpantañiChawtañiwerküetew
@@ -10786,7 +10575,6 @@ TatipulongkolechijudiufeyentulayengüntaJesusmew
 † 7:32llüwatulekelutingillatuwerukamew:Leviñiyomelpuchetañiküdawñinieelengün,feytañi
 llüwatuleaeltingillatuwerukamew. ‡ 7:42Mikea5.2.
 
---- page 214 ---
 Juan7:45 211 Juan8:9
 45Feytillüwatulekelutatingillatuwerukamew,wiñotuyngünchewñi
 mülemumtatipufarisewkatipulongkolelupusaserdotemew,fey
@@ -10838,7 +10626,6 @@ kisulewetulutatidomoengu,
 §
 7:52Mikea5.2.
 
---- page 215 ---
 Juan8:10 212 Juan8:23
 10kümewitrakünuwtuykaramtufitidomo:
 —Papay,¿chewantamüleytamifeypintukupeetewtamilangümngeael?
@@ -10890,7 +10677,6 @@ tüfachinagmapumewtuwimün,weluiñchewenumapumewtuwün.
 *
 8:17Deuteronomio19.15.
 
---- page 216 ---
 Juan8:24 213 Juan8:39
 24Feymewfeypiwpeyiñtamünlayaelkisutamünyafkanmew,eymünam
 tafeyentunolutañiineyngentaiñche,feymewlayaymünkisutamünyafkan
@@ -10940,7 +10726,6 @@ WeluJesusllowdunguy:
 —EymüntarüfmewAbraamñireñmapuchengefulmün,femafuymün
 kisutañifemel.
 
---- page 217 ---
 Juan8:40 214 Juan8:55
 40WelumaytuntedewfeypiwfuyiñtirüfngechidunguNgünechentañi
 kimeletew,feyeymünayüleymüntamünlangümmuafiel.¡Abraamta
@@ -10992,7 +10777,6 @@ iñchiñtaiñNgünechentamünpikeel.
 pifuli,iñchetarumekoylangeafuneymünreke.Welurüfngeytañi
 kimniefiel,feykamüngeltuñmakefiñkisuñidungu.
 
---- page 218 ---
 Juan8:56 215 Juan9:12
 56EymüntamünkuyfituwünemAbraampingelu,ayüwiallkülutati
 feypikünuelchidunguiñchemew,feymewrumeayüwi,feyAbraamkimetew
@@ -11044,7 +10828,6 @@ pelotun.
 12Feymewramtueyewtipuche:
 —¿Chewantamüleyüyechiwentru?
 
---- page 219 ---
 Juan9:13-14 216 Juan9:28
 Feykisufeypi:
 —Kimlanchewñimülen.
@@ -11096,7 +10879,6 @@ mütenkimnientaiñche:trawmangekefun,welufewlapeloletun.
 tamünwiñomefeypiwafiel?¿Eymünantaayüleymünkaytamüninayafiel?
 28Feymewwesapifingün,kafeypifingün:
 
---- page 220 ---
 Juan9:29 217 Juan10:2
 —Eymiinakefimitaüyechiwentru,weluiñchiñinakefiyiñtaMoyseñiley
 dungu.
@@ -11147,7 +10929,6 @@ saltiachefe.
 2Welutatikamañfemkelay,konpukeymaytiwülngiñmewchewmüley
 tatillüwatuniefilutipuufisa.
 
---- page 221 ---
 Juan10:3 218 Juan10:21
 3Tiwülngiñkoralmewmülechillüwatulelunülalkeeyewtipuerta,feyti
 kamañmütrümkeykakekiñekeñipuufisakisukeñiüymew,feyñipuufisa
@@ -11198,7 +10979,6 @@ wiñomewichupüntülkawiengün.
 amelupeafuyñipelotuaeltatiputrawma?―piengün.
 TatipujudiufeyentulafingüntaJesus
 
---- page 222 ---
 Juan10:22 219 Juan10:39
 22Dewpukemkülerkey,feyJerusalenwariamewpetuayüwürkeytipuche
 tikawiñantümewtañitukulpangekemumfeychiwiñomekümeelngetuluti
@@ -11250,7 +11030,6 @@ kiñepületripay,feyamutuy.
 10:29Kiñekekuyfiwirinmewfeypiley:“IñcheñiChaw,tañieluetew,doywünenküleyitrokommew”.
 † 10:34Salmo82.6.
 
---- page 223 ---
 Juan10:40 220 Juan11:18
 40FeymewtaJesusamuyJordanñitripaweantüpüle,feyüyemew
 mülewepuy,tatilelfünmewchewJuanwünelumewmekefuyñifawtisachen.
@@ -11301,7 +11080,6 @@ Jesus,tatiwiñomongeltukefilutakakeluchekatatiwülkelumongen
 17FeyJesuspuwlu,kimpuymeliantüñidewrüngalngentaLasaru.
 18BetaniawariamülerkeyJerusalenñifülpülekiñekülakilometro,
 
---- page 224 ---
 Juan11:19 221 Juan11:37
 19feyrumefentrenjudiulongkoleluamurkeyengünñiwitranngemeael
 taMartakaMariamew,tañiyafüldungumeafielñilanmewkisuenguñi
@@ -11352,7 +11130,6 @@ Feyfeypingün:
 —Tüfangapeloltufitatiputrawma,fey¿pepilpelayafuymayñilanoafelta
 Lasaru?
 
---- page 225 ---
 Juan11:38 222 Juan11:51
 JesuswiñomongeltufitaLasaru
 38Jesus,kawiñomerumefütramüleweduamkülewey,feyfülkonpuytiküfwe
@@ -11404,7 +11181,6 @@ longkolerkelutipusaserdotemewtüfeychitripantu,famngechifeypi
 LongkoSaserdote. † 11:49WünenLongkoSaserdote:tatidoyfalintunieelchisaserdotefeytüfa
 femngechingüneniekefuytatitrokiñsaserdote.
 
---- page 226 ---
 Juan11:52 223 Juan12:9
 Ngünechentañifemngechirakiduameletew,Jesustañilayaeltatipujudiuñi
 trokiñchemew.
@@ -11454,7 +11230,6 @@ TrürümkadungulelngeytaLasaru
 Betaniamew,feyamuyngüntaüyew,feyJesusmütenürkenotañipemeafiel
 engün,welukafemngechitaLasaru,tüfeytañiwiñomongeltueltaJesus.
 
---- page 227 ---
 Juan12:10 224 Juan12:25
 10Feymewtipulongkolelutatipusaserdotemewrakiduamingünñika
 femngechilangümafielengüntaLasaru.
@@ -11505,7 +11280,6 @@ mongenmew,welutatiütrüfluñimongeniñcheñimüngeltuetewmewtüfachi
 mapumew,feytanieayrumelmongen.
 * 12:13Salmo118.25-26. † 12:15Sakaria9.9.
 
---- page 228 ---
 Juan12:26 225 Juan12:40
 26Feykiñecheayüleleñipoyeaetew,inaechimew,feychewmülelita
 iñche,üyewmüleaytañipoyekeetew.Feyineyrumepoyeelimewyamün
@@ -11556,7 +11330,6 @@ Jesusmew.
 kaelungelayñilongkontukuafieltidungu,
 ‡ 12:38Isaia53.1.
 
---- page 229 ---
 Juan12:41 226 Juan13:6
 femngechiñipepipenoaelkañipepikimnoaelengünNgünechenñi
 femkeelchidungu,
@@ -11607,7 +11380,6 @@ küchanamunafielñipudisipulukaangkümeltufititoallamew.
 §
 12:40Isaia6.10.
 
---- page 230 ---
 Juan13:7 227 Juan13:22
 —Ñidol,¿chumngeluamküchanamunaentaiñche?
 7JesusllowdungufitaPedro:
@@ -11659,7 +11431,6 @@ engünineyñifeypipefiel.
 *
 13:18Salmo41.9.
 
---- page 231 ---
 Juan13:23 228 Juan13:38
 23Feykiñeñipudisipulutatirumepiwkeyenieel,mülerkeyJesusñiinafül
 mew,feyJuanürke.
@@ -11710,7 +11481,6 @@ lakonaelrumetaeymiiñchiw!
 † 13:32Kiñekekuyfiwirinmewngelay: “FeytatiWentrukünuwpalupengelnieyNgünechenñifütra
 kümepüramyengen”.
 
---- page 232 ---
 Juan14:1 229 Juan14:16-17
 —¿Rüfngeyamtamilayaeliñchemew?Rüfdungufeypiaeyupetuñi
 kakaranontaalka,külarupachita“kimlafiñ”piaymi.
@@ -11761,7 +11531,6 @@ müngeltuafimüniñcheñiwerkündungu.
 16-17FeyiñchengillatuafiñtaChawtamünwerkülelaetewtatiRüfngechi
 KümePüllütamünkellunieaetew,feytarumelmüleayeymünmew.Tati
 
---- page 233 ---
 Juan14:18 230 Juan15:1
 maputuwünngeluwerkülelayafikallowlayafirume,feypekenofiluamka
 kimnofilurume.Welueymüntakimniefimün,kisuammülelueymünmew
@@ -11812,7 +11581,6 @@ Kiñewkülemüniñchemewtatirowofadrekekiñewkülelutatianümofadmew
 1Feypetuamuleluengün,Jesusamuleyñifeypilen:“Iñchetatirüfngechi
 anümofadrekefelen,feyiñcheñiChawtatidapikefilutianümofad.
 
---- page 234 ---
 Juan15:2 231 Juan15:19
 2Feytatirowwülnoluofad,katrünentungeay.Welutirownielufünofad,
 feykümeliftungeay,femngechiñidoywülaeltafün.
@@ -11864,7 +11632,6 @@ rekefeyentunolu.Weluiñchedulliwiyiñtaeymünrangitifeyentunochipu
 chemew,feymewtamapumewmülechipucheüdekeeymünmew,feyeymün
 amfeyentuluiñchemew.
 
---- page 235 ---
 Juan15:20 232 Juan16:9
 20Tukulpafimüntüfeychidungutamündewfeypiwfiel:‘Kiñekonano
 rumewünenkülekelaytañiñidolmew.’Feyiñchetakayñetungeli,eymünka
@@ -11915,7 +11682,6 @@ cheñichumngen.
 *
 15:25Salmo35.19;69.4.
 
---- page 236 ---
 Juan16:10 233 Juan16:25
 10Kimaymüntañinorpiwkengentaiñche,feyiñcheamamutualuChaw
 mewfeyeymüntadoypemuwelayan.
@@ -11967,7 +11733,6 @@ Jesuswewitatüfachimapumew
 doykimeltuwewlayayiñadkünudungumew,welumayreküme
 kimeltuwayiñtaChawñidungu.
 
---- page 237 ---
 Juan16:26 234 Juan17:9
 26Feychiantümeweymüntangillatuaymünchumngechiñiayükeelta
 iñche,feypetufeypiwlayiñtateyiñchengelayñillellipuafieltaChaw
@@ -12017,7 +11782,6 @@ dewfeyentuyengüneymitamiwerküfiel.
 puchemew,welumaytüfeyengünmewtamielufiel,feyeymingenngelu
 amkisuengünmew.
 
---- page 238 ---
 Juan17:10 235 Juan17:25
 10Komñinieeltaiñche,feytaeymingey.Kakomtatieymingelu,iñchengey
 tati.Feyiñcheñifütrakümepepiluwünpewfaluwitakisuengünmew.
@@ -12068,7 +11832,6 @@ rumetamapu.
 weluiñchekimnieeyu,feytatifeyentulechipuchekimingünkafeyeymi
 tamiwerküfiel.
 
---- page 239 ---
 Juan17:26 236 Juan18:12
 26Feytafamngechikimingüniñcheamkimeltufiluñiineyngentaeymi,
 feykafemngechikimeltuniefiñfemngechitatipiwkeyentaminielfiel
@@ -12119,7 +11882,6 @@ JesuspuwülngeyAnasñirukamew
 12Feytitrokiñsoltawkañilongkoengünkatipullüwatulekelutipujudiu
 tañingillatuwerukamew,püresufiengüntaJesuskafuritrarifingün.
 
---- page 240 ---
 Juan18:13 237 Juan18:27
 13WünelumewyefiengünAnasñirukamew,AnastaKayfasñichedkuy
 ürke,longkoleytipusaserdotemewtüyechitripantu.
@@ -12171,7 +11933,6 @@ reñma,Pedrotañikatrüñmafetewñipilun:
 —¿Kisueymumiyawpeymutatianümkawemew?
 27FeyPedrokakiñerupa“kimlafiñ”pi,feymewmütenkakaraytialka.
 
---- page 241 ---
 Juan18:28 238 Juan18:38
 TigobernadorPilatoramtukafitaJesus
 (Matew27.1-2,11-14;Marku15.1-5;Luka23.1-5)
@@ -12223,7 +11984,6 @@ tipujudiu,feyfeypifi:
 18:28konpulayengüntiülmenrukamew: konpuaeltikatripancherukamewtatipujudiu
 podümkefeyewreke,feypepiilayafuyrumetatipuniyael.
 
---- page 242 ---
 Juan18:39 239 Juan19:13
 39Feymewlifrekünutuafiñeymünamwimtuleluiñcheñilifrenentutuael
 kiñepüresutatiPaskuakawiñmew,fey¿ayüleymünkaytañilifretripatuael
@@ -12275,7 +12035,6 @@ lifrekünutuafieltaJesus,welutipujudiuwirareleyew:
 anükünuwikiñekuesreketatifütrawangkumew,(feyaramewdungunmew
 Gabatapingerkey),feytüfafeypinürkellüdümkülelukuramew.
 
---- page 243 ---
 Juan19:14 240 Juan19:27
 14PetukiñelewechiantüñiakuaeltaPaskua,eperangiantülu,feyPilato
 feypifitipujudiu:
@@ -12328,7 +12087,6 @@ Feymew,üyechidisipulullowfikisuñirukamewtaMaria.
 *
 19:24Salmo22.18.
 
---- page 244 ---
 Juan19:28 241 Juan19:41
 LaytaJesus
 (Matew27.45-56;Marku15.33-41;Luka23.44-49)
@@ -12378,7 +12136,6 @@ kiñeeltun,feytieltunmewmülerkeykiñewerünganlolochewineyrume
 peturüngalngelay.
 † 19:28Salmo69.21. ‡ 19:36Exodo12.46;Numero9.12. § 19:37Sakaria12.10.
 
---- page 245 ---
 Juan19:42 242 Juan20:15
 42TüyemewrüngalngeyJesusñikuerpufeytichieltunamfülküleluchew
 langümngeytaJesus,feykafemngechikiñeumañkülewerkeyñiakuaeltati
@@ -12428,7 +12185,6 @@ Jesus,welukimlafiñiineyngen.
 MariaMagdalenarakiduamkülerkeyñipefieltatikuydaeltunkelu,fey
 feypifi:
 
---- page 246 ---
 Juan20:16 243 Juan20:28
 —Chachay,eyminentufilmi,feypienchewtamielkünufiel,femngechita
 iñcheamuanñiyemetuafiel.
@@ -12479,7 +12235,6 @@ Kaküpangefawpülefeytukupangetamikuwüiñcheñikadimew.Fey
 yafüwkilpetamipiwke.¡Feyentunge!
 28Feymewwirarüy:
 
---- page 247 ---
 Juan20:29 244 Juan21:10
 —¡IñcheñiÑidolkaNgünechen!
 29Jesusfeypieyew:
@@ -12529,7 +12284,6 @@ kiñechallwakangkalelu,kamüleykofke.
 10Jesusfeypieyew:
 —Küpalmünkiñemufüchallwatamünwenentupeel.
 
---- page 248 ---
 Juan21:11 245 Juan21:22
 11SimonPedrokonpuytifarkumew,feywingüdentupayayliñmewñi
 challwawerumefentrenfütrakechallwanielupatakakechumarikülaürke.
@@ -12580,7 +12334,6 @@ iluengün,feytatiramtufalngelu:“Ñidol,¿ineyantawültukuaeymew?”
 —Feyiñcheayüfuli,kisutamongeleafuywiñometuliwülataiñche.Eymita
 chumkonlaymi.Feyeymitainaen―pi.
 
---- page 249 ---
 Juan21:23 246 Juan21:25
 23Feytüfachidungunütramyengeyfeytüyechidisipuluñilarkenoael,welu
 Jesusfeypilayñilanoael.Tüfaürketañifeypiel:“Iñcheayüfuli,kisuta
@@ -12596,7 +12349,6 @@ Felepemay.*
 *
 21:25Kiñekekuyfiwirinmewngelay:“Felepemay.”
 
---- page 250 ---
 Hecho1:1 247 Hecho1:10
 Hecho
 Tatipuapostolñifemelchidungu
@@ -12645,7 +12397,6 @@ mapu,epuwentrufülangtukuluwkülelupewfaluwikisuengünmew.
 *
 1:2apostol:kiñewerkenwentru.
 
---- page 251 ---
 Hecho1:11 248 Hecho1:25
 11Feywerkenpüllüfeypieyew:
 —Galileatuwchipuche,¿chemmewampürakintuleweymüntawenu
@@ -12695,7 +12446,6 @@ küdawtañiyafkanmew,feyñiamutuaeltiwesakutrankawünlanmew.”
 chayafieltatipuromachengüneniefilutatipujudiuIsraelmapumew. ‡ 1:20Salmo69.25. § 1:20
 Salmo109.8.
 
---- page 252 ---
 Hecho1:26 249 Hecho2:16
 26Feymeweluwiengünñisuertiayafieltiepuwentru,feylegtutripayta
 Matiañillowafieltiküdaw.Feychimewmütenrakintukungeytikakelupu
@@ -12747,7 +12497,6 @@ Joelpingelu,feychifeypilu:
 antütikosechakachillangen. † 2:5küpalukomtrokiñkemapu:feytipujudiumülelufilltrokiñke
 mapumew,feyamukefuyngüntaJerusalenñimülepuaeltidoykümekekawiñantümew.
 
---- page 253 ---
 Hecho2:17 250 Hecho2:31
 17‘Felerpuaytakiñemufülewechiantümew,pitaNgünechen,
 wülantañiKümePüllükomchemew.
@@ -12799,7 +12548,6 @@ wiñomongetuaeltiCristo,kafeypitüfatarumelmülelayayrünganmew,ñi
 kuerpunorumeñiwesañmanoael.†
 ‡ 2:21Joel2.28-32. § 2:28Salmo16.8-11. * 2:30Salmo132.11. † 2:31Salmo16.10.
 
---- page 254 ---
 Hecho2:32 251 Hecho2:47
 32IñchiñtakimnieiñNgünechentañiwiñomongeltuelchiJesus.Feychi
 dungumewiñchiñkomkümekimnieiñ.
@@ -12849,7 +12597,6 @@ FeymewNgünechenfemkünuykakeantürumefentrencheñimontuael
 femngechiñideyükonaeltitrokiñfeyentulelumew.
 ‡ 2:35Salmo110.1.
 
---- page 255 ---
 Hecho3:1 252 Hecho3:16
 3
 Kiñeküntrongechiwentrutremolngey
@@ -12901,7 +12648,6 @@ fentekümetremoltufi,feykomeymünleliwülnietufimüntatey.
 *
 3:13Exodo3.6,15.
 
---- page 256 ---
 Hecho3:17 253 Hecho4:6
 17“Dewkimün,pupeñikalamngen,eymünkatamünpulongko
 langümfilutaJesus,femimünfeytamünkimnonrumetamünchummeken.
@@ -12951,7 +12697,6 @@ Juan,Alejandro,kakomtatikonpalelutipusaserdoteñituwünmew.
 sadusew:kiñepichitrokiñjudiuche,epekomrekesaserdotengeyengün,feydoyfalintukefilutati
 wünelechikechulifrumüleluKuyfiChillkamew. † 4:5putremfütakeche:yamfalpulongko.
 
---- page 257 ---
 Hecho4:7 254 Hecho4:24
 7WerküyngünñiyengeaeltaJuankaPedrokisuengünmew,fey
 puwülelngeluramtukafingün:
@@ -13003,7 +12748,6 @@ mapu,lafkenkakomtatimüleyelutamapumewkalafkenmew.
 ‡ 4:11Salmo118.22. § 4:13tipulongko:reglemarifütakejudiufeyngünenieeyewkiñeWünen
 LongkoSaserdote.
 
---- page 258 ---
 Hecho4:25 255 Hecho5:3
 25TamiLifKümePüllüdunguytamipoyekeetewchiwentruDavidmew:
 ‘¿Chemmewantawedwedküleytatitrokiñche?
@@ -13054,7 +12798,6 @@ KümePüllü?Rangiñelkünuymitamipülatatamifendeelchimapumew.
 *
 4:26Salmo2.1-2.
 
---- page 259 ---
 Hecho5:4 256 Hecho5:20
 4¿Eymitamipülatanoanchi?Fenderkeluamtamimapu,fey¿tami
 llowelchipülata,eyminoamtati?¿Chemmewamrakiduamrumeymitami
@@ -13104,7 +12847,6 @@ tüfachimongenwülkechiwerkendungu.”
 5:17sadusew:kiñepichitrokiñjudiuche,epekomrekesaserdotengeyengün,feydoyfalintukefilu
 tatiwünelechikechulifrumüleluKuyfiChillkamew.
 
---- page 260 ---
 Hecho5:21 257 Hecho5:36
 21Femngechitañifeypingenmewengün,kangeluantümewpuliwentu
 amuyngüninafülngillatuwerukamew,feyllituyñikimeltuaelengün.
@@ -13155,7 +12897,6 @@ langümngey.Feyñiinañmakefetewñingülam,kompüdtuy,feymewkomaftuy
 † 5:34farisew:kiñetrokiñjudiuchemüngeltuniekefiluMoysetañileydungu,kafemngechitatikakelu
 wimtun.
 
---- page 261 ---
 Hecho5:37 258 Hecho6:8
 37Feymewka,feychimülelutirakituchen,kiñewentruGalileatuwlu,
 Judapingelu,eluwiñitrapümcheael.Feykiñekentuinaeyew,weluka
@@ -13207,7 +12948,6 @@ trokiñchemew.
 † 6:1 tati pu judiu ebrewdungukelu: tati pu judiu mülekelu Palestina mew, fey ebrewdun-
 gukeyngün.
 
---- page 262 ---
 Hecho6:9 259 Hecho7:7
 9Kiñeketitrokiñchekoneltulelutasinagoga‡mewtatipu
 püresukonangekefulu,kakiñekecheSirenetuwlu,kakiñekeAlejandriatuwlu,
@@ -13258,7 +12998,6 @@ engünkañikimeltungeamengün. * 7:3Genesis12.1. † 7:5Genesis17.8;48.4. ‡ 7:
 §
 15.13-14. 7:7Exodo3.12.
 
---- page 263 ---
 Hecho7:8 260 Hecho7:26
 8Kisuñieldungumew,NgünechenwerküfitaAbraamtañillituaeltati
 ngünelsirkunsidangen.Feymew,Abraam,puraantürupanchoyüngelutañi
@@ -13312,7 +13051,6 @@ engu.Feykisuayüfuluamñiwüdamentuafiel,feyfeypifiengu:‘¿Chumaelta
 *
 7:18Exodo1.8.
 
---- page 264 ---
 Hecho7:27 261 Hecho7:41
 kewapeymu,peñiwenfeltaeymu?¿Chumaeltawülelkamekewimuta
 epuñpüle?’
@@ -13361,7 +13099,6 @@ püramyeafieltiadentunkisuengüntañidewmael.
 † 7:28Exodo2.14. ‡ 7:30Exodo3.2. § 7:32Exodo3.6. * 7:33Exodo3.5. † 7:34Exodo3.7-8,
 10. ‡ 7:35Exodo2.14. § 7:37Deuteronomio18.15. * 7:40Exodo32.1,23.
 
---- page 265 ---
 Hecho7:42 262 Hecho7:54
 42FeymewtaNgünechenkisukünutufiengün,feyfemkünufiñipoyeafiel
 tatiwangülentimülelukallfüwenumew.Femngechiwirikonküleytatipu
@@ -13410,7 +13147,6 @@ engünñiüyawtuafieltaEsteban.
 † 7:43MolokngünechenkaRefanngünechentañiwangülen:epudewmanngünechenkuyfikejudiu
 tuwünngenochicheñipüramyekefiel. ‡ 7:43Amos5.25-27. § 7:50Isaia66.1-2.
 
---- page 266 ---
 Hecho7:55 263 Hecho8:12
 55WeluEstebanngünenierkeeyewtiLifKümePüllü,pürakintuywenu,fey
 pefiNgünechenñifütrakümepepiluwünkapefitaJesusñiwitralen
@@ -13461,7 +13197,6 @@ ngünenkachelerkey.
 NgünechenñilongkoülmenngenkaJesucristo,tatipuwentrukafentren
 domofawtisangeyengün.
 
---- page 267 ---
 Hecho8:13 264 Hecho8:30
 13KafemngechitaSimonfeyentuykafawtisangey,kapürümkachi
 kompañkiyawülfitaFelipe,afmatuniefipefilutifütrakepepiluwünkati
@@ -13513,7 +13248,6 @@ mew.”
 ñiwirielchidungutiWirinChillkamew,feymewramtufi:
 —¿Ngüneduamfimikaytamichillkatupeel?
 
---- page 268 ---
 Hecho8:31 265 Hecho9:5
 31FeytiEtiopiachellowdungueyew:
 —¿Chumngechiamkimafun,ngenoluineyrumeñifeypiafetewñichem
@@ -13563,7 +13297,6 @@ mapuwilüfrumepaykisuñiinafül.
 —¿Ineyamta,eymiÑidol?
 * 8:33Isaia53.7-8. † 8:37Kiñekekuyfiwirinmewngelayversu37.
 
---- page 269 ---
 Hecho9:6 266 Hecho9:19
 Feytidungunllowdungueyew:
 —IñchetaJesus,feyeymitamiüyawtuinayawülel.
@@ -13614,7 +13347,6 @@ SawluwewpituyDamaskuwariamew
 waykimewrekefelelu.FeySawlumüllmüllkülenkarumellükalenfeypi:‘ñidol,¿chumanamtüfa?’Fey
 ñidolfeypieyew”.
 
---- page 270 ---
 Hecho9:20 267 Hecho9:35
 20FeymewkamütenSawlusinagogamewllituyñiwewpiyeafieltaJesus
 NgünechenñiFotümngen.
@@ -13665,7 +13397,6 @@ FeymewmütenEneawitratuy.
 35FeykomtipuchemüleyeluLidakaSaronwariamewpefingünñi
 tremotunkañiwitratun,feymewfeyentuyngüntaÑidolJesusmew.
 
---- page 271 ---
 Hecho9:36 268 Hecho10:6
 Dorkañiwiñomongetun
 36FeychimewmülerkeyJopepingechiwariamew,kiñefeyentulechi
@@ -13715,7 +13446,6 @@ Simon,Pedrokapingekeyñiüy.
 6UmañküleytaSimontañirukamewkiñelawümkelutrülkekulliñinaltu
 lafkenmülelu.
 
---- page 272 ---
 Hecho10:7 269 Hecho10:24
 7Amutulutatiwerkenpüllütañidungupaetew,Korneliumütrümiepu
 tañipoyekeetewchikonakakiñeñisoltawrumeyamniefilutaNgünechen
@@ -13769,7 +13499,6 @@ mangelyeel.
 10:14ünunngechikulliñ:kiñeketileydunguKuyfiChillkamewfeypileyñiingenoaelkiñekekulliññi
 ünunngenmew.
 
---- page 273 ---
 Hecho10:25 270 Hecho10:41
 25FeymewPedropuwlutatirukamew,Korneliullowpaeyew,feylukutuy
 ñillellipuafieltaPedro.
@@ -13821,7 +13550,6 @@ pewfaluwtuaeliñchiñmew.
 wünedullikünuetewtaiñnütramyeafieltüfachidungu.Iñchiñtaituiñka
 putuiñkisuiñchiñrupanwiñomongetulu.
 
---- page 274 ---
 Hecho10:42 271 Hecho11:12
 42KakisuwerküeiñmewtaiñkimelafieltatitrokiñcheNgünechentañi
 elkünufieltaJesuskiñekuesreketatipumongelelumewkatatipulalumew.
@@ -13871,7 +13599,6 @@ yepaaetew,akuyngüntatirukamewchewtañimülemumtaiñche.
 ñikarakiduamnoael.Kakompañenewtatüfachikayupupeñi,feykom
 konpuiñtiwentrutañirukamew.
 
---- page 275 ---
 Hecho11:13 272 Hecho11:28
 13Nütramkaeiñmewtañifemngechipentakiñewerkenpüllütañiruka
 mew.Witrañmaparkeeyewñifeypiaetew:‘WerküngetakiñekecheJope
@@ -13922,7 +13649,6 @@ LifKümePüllü,feykimeliñimüleaelkiñefütrafillaantüngenkomtrokiñke
 mapumew.(Feyfentekümefelerpuy,feychimewKlawdio
 emperadorküleluRomawariamew.)
 
---- page 276 ---
 Hecho11:29 273 Hecho12:11
 29Feymewtatifeyentuleyelukiñewiengünñikelluafielchemkünmew
 Judeamülechipufeyentulechiche,tuntenñipepiwülaelkakekiñekeengün.
@@ -13973,7 +13699,6 @@ komtañichumafetewmewtatipujudiu.”
 trokiñfeyentulelumew. 12:3tikawiñantütañiingekemumtalefawrangenochikofke:tati
 pujudiuñikawiññitukulpakeelñientumetufielEgiptomewkañiinofiellefawrangenochikofke.
 
---- page 277 ---
 Hecho12:12 274 Hecho13:1
 12Komngüneduamfilutüfachidungu,PedroamuyMariatañirukamew
 (Juan,tatiMarkupingelu,tañiñuke)chewtrawüluwküleypütrünchetañi
@@ -14024,7 +13749,6 @@ BernabeenguSawlullituyñiwewpiyawaelkaketrokiñmapumew
 1TatitrokiñchefeyentulelumüleluAntiokiamewmülenkepirkeypelon
 wentrukakimeltufe.Bernabeengu,Simon(tatikurüchepingekelu),Lusio
 
---- page 278 ---
 Hecho13:2 275 Hecho13:15
 mülelutaSirene,Manaen(Erodeengutakiñentrürtremlu,tatilongkolekelu
 Galileamapumew)kaSawlu.
@@ -14075,7 +13799,6 @@ PabloenguBernabe:
 * 13:2ayuno:eluwküleyñiinoael. † 13:14ürkütunantü:tipujudiuñiafpuchiantüsemanamew
 feychimeweluñmakelafuyñiküdawaelineynorume.
 
---- page 279 ---
 Hecho13:16 276 Hecho13:31
 —Epupeñi,nielmudungutamufeypiaeltamuyafülafieltapuche,tüfata
 feypiaymumüten.
@@ -14127,7 +13850,6 @@ feynagümngetuytakürusmew,feyrüngalngey.
 mewtüfaengüntatitripalutaGalileatrokiñmapumewñiküpayaelta
 ‡ 13:22Salmo89.20. § 13:221Samuel13.14.
 
---- page 280 ---
 Hecho13:32 277 Hecho13:46
 Jerusalen.Feytüfachipudisipulutapeeyewñimongeletun,fey
 nütramyenietufiengüntaJesustakompuchemew.
@@ -14178,7 +13900,6 @@ mew,feyeymüntamünjudiungen.Dewllowlafimünkaduamlafimüntati
 * 13:33Salmo2.7. † 13:34Isaia55.3. ‡ 13:35Salmo16.10. § 13:361Reye2.10. * 13:41
 Abakuk1.5.
 
---- page 281 ---
 Hecho13:47 278 Hecho14:8
 rumelmongen,feyfewlafeypiwayiñtaiñkimelmeafieltatipujudiu
 tuwünngenochipuche.
@@ -14227,7 +13948,6 @@ Chumkawnorumetrekakerkelay,küntrongeychoyüngelumüten.Feytüfachi
 wentruanülerkey,
 † 13:47Isaia49.6.
 
---- page 282 ---
 Hecho14:9 279 Hecho14:25
 9allkütuleytañinütramkamekentaPablo,feyPablongüneduameyewka
 kimeyewtañirumefeyentulentañitremoltuael.
@@ -14279,7 +13999,6 @@ mapumew.
 25NütramkapuyengutatikümedunguPergewariamew,feymewkaamuy
 engutaAtaliañiayliñmew.
 
---- page 283 ---
 Hecho14:26 280 Hecho15:10
 26FeymewkonpuyengufarkumewñiamutuaeltaAntiokia,Siriatrokiñ
 mapumülelu.Tüfeychiwariamewmülechipupeñikalamngen
@@ -14330,7 +14049,6 @@ tañipiwketañifeyentunmewengün.
 Kimeltumekefimüntatipufeyentuleyelutatipepilfalnochidunguiñchiñno
 rumekataiñkuyfikecheemnorumetañipepifemnoel.
 
---- page 284 ---
 Hecho15:11 281 Hecho15:25
 11Weluiñchiñtatipujudiu,feyentuleiñtaiñmontunretaiñfüreneetew
 mewmütentaÑidolJesus,feytatipujudiutuwünngenolukafemngechi
@@ -14382,7 +14100,6 @@ taiñsakinepupeñiBernabekaPabloengün.
 *
 15:17Amos9.11-12.
 
---- page 285 ---
 Hecho15:26 282 Hecho15:41
 26KisuengutakuñiwünngechidungumewrupayengünÑidolJesucristo
 tañiduam.
@@ -14430,7 +14147,6 @@ feyentulelu.
 TimotewkompañfitaPablokaSilas
 † 15:34Kiñekekuyfiwirinmewngelayversu34.
 
---- page 286 ---
 Hecho16:1 283 Hecho16:15
 1PablopuwitaDerbekaListra,feymewpepuykiñewechewentru
 feyentuleluTimotewpingelu.Kiñefeyentulechidomojudiutuwünngelu
@@ -14482,7 +14198,6 @@ Feymewaporiaeiñmewtaiñmülewenagael.
 *
 16:7Kiñekekuyfiwirinmewngelay:“Jesustañi”.
 
---- page 287 ---
 Hecho16:16 284 Hecho16:32
 16Kiñerupachi,amuleluiñchiñtatingillatuwelelfünmew,trenumafiyiñ
 kiñeüllchadomokontunierkeeyewweküfüpelotuchefengelu.Pütrüken
@@ -14534,7 +14249,6 @@ tamipureñmache.
 32FeytüfeychiwentrulongkolelukarselmewnütramelngeytaÑidolJesus
 tañikümedungukaitrokomñireñmamüleyeluñirukamew.
 
---- page 288 ---
 Hecho16:33 285 Hecho17:6
 33Feychipunmütentatillüwatulekelukarselmewküchañmatufiñiallfen
 kafeymewmütentakisukakomtañipuchefawtisangeyengün.
@@ -14583,7 +14297,6 @@ yefiengüntatiwariachetañiawtoridadmew,wirarküleyengün:
 —¡Tüfachipuwentrutawelurakiduamelfikommapumülechipuche,ka
 femngechiakuyengüntatüfamew,
 
---- page 289 ---
 Hecho17:7 286 Hecho17:20
 7Jasontallowfitüfachipuwentrukisuñirukamew!¡Komkisuengün
 yamüñmalafitañileydungutatiRomatuwchiemperador!¡Feypikeyengün
@@ -14634,7 +14347,6 @@ chemdungungen.
 Areopago: AtenañitrawüncheAreopagopingey,feyengünamtrawüluwkefulutatiwingkulmew
 Areopagopingelu.
 
---- page 290 ---
 Hecho17:21 287 Hecho18:2
 21(KomtatipucheAtenatuwlu,kafemngechikomtatikaketripanche
 mülelutüyemewtüfeychidungumütenküpaallkütunietufikanütramyenietufi
@@ -14686,7 +14398,6 @@ wariamew.
 2FeymewpewikiñejudiuenguAkilapingelu,Pontoñitrokiñmapumew
 mülelu.Weakuleturkey,tatiepukurewenAkilaenguPrisilawiñomerkeyta
 
---- page 291 ---
 Hecho18:3 288 Hecho18:18
 Italia.Üyewküpaturkeyengu,tatiemperadorKlawdiopingelu,werküluam
 komtatipujudiuñitripatuaelengüntaRomawariamew.Pabloamuytañi
@@ -14738,7 +14449,6 @@ Pablokülarupachitripayñiwewpiyawaelkaketrokiñmapumew
 tatipufeyentulechiche.KiñentrürPrisilakaAkilaengünpüraytafarku
 mew,feyamuySiriañitrokiñmapumew.WeluSenkreamewpetuñi
 
---- page 292 ---
 Hecho18:19 289 Hecho19:3
 püranonfarkumew,fentekümekupilkünuytañilongkotañimupiaelñi
 feypikünuelchidungu.
@@ -14790,7 +14500,6 @@ Feykisuengünllowdunguy:
 18:21Kiñekekuyfiwirinmewngelay:“FeleytañiamuaelJerusalenfemngechitañimülepuaeltati
 püllelepachikawiñantümew”.
 
---- page 293 ---
 Hecho19:4 290 Hecho19:19
 4Pablofeypifi:
 —FeyJuanfawtisayefitatiwiñorakiduamtuluNgünechenmew,welu
@@ -14841,7 +14550,6 @@ nentudungupaykomtañiwesafemkefelengünkuyfimew,
 19kapütrünchetatiadümkatukefulutikalkudunguküpalyeyengüntañi
 chillkakalüpümfingün,feyñipenieetewkomche.Inaduamngeyelutañi
 
---- page 294 ---
 Hecho19:20 291 Hecho19:33
 tuntefaliyentatipuchillka,kechumariwarangkamonedapülata
 faliyerkey.
@@ -14892,7 +14600,6 @@ dunguñimülen,tatipujudiutañirültrentukupuelitrokomcheñiadkiñmew.
 *
 19:24Artemisa:kiñedewmanngünechen,kafemngechiDianapingeyñiüy.
 
---- page 295 ---
 Hecho19:34 292 Hecho20:7
 Alejandrowitrañpüramitañikuwü“ñüküfkülemün”tañipiafielengün
 femngechitañidunguñpeafieltatipujudiurangitipuwariache.
@@ -14941,7 +14648,6 @@ PabloñiwitranngepuntaTroawariamew
 takofkechumngechifemiJesustañipudisipuluengün,Pablonütramkaniefi
 † 19:35Artemisa:kiñedewmanngünechen,kafemngechiDianapingeyñiüy.
 
---- page 296 ---
 Hecho20:8 293 Hecho20:22
 tatipufeyentulelu.Kangeluantümewamfelerkeluñitripayael,rangi
 punmayñiwewpimeken.
@@ -14991,7 +14697,6 @@ feytañikimnonchemdungutañiüngümnieetewtaüyew.
 *
 20:15Kiñekekuyfiwirinmewngelay:“KarumeiñTrogilioayliñmew”.
 
---- page 297 ---
 Hecho20:23 294 Hecho21:2
 23Kiñedungumütentakimnien,komwariamewchewtañiamuaelta
 iñche,tatiLifKümePüllütafeypikeenewtañiüngümnieetewtakarselka
@@ -15040,7 +14745,6 @@ mapu.
 2PatarawariamewpeiñkiñefarkuamualutaFenisia.Feychifarkumew
 püraiñ.
 
---- page 298 ---
 Hecho21:3 295 Hecho21:20
 3Rumeleluiñchiñ,pefiyiñChiprepingechiwapi.Welekuwüpüle
 künuwiyiñ,feyamuiñtaSiriatrokiñmapu.Tatifarkuamfelerkelutañi
@@ -15092,7 +14796,6 @@ miyawlutatipujudiutuwünngenolumew.
 20Allküñmaetewtipulongko,püramyefiengüntaNgünechen.Feytipu
 longkofeypifiengüntaPablo:
 
---- page 299 ---
 Hecho21:21 296 Hecho21:33
 —Kümedungutatey,peñi.TüfaJerusalenwariamewtatipujudiumew
 pütrünjudiuchemüleytatifeyentulu,feyitrokomtüfachipujudiu
@@ -15144,7 +14847,6 @@ wülelfiengüntaPablo.
 trarilelngeaeltaepukadenamew.Feywülaramtuyñiineyngenkatañi
 chemwesafemün.
 
---- page 300 ---
 Hecho21:34 297 Hecho22:7
 34Welukiñekentuwirarikiñedungu,kakeluwirarikangeludungu,
 feymewtikapitanchemdungunorumepepikümekimlayñifeypimeken
@@ -15195,7 +14897,6 @@ wallpüle,
 7feyütrüfnagüntarüpümew.Kaallkünkiñedunguntañifeypietew:
 ‘Sawlu,Sawlu,¿chemmewantainantukuyawülen?’
 
---- page 301 ---
 Hecho22:8 298 Hecho22:24
 8Feyramtun:‘¿Ineyantaeymi,Ñidol?’Feytatidungunllowdunguenew:
 ‘IñchetaJesusNasarettuwlu,feyeymitamiinantukuyawülel.’
@@ -15246,7 +14947,6 @@ engünkawidpüpüramiengüntrufür,
 tañiwimakangeael,tañinentudunguaelchemmewtañiüdengenfente
 wirarkümekenmewtatipujudiuche.
 
---- page 302 ---
 Hecho22:25 299 Hecho23:6
 25Weludewtrarikaniengelutañiwimakangeael,Pabloramtufitati
 kapitanmülelufeymew:
@@ -15297,7 +14997,6 @@ tatidewlayeluñiwiñomongetuael,feymewiñcheramtukamekengen.
 engün,feydoyfalintukefilutatiwünelechikechulifrumüleluKuyfiChillkamew. ‡ 23:6farisew:
 kiñetrokiñjudiuchemüngeltuniekefiluMoysetañileydungu,kafemngechitatikakeluwimtun.
 
---- page 303 ---
 Hecho23:7 300 Hecho23:22
 7FeypilumütentüfachidungutaPablo,tatipufarisewkatatipusadusew,
 eluwiñiüyawtudunguaelkisukeengün.Feypüntülkawitatitrawünpuche,
@@ -15349,7 +15048,6 @@ eymitamillowdungukanmüten.
 22Feymewtatikomandantechalitufitatipichiwentru,feywerküfiñi
 feypinoafielineynorumefeychidungutañinütrameletew.
 
---- page 304 ---
 Hecho23:23 301 Hecho24:4
 YengeytaPablotigobernadorFelikmew
 23Tatikomandantemütrümieputañikapitan,feywerküfiñitrawülael
@@ -15399,7 +15097,6 @@ fentrenmañumünnieiñ.
 4Welutaiñrumefentreñmamülenoaeltatüfamew,fürenemuaiñ.
 Allkütumuaiñkiñelelenrewall.
 
---- page 305 ---
 Hecho24:5 302 Hecho24:20
 5KimfiyiñtaPablotañirumewesachengen,kakommapumiyawkey
 tañipüntülkayafieltatipujudiu,kalongkoleytatiNasaretchepingeluñi
@@ -15452,7 +15149,6 @@ judiuñifütratrawünmew.
 dungu”. † 24:8Kiñekekuyfiwirinmewngelay:“feywerküfiPablotañipudalluntukueteweymi
 mew”.
 
---- page 306 ---
 Hecho24:21 303 Hecho25:8
 21Feytüfamütentafeypinkisuengünñirangiñmewnewentudungun
 mew:‘Fachantüeymüntarengeñmaldungumekemuniñcheamfeyentuleluñi
@@ -15501,7 +15197,6 @@ kafeypintukungepuypütrünwesakedungumew,tuntekiñedunguno
 rumekümetripalaykomtañipielmewengün.
 8Pablokayfeypikisututañiingkawün:
 
---- page 307 ---
 Hecho25:9 304 Hecho25:21
 —Iñchetafemkelanchemwesadungunorume,tatipujudiutañiley
 dungumewnorume,tatingillatuwerukamewnorume,tatiRomatuwchi
@@ -15554,7 +15249,6 @@ tañiwerkülelafieltatiemperador.
 25:11duamtuntatiemperadortañiinaramtulaetewñifemelchidungu: kiñeromache
 felerkefuyñifeypiaeltatiemperadorñiramtukadunguaetewñiwelulkawünmew.
 
---- page 308 ---
 Hecho25:22 305 Hecho26:8
 22FeymewAgripafeypifitaFesto:
 —Iñchetakaküpaallkütuñmafuiññidungutatüfeychiwentru.
@@ -15606,7 +15300,6 @@ feypintukumekeeneweymitamiadkiñmewlongkoülmenAgripa.
 8¿ChumngeluamfeyentulaymünNgünechenñiwiñomongeltukefieltatipu
 la?
 
---- page 309 ---
 Hecho26:9 306 Hecho26:22
 PablonütramkaychumngechiñiinantukuyawülkefueltatipuCristomew
 feyentulelu
@@ -15658,7 +15351,6 @@ küpalangümfenewengün.
 22WelufantepuNgünechentañikellunieetewmew,yafüluwünmew
 amulen.NütramelniefiñkomcheNgünechenñidungu,pichikecheka
 
---- page 310 ---
 Hecho26:23 307 Hecho27:4
 fütakeche.IñchetakimeltukentatipupelonwentrukaMoyseñi
 feypikünuelchidungumüten:
@@ -15709,7 +15401,6 @@ poyengeael.
 newekürüflay,feymewdoymatuamuiñtifarkumew,kañpülerumeliyiñ
 amulayafuytifarku.
 
---- page 311 ---
 Hecho27:5 308 Hecho27:21
 5Katrürumeiñtilafkenmew,Silisiatrokiñmapuñiayliñlafkenmew,ka
 Panfiliatrokiñmapu,feypuwiyiñtaMirawariamew,Lisiatrokiñmapuñi
@@ -15761,7 +15452,6 @@ rangiñmewfeyfeypi:
 —Pulongko,feyentumufulidoykümeafuytripapanoliyiñtaKretamew.
 Femngechifentewesakeüllüflayafuiñkafentengünalayafuytaiñchemkün.
 
---- page 312 ---
 Hecho27:22 309 Hecho27:40
 22Welutüfa,weñangküduamkilmün.Kiñenorumetalalayay,tuntetati
 farkumütentallümkonay.
@@ -15813,7 +15503,6 @@ engüntipulafken,kaneyfikünufiengüntatiremuñingünengekemumtati
 farku.Feymewadkürüfkünufiengüntatiinüfpüralechipañuwünelechifarku
 ñiadpüle,feytatifarkuñochingeytañifülpuntatiayliñmew.
 
---- page 313 ---
 Hecho27:41 310 Hecho28:12
 41Welupuwichewñiwirkolemumchikuyüm,feytatifarku
 anükonkülewepuy.Feytifarkurümkonküleweykuyümmew.Pepi
@@ -15863,7 +15552,6 @@ rütranngünechenKastorkaPolupingelu,*pünantukulelutifarkumew.
 *
 28:11KastorkaPolupingelu:epudewmanngünechenpüramyekeeltatipumarineru.
 
---- page 314 ---
 Hecho28:13 311 Hecho28:26
 13Feytiyemewtuwiyiñkaamuiñfülayliñlafkenpüle.Puwluwülaiñchiñ
 taRegiowaria,feykangeluantümewwaywenkürüftuy,feykakiñeantü
@@ -15916,7 +15604,6 @@ wentruIsaiañifeypielmew:
 26‘Amunge,feypiafimitatüfachitrokiñche:
 Tunteallkütuayngünrume,kimentulayayengün.
 
---- page 315 ---
 Hecho28:27 312 Hecho28:31
 Tunteadkintuayngünrume,ngüneduamlayayengün.
 27Tañirakiduamtatüfachitrokiñchewelulkawküley.
@@ -15937,7 +15624,6 @@ ruka,feymewtallowkefikomchetañipeyawülmeetew.
 katrütunielaeyew.
 † 28:27Isaia6.9-10. ‡ 28:29Kiñekekuyfiwirinmewngelaytaversu29.
 
---- page 316 ---
 Romanu1:1 313 Romanu1:11
 Romanu
 PabloñiwirilelfielchikartatatipuRomachengealu
@@ -15985,7 +15671,6 @@ kelluwafielNgünechenñidungumew,femngechitamündoynewenküleael,
 * 1:1apostol:kiñemanelnieelchiwerken. † 1:2kümeWirinChillka:tatiKuyfiChillka,wirilelu
 ebrewdungunmew.
 
---- page 317 ---
 Romanu1:12 314 Romanu1:25
 12kataiñwelukonkechiyafüluwaeliñchiñtaiñnieelchimupiltundungu
 mew.
@@ -16035,7 +15720,6 @@ itrofillemmüleyelu,feymewkisufeleytañirumelpüramyengeael.Felepe
 may.
 ‡ 1:17Abakuk2.4.
 
---- page 318 ---
 Romanu1:26 315 Romanu2:7
 26FeymewtaNgünechenwültukueyewtañifemaelengünyewenngechi
 dungu.Ñipudomokütuweluletuytañiwimtunfemkeelchidungu.Kaletuy
@@ -16085,7 +15769,6 @@ mew.
 Ngünechenkakintukeluchumkawnorumeafkenochimongen,feyrumel
 ayülekeluñifemaeltakümekedungu,
 
---- page 319 ---
 Romanu2:8 316 Romanu2:24
 8welukutrankangeayNgünechenñilladkenmewtatikisungünewünngelu
 tatiwesakepiwkengelu,tatikayñeltukelutarüfdungu,feyayütukelutati
@@ -16137,7 +15820,6 @@ judiungenoluüyawtukefiengüntaNgünecheneymüntamünyafkanmew.”*
 *
 2:24Isaia52.5LXX.
 
---- page 320 ---
 Romanu2:25 317 Romanu3:9
 25KiñechemupituleMoyseñileydungu,kümelkaeyewtañisirkunsidalen,
 welufemnolechemfalilayrumetañisirkunsidalen.
@@ -16187,7 +15869,6 @@ takakeluchemew?¡Felelay!Feydewfeypipeiñtaiñchiñtatipujudiucheka
 *
 3:4Salmo51.4LXX.
 
---- page 321 ---
 Romanu3:10 318 Romanu3:26
 femngechitatipujudiutuwünngenolu,tatiyafkantañingünenpüresunieeyew
 reke.
@@ -16238,7 +15919,6 @@ FeyfantepumewNgünechenpengeliñinientanordungu,kaamuleyñi
 tatipupelonkewentruñiwirielchidungu: tüfachiwirindungutukulpaniefitatiKuyfiChillka
 ebrewdungunmew.
 
---- page 322 ---
 Romanu3:27 319 Romanu4:10
 felentinordungu,feyNgünechenadkünuyiñchiñtaiñniewetunoaelta
 yafkan,tatifeyentuyelutaJesusmew.
@@ -16288,7 +15968,6 @@ llowfieltaAbraamkiñenormongenwentrurekeñinienmewtamupiltun.‡
 rume?Femlaytatey,petuñisirkunsidangenonrumemayfe.
 * 4:3Genesis15.6. † 4:8Salmo32.1-2. ‡ 4:9Genesis15.6.
 
---- page 323 ---
 Romanu4:11 320 Romanu4:23-24
 11FeywülaAbraamtasirkunsidangey,kiñemarkarekekakiñesellureke
 Ngünechentañidewllowetewkiñenormongenwentrungelureke,feytañi
@@ -16338,7 +16017,6 @@ kiñenormongenwentrureketañimupiltunmew,kafemngechi
 wirintukungeyiñchiñtaiñfemael.Feytaiñmupiltunmew,Ngünechenka
 § 4:17Genesis17.5. * 4:18Genesis17.5. † 4:18Genesis15.5. ‡ 4:22Genesis15.6.
 
---- page 324 ---
 Romanu4:25 321 Romanu5:15
 femngechilloweiñmewtaiñchiñ,feyentuluamiñchiñNgünechentañi
 wiñomongeltufieltaJesusiñchiñtaiñÑidol,
@@ -16388,7 +16066,6 @@ RüfngeytaAdanñiyafkanñiduamrumefentrenchelayey,weludoyelchi
 maykümeykaafmatufaliNgünechenñifürenechenñielungeeltaitrokom
 cheJesucristomew.
 
---- page 325 ---
 Romanu5:16 322 Romanu6:12
 16KiñewentrutañiyafkantrürlayNgünechentañifürenechenmew.Kiñe
 yafkanmewmütenfeleytañikondenangeaelitrokomche,weluNgünechen
@@ -16439,7 +16116,6 @@ CristoJesuseymün.
 12Feymew,elukefilmüntaeymüntatiyafkanñiamulngünenieafieltamün
 afachikuerpu,femngechitamünmüngeltunoafielñiayütukeeltakuerpu.
 
---- page 326 ---
 Romanu6:13 323 Romanu7:3
 13Chalintukukilmüntamünkuerputayafkanmewñifemaelwesake
 dungu.Eymünfeleymüntatilayechichereke,welukawiñomongetulu,
@@ -16489,7 +16165,6 @@ feykisutañiwafengey,weludewlaletañifüta,feychidomotalifrelewetuay
 tatileydungumew,feyñiwalayaytuntekureyewtuafuytakangeluwentru
 engurume.
 
---- page 327 ---
 Romanu7:4 324 Romanu7:20
 4Kafemngechidungufeleyeymünmew,iñcheñipupeñikalamngen.
 FeychilalutaCristo,eymünkafemngechilaymünreketaMoyseñiley
@@ -16542,7 +16217,6 @@ iñchemewngünekeenewñifemaelwesakedungu.
 *
 7:7Exodo20.17;Deuteronomio5.21.
 
---- page 328 ---
 Romanu7:21 325 Romanu8:9
 21Feyngüneduamuwkentañiayüniefelñifemaeltakümekedungu,welutati
 wesakedunguelukelaenewñifemaeltatikümedungu.
@@ -16593,7 +16267,6 @@ wesakewimtun,welumay,tiLifKümePüllüñiayükeel.Rüfmewmülele
 8:1Kiñekekuyfiwirinmewngelay:“tatifemkenolutatiyafkafecheñiayütukeelchidungu,welumay
 femkelutatiLifKümePüllüñiayükeelchidungu”.
 
---- page 329 ---
 Romanu8:10 326 Romanu8:24
 NgünechenñiLifKümePüllütaeymünmew,kisungünenieeymünmew.Fey
 tatinienoluCristotañiLifKümePüllü,konpalelaytaCristomew.
@@ -16644,7 +16317,6 @@ taiñkuerpu.
 llowliyiñtaiñüngümkeel,doymaneluwkülewelaiñ,feytatidewllowelngelay
 ñiüngümngeael.
 
---- page 330 ---
 Romanu8:25 327 Romanu8:39
 25Welupetullownoliyiñtaiñüngümnieel,feleytaiñmanelnieafielta
 Ngünechenñimupituaeltañieldungukünuel.
@@ -16696,7 +16368,6 @@ Ngünechentañipiwkeyechenmew,tatipengeleltaCristoJesusmewiñchiñ
 taiñÑidol!
 † 8:36Salmo44.22.
 
---- page 331 ---
 Romanu9:1 328 Romanu9:15
 9
 Ngünechendullifitatipujudiukisuñipuchengeael
@@ -16747,7 +16418,6 @@ kutranpiwkeyeel.”*
 *
 9:15Exodo33.19.
 
---- page 332 ---
 Romanu9:16 329 Romanu9:29
 16Feymewllemay,Ngünechentakutranduamyechekeychetañiayüelka
 tañiyafüluwelmewnorume,weluNgünechenmaytañiayüel.
@@ -16796,7 +16466,6 @@ TatipujudiufeyentulafiCristotañikümedungu
 † 9:17Exodo9.16LXX. ‡ 9:25Osea2.23. § 9:26Osea1.10. * 9:28Isaia10.22-23LXX. † 9:29
 Isaia1.9LXX.
 
---- page 333 ---
 Romanu9:30 330 Romanu10:11
 30Fey¿chempiaiñam?FeyNgünechenwiñoduamayetufitayafkanmewtati
 pujudiutuwünngenoluñimupiltunmew,kisuengüntuntekintukelafuy
@@ -16847,7 +16516,6 @@ yewelkawlayay.”§
 Levitiko18.5. † 10:6Deuteronomio9.4. ‡ 10:8Deuteronomio30.12-14. § 10:11Isaia28.16
 LXX.
 
---- page 334 ---
 Romanu10:12 331 Romanu11:2
 12Ngelaytakakerumechetuntejudiungeayrumekamjudiu
 tuwünngenolurume,kafeychiÑidolJesusmütentatiÑidolngelutaitrokom
@@ -16896,7 +16564,6 @@ trokiñchengeael,feykaillamnielafi.Eymüntafentekümekimnieymüntañi
 feypiley“Cristo”;kakeluwirinmewfeypiley“Ngünechen”. * 10:18Salmo19.4LXX. † 10:19
 Deuteronomio32.21. ‡ 10:20Isaia65.1LXX. § 10:21Isaia65.2LXX.
 
---- page 335 ---
 Romanu11:3 332 Romanu11:13
 feypilentaWirinChillkaEliatapetumülelutüfachimapumewNgünechenta
 petudulliniekefuytakiñekechetatijudiutuwünchemew.FeyElia,
@@ -16947,7 +16614,6 @@ engünkümekedunguñifemkeelmew,dullingelayengünNgünechenñikutranpiwkeyechenm
 felefule,tikümefemünchemfalilayafuyrume.” 11:8Deuteronomio29.4;Isaia29.10. 11:10
 Salmo69.22-23LXX.
 
---- page 336 ---
 Romanu11:14 333 Romanu11:27
 14Iñcheayülenkiñekeiñcheñiputuwüncheñiütrirafelreketaeymünmew,
 feytafamngechiñikintuafelengünkayñillowafelmontuluwüntaJesus
@@ -16998,7 +16664,6 @@ montuluwün,chumngechifeypileytaWirinChillka:
 FeykimeltuafitaJakobñireñmacheñielkünutuaelñiwesamongen.
 27Feytüfalletañieldunguñifemaeltakisuengünmew,
 
---- page 337 ---
 Romanu11:28 334 Romanu12:6
 feyiñchefeypiafiñtakisuengünñiniewetunonengüntayafkan.”†
 28TatipujudiutaNgünechenñikayñerekefeleytatiwerkenmontuluwün
@@ -17050,7 +16715,6 @@ elufieltakisukakekiñekeche.Feymew,Ngünechenelueliyiñmewta
 *
 40.13LXX. 11:35Job41.11.
 
---- page 338 ---
 Romanu12:7 335 Romanu13:1
 pepiluwüntaiñkimelaelkisutañiwerkendungu,kimeltuiñtaiñnieelchi
 mupiltunmew.
@@ -17099,7 +16763,6 @@ chemawtoridadnorumeNgünechentañiadkünunoel.Komtati
 awtoridadkülelu,kisuñipielmewtamüley.
 * 12:19Deuteronomio32.35. † 12:20Proverbio25.21,22LXX.
 
---- page 339 ---
 Romanu13:2 336 Romanu13:14
 2Feymewineyrumeyamnienofiletatiawtoridad,feytamüngeltulafi
 Ngünechenñiwerkükünuelchidungu.Feytatiyamnienofilutatipu
@@ -17149,7 +16812,6 @@ ayütukefilmüntamünillutukeelchiwesakewimtundungu.
 * 13:9Exodo20.13-15,17;Deuteronomio5.17-19,21. † 13:9Levitiko19.18. ‡ 13:9Kiñekekuyfi
 wirinmewngelay:“koyladungukilnge”.
 
---- page 340 ---
 Romanu14:1 337 Romanu14:13
 14
 Entuüñfilkefilngetamipeñi
@@ -17201,7 +16863,6 @@ taNgünechen”. ‡ 14:10Kiñekekuyfiwirinmewfeypiley“Cristo”; kakeluwirinm
 §
 “Ngünechen”. 14:11Isaia49.18;45.23.
 
---- page 341 ---
 Romanu14:14 338 Romanu15:5
 14IñchefeyentulenÑidolJesusmew,feykümekimnienchemrumeñi
 ünunngenon,welukiñekenturakiduamlekiñekechemküntañiünunngen,kisu
@@ -17252,7 +16913,6 @@ kiñewküleaelchumngechifemitaCristoJesus,
 *
 15:3Salmo69.9.
 
---- page 342 ---
 Romanu15:6 339 Romanu15:19
 6femngechitaitrokomkiñerakiduammew,püramyeafimüntaNgünechen,
 taiñÑidolJesucristoñiChaw.
@@ -17303,7 +16963,6 @@ tañiwerkenmontuluwündungukommapumew.LlitunJerusalenwaria
 † 15:9Salmo18.49. ‡ 15:10Deuteronomio32.43. § 15:11Salmo117.1. * 15:12Isay:Israelñi
 longkoülmen,Davidñichawem. † 15:12Isaia11.10LXX.
 
---- page 343 ---
 Romanu15:20 340 Romanu16:1
 püle,itrokomwariarupankaIliriañitrokiñmapumewfentepuwünchew
 tapetukimeltungekelaytatikümemontuluwündungu.
@@ -17353,7 +17012,6 @@ Kiñekepifalelchidungu
 trokiñfeyentulelumew.
 ‡ 15:21Isaia52.15LXX.
 
---- page 344 ---
 Romanu16:2 341 Romanu16:19
 2KümellowfimünÑidoltañiüymew,chumngechimüleyñifemaeltati
 mupiltuleyechipuche,kakellufimünitrokomtañiduamtuelmew,kisuam
@@ -17403,7 +17061,6 @@ ngünenkayafieltatiñompiwkengechipuche.
 tamünkimchengeaelfemngechitamünfemaelkümekedungu,welutamün
 femnoaelwesakedungu.
 
---- page 345 ---
 Romanu16:20 342 Romanu16:27
 20FemngechiNgünechen,tatikümetüngünwülkelu,müchaymüten
 pünonagümafireketaweküfüeymüntamünmiñchenamun.Pewmangen
@@ -17435,7 +17092,6 @@ Jesucristomew!Felepemay.
 *
 16:24Kiñekekuyfiwirinmewngelayversu24.
 
---- page 346 ---
 1Korintio1:1 343 1Korintio1:8
 1Korintio
 Pabloñiwünewirielchikartatatipu
@@ -17482,7 +17138,6 @@ Jesucristo.
 *
 1:1apostol:kiñemanelnieelchiwerken.
 
---- page 347 ---
 1Korintio1:9 344 1Korintio1:23
 9Ngünechenrumelmupitukeykisutañitukulpakünuelchidungu,feykisu
 lletaiñdullietewfemngechitaiñkiñewküleaelmongenmewkisuñiFotüm,
@@ -17533,7 +17188,6 @@ grieguchekiñewedweddungutrokikefi.
 † 1:12Apolu:kiñelongkoNgünechenñitrokiñchemewwewpikefilutiwerkendunguKorintowaria
 mew. ‡ 1:19Isaia29.14LXX.
 
---- page 348 ---
 1Korintio1:24 345 1Korintio2:6
 24WelutatikoneltuleluNgünechenmew,judiungeayrumekam
 grieguchengeayrume,feytüfachiCristotaNgünechenñipepiluwünngechi
@@ -17583,7 +17237,6 @@ rume,kisuengünamaftualu.
 §
 1:31Jeremia9.24.
 
---- page 349 ---
 1Korintio2:7 346 1Korintio3:2
 7WelumaytanütramyekeiñNgünechentañikimelkenofelchidungukisu
 tañiadkünuel,tañiniekefeliñchiñtaiñfüreneaetewpetudewmangenolu
@@ -17634,7 +17287,6 @@ eymünampetupepillownolutikümekimeltun,tatifaneiyaelrekefelelu.
 ¡Feyfewlapepiadümlayafuymünrume!
 * 2:9Isaia64.4. † 2:16Isaia40.13LXX.
 
---- page 350 ---
 1Korintio3:3 347 1Korintio3:19
 3¡Feyeymünpetunieluamrecheñikimünmüten!Feypetumüleleeymün
 mewtatiütriruwünkakayñetuwün,feytüfafemngechifeleytamünnienre
@@ -17687,7 +17339,6 @@ welulkawaeltatikimkawkülelukisuñingünendungumew.”*
 *
 3:19Job5.13.
 
---- page 351 ---
 1Korintio3:20 348 1Korintio4:10
 20Kafemngechifeypiley:“Ñidolkimnieytatikimkecheñirakiduamñire
 wedweddungungen.”†
@@ -17738,7 +17389,6 @@ tamünfüreneetewmewkimkechengeymün.Iñchiñtangañwadküleiñ,welu
 † 3:20Salmo94.11. * 4:9apostol:Jesustañidullielchimariepumütenno,welukafemngechi
 Pablorekefemel.
 
---- page 352 ---
 1Korintio4:11 349 1Korintio5:5
 eymünfütranewenchengeymün.Iñchiñtaillamkangekeiñ,welueymünta
 yamngekeymün
@@ -17788,7 +17438,6 @@ kafemngechiÑidolJesusñipepiluwünmüleayeymünmew.
 femngechiñiapümngetuaelreketañiyafkafechengen,weluñipüllü
 montuayfeychiküpatuletaÑidolJesus.
 
---- page 353 ---
 1Korintio5:6 350 1Korintio6:5
 6Eymünngelaytamünmallmawaeltamünfemkeelchidungumew.Dew
 kimnieymüntatüfachifeypin:“Kiñepichinlefawrakomfayümkefita
@@ -17839,7 +17488,6 @@ feyentulechipuchemew?
 5:7Paskuakawiñ:tatipujudiuñikawiñantütañitukulpangekemumchumngechiñimontulngen
 püresukonalelutatipujudiuEgiptomapumew. † 5:12-13Deuteronomio17.7LXX.
 
---- page 354 ---
 1Korintio6:6 351 1Korintio6:19
 6¡Rekewakelaymütenkiñekechetakakeluengün,welumayka
 amurpukeykütuengünfemngechitañiadkünuaetewtüfeychipuche
@@ -17889,7 +17537,6 @@ Püllüñimüleaeltaeymünmew?Feyeymüntakisungünewkülelaymün,
 *
 6:16Genesis2.24.
 
---- page 355 ---
 1Korintio6:20 352 1Korintio7:14
 20feyNgünechenamngillaetewtaeymün,kisuñisakinFotümmew.
 FeymewfeleytamünpüramyeafieltaNgünechentamünkuerpumewkakom
@@ -17940,7 +17587,6 @@ feyentulenochidomo,lifmongennietukeytañikiñewkülenmewtati
 † 6:20Kiñekekuyfiwirinmewngelay: “kakomtamünpiwkemew,Ngünechenamngenngelukom
 tüfachidungu”.
 
---- page 356 ---
 1Korintio7:15 353 1Korintio7:29
 feyentulechiwentruengu.Feyfamngechifelenofule,tamünpichikeche
 ünunngechiwesakechengeafuyengün,welurüfdungumew,koneltuley
@@ -17990,7 +17636,6 @@ rakiduam.
 Pichileweydewmatañimüleweaeltaantü.Feymewllemay,tatikurengelu,
 kurengenolurekefelepe.
 
---- page 357 ---
 1Korintio7:30 354 1Korintio8:3
 30Tatiweñangkülelu,weñangkülenolurekefelepe.Tatinieluayüwün,
 nienoluayüwünrekefelepe.Feytatingillaluchemrume,ngillanolureke
@@ -18040,7 +17685,6 @@ merkawmewfeytüfachalintukungelutingillatuwerukamewchewñimülentiadentunngünec
 feykiñekefeyentulelufeypikefuytacheñiinoaeltüfeychiilofemngechiñipoyenoafieltatipuadentun
 ngünechen.
 
---- page 358 ---
 1Korintio8:4 355 1Korintio9:7
 4Feytañiingeaelkaytüfeychiiyaeltatichalintukueltatipuadentun
 ngünechenmew,kümekimnieiñtañifalinontiadentunngünechentamapu
@@ -18090,7 +17734,6 @@ mewtayuelungenoaeltayuduamtukeelchichemkün?
 7¿Ineyamküdawkeykiñesoltawrekefeykisutukintukawkülekeyñi
 kulliwael?¿Ineyamküdawkeyñidapillafieltianümkülechiofad,feyikelayti
 
---- page 359 ---
 1Korintio9:8 356 1Korintio9:20
 fünofad?¿Ineyamkuydakeytakulliñfeyentuñmakelafiñilichitañiwaka
 tañilichituñmuael?
@@ -18144,7 +17787,6 @@ dungu.
 *
 9:9Deuteronomio25.4.
 
---- page 360 ---
 1Korintio9:21 357 1Korintio10:8
 21Kafemngechi,tañiwewafieltüfeyengüntatimülenolutaMoyseñiley
 dungumew,feytüfaengünrekefemkünuwken,tunterüfdungumew
@@ -18195,7 +17837,6 @@ feymewkiñeantümewmütenlayeyengünepumarikülawarangkache.
 *
 10:7Exodo32.6.
 
---- page 361 ---
 1Korintio10:9 358 1Korintio10:26
 9KafemngechingelaytaiñkintukaduamafieltaCristo,chumngechita
 kisuengünkintukaduamfitaNgünechen,feymewlayeyengünfiluñi
@@ -18247,7 +17888,6 @@ dungunorumetamünramtunoael,feytamünwesarakiduamkületunoael.
 26Fey“komchüfmapumülechichemkünNgünechentangenngey.”†
 † 10:26Salmo24.1.
 
---- page 362 ---
 1Korintio10:27 359 1Korintio11:9
 27FeykiñetatifeyentulenolutaÑidolmewmangelelmünmewtamün
 iyael,feyeymünayülmüntamünamuael,ifimünkomtamünelungeel,fey
@@ -18298,7 +17938,6 @@ wentruñiduam.
 ‡ 10:28Kiñekekuyfiwirinmewngelay:“ñidolamtangenngelutamapumewkaitrokomtamülelu
 tüfeymew.”
 
---- page 363 ---
 1Korintio11:10 360 1Korintio11:26
 10Feytüfachidungumew,tatipuwerkenpüllüñiduam,tatidomofeleyñi
 munulnieaelñilongkofemngechikimfalayñiyamnieafieltañiwentru.
@@ -18348,7 +17987,6 @@ putulmün,femkeaymüniñchetamüntukulpamuafiel.”
 nütramyekeafimünkisuñilantrawülmüntamüniyafieltikofkekaputuafiel
 tüfachipulku.
 
---- page 364 ---
 1Korintio11:27 361 1Korintio12:10
 ChumngechiñillowngeaelÑidolñiSena
 27Femngechitatey,ineyrumeifiletikofkekamputuletaÑidolñikopa
@@ -18398,7 +18036,6 @@ müten,feykakeluchekayllowkeytipepiltañitremolafieltapukutran.
 kayñinütramtuafieltiwerkendunguñilloweltaNgünechenmew.Ka
 kiñekentuNgünechenelukeeyewtikimünfemngechitañikimafieltipu
 
---- page 365 ---
 1Korintio12:11 362 1Korintio12:28
 koylangünenngechipüllükañikimafieltirüfngechiLifKümePüllü,fey
 kakelukayelukefiñipepidunguaeltikatripadungunkapetufeleyñipepi
@@ -18449,7 +18086,6 @@ kafemngechitipucheelungeluñifemaelafmatufaldungu,feykakelupu
 chekayñitremolafieltipukutran,kamkellualu,kamtatiadniealutitrokiñ
 feyentulechichekamtidungualukatripadungunmew.
 
---- page 366 ---
 1Korintio12:29 363 1Korintio13:13
 29Itrokomtüfeyengüntaapostolngelaykaitrokomnorumetapelon
 wentrungelayengün,kaitrokomnorumekimeltufengelay,kaitrokomno
@@ -18499,7 +18135,6 @@ tipiwkeyechen,welutatidoykümelufeytikülamewfeytapiwkeyechen.
 13:12kiñeespejomewreke:tatiespejokuyfimewdewkülekefuykiñeliftukaelchipañillwemew,
 feytiangekümepengenkelafuyadkintunmew.
 
---- page 367 ---
 1Korintio14:1 364 1Korintio14:14
 14
 Dunguaelkaketripadungunmew
@@ -18550,7 +18185,6 @@ dungu.
 ngillatumekeniñchekisuñipiwkemewmüten,weluiñcheñilongkokimlay
 ñichempimekenñiwün.
 
---- page 368 ---
 1Korintio14:15 365 1Korintio14:27
 15¿Feychemchumanamiñche?Feyfeleytañingillatuaeliñcheñipiwke
 mew,welukafemngechiñikimküleaeliñcheñilongkomew.Feleytañi
@@ -18603,7 +18237,6 @@ müleyñirulpadungungetuaeltüfeychidunguelchidungun.
 *
 14:21Isaia28.11-12.
 
---- page 369 ---
 1Korintio14:28 366 1Korintio15:3
 28Feyngenoleineynorumetatitrawünmewtañipepirulpadungutuafiel
 tidunguelchidungun,doykümeaytañidungungenoaeltatikaketripa
@@ -18653,7 +18286,6 @@ feyentupüdaymün.
 llowel.KimeltuwiyiñCristotañilaniñchiñtaiñyafkanñiduam,
 chumngechifeypileytaWirinChillka.
 
---- page 370 ---
 1Korintio15:4 367 1Korintio15:23
 4Kakimeltuwiyiñtañirüngalngenkatañiwiñomongetunkülaantüalumew,
 chumngechitañifeypilentaWirinChillka
@@ -18704,7 +18336,6 @@ Cristomewitrokomchewiñomongetuay.
 wünewiñomongetulu,feywüla,wiñometuletaCristo,kisutañimontulelchi
 puchekawiñomongetuay.
 
---- page 371 ---
 1Korintio15:24 368 1Korintio15:38
 24FeyCristowiñoleltuafitaChawNgünechenkomñingüneniekeel,dew
 wewfiluamitrokomtatiñidolküleyelu,katipuawtoridadkülelukatinieyelu
@@ -18753,7 +18384,6 @@ feykakekiñekefünelukefiñichumleaelñifün.
 mewngelaykangelufeypintüfachiwimtunmew,welumülefuykiñekechefawtisakefuluñifüreneafiel
 kangeluchedewlalu. ‡ 15:32Isaia22.13.
 
---- page 372 ---
 1Korintio15:39 369 1Korintio15:56
 39Itrokomkuerputatrürlayñichumngen.Kiñerumefeleytacheñi
 kuerpu,kangelukuerpunieytatipukulliñ,kangelunieytatipuüñümfey
@@ -18804,7 +18434,6 @@ Ngünechenñileydungufeypileykomtatiyafkaluñilayael.
 § 15:45Genesis2.7. * 15:45tiinanAdantaCristoürke. † 15:47Kiñekekuyfiwirinmewngelay:
 “tatiñidol”. ‡ 15:54Isaia25.8. § 15:55Osea13.14LXX.
 
---- page 373 ---
 1Korintio15:57 370 1Korintio16:14
 57¡WelumañumtufalitaNgünechen,wewiyiñiñchiñtaiñÑidolJesucristomew!
 58Feymewllemay,iñcheñisakinpupeñikalamngen,yafüluwkülenka
@@ -18853,7 +18482,6 @@ yafüngemünkanewentulemün.
 *
 16:8Pentekosteantü:epeakutuletawalüngantüngen.
 
---- page 374 ---
 1Korintio16:15 371 1Korintio16:24
 15Pupeñikalamngen,eymünkimnieymüntaEstefanañireñmatati
 müleluAkayatrokiñmapumew,†feytawünelumewllowitatiküme
@@ -18879,7 +18507,6 @@ Felepemay.‡
 † 16:15Akaya:tatitrokiñmapuchewñimülentaKorintowaria. ‡ 16:24Kiñekekuyfiwirinmew
 ngelay:“Felepemay”.
 
---- page 375 ---
 2Korintio1:1 372 2Korintio1:9
 2Korintio
 PabloñiepupuwchikartatatipuKorintochengealu
@@ -18928,7 +18555,6 @@ maneluwaelNgünechenmew,tatiwiñomongeltukefilutatipula.
 *
 1:1Akaya:tatitrokiñmapuchewñimülentaKorinto.
 
---- page 376 ---
 2Korintio1:10 373 2Korintio1:24
 10FeyNgünechentamontuleiñmewkaamuleaytaiñmontulnieaetewtati
 fütrakuñiwünngechidungumew.Feymaneluwküleiñtaiñamul
@@ -18980,7 +18606,6 @@ weñangküluwafiel.
 tamünaporiafeypiwafieltamünfeyentuaelkomiñchiñtaiñfeypikeel
 † 1:11Kiñekekuyfiwirintafeypiley:“ngillatuñmanieelmünmewtaeymün”.
 
---- page 377 ---
 2Korintio2:1 374 2Korintio2:14
 müten,welumayayükeiñtamünkelluwafieltaeymün,feyfemngechi
 tamündoynieaelayüwün.
@@ -19030,7 +18655,6 @@ Feytüfachuchipülerumeamuiñ,kisutaadkünukeeiñmewtaiñkimngeael
 taiñkimeltukeelchidungumew,feykisutañikümedunguwallpüle
 rupakeykiñekümeperfumereke.
 
---- page 378 ---
 2Korintio2:15 375 2Korintio3:11
 15FeyiñchiñtaiñmongenkümeinsiensorekefeleyNgünechenmew,
 Cristoammüleluiñchiñmew.Feychiinsiensopuwküleykomtatidew
@@ -19081,7 +18705,6 @@ trürümngeletüfachidoyfütrapepiluwünngechidungumew.
 11Afmafal-letatiafachikuyfileydungu,doyfütraafmafalaytüfachiküme
 dungurumelmülealuam.
 
---- page 379 ---
 2Korintio3:12 376 2Korintio4:7
 12Feykimnieluamtüfachidunguñirumelmülerpuael,kimeltukeiñkom
 rüfkünudungumew.
@@ -19132,7 +18755,6 @@ pepiluwünngen,chumngechitaJesucristomewfentekümekimngey.
 7IñchiñkümekimnieiñNgünechenñifütrapepiluwünngen,feykiñerume
 fütrakümefelenrekefeley.Feytüfachifütrapepiluwünnieiñtaiñpiwke
 
---- page 380 ---
 2Korintio4:8 377 2Korintio5:4
 mew,tuntemüteyafüngelafuyrume,femngechitañipengelelaeltüfachifütra
 pepiluwünñitripanontaiñchiñmew,welumayñiküpantaNgünechenmew.
@@ -19183,7 +18805,6 @@ kuerpufeytañiwekuerpukünungetuaelñirumelmongeleael.
 *
 4:13Salmo116.10LXX.
 
---- page 381 ---
 2Korintio5:5 378 2Korintio5:19
 5FeyNgünechenmütentapepikaleleiñmewtüfachidungu,kakisutawüne
 elukünueiñmewtiLifKümePüllükiñepürendareke,taiñllowaelwülatiwe
@@ -19234,7 +18855,6 @@ tüfachimapumewmülechipucheengün,feyñingüneduamüñmanofielñi
 yafkantatipuche.Feyiñchiñtawerküeiñmewtaiñkimelaelfeytüfachi
 werkendungu.
 
---- page 382 ---
 2Korintio5:20 379 2Korintio6:12
 20FeymewiñchiñJesucristoñiwerkenngeiñtüfachimapumew,feymew
 dewmakimeltuiñiñchiñJesucristotañikümedunguNgünechenmütenta
@@ -19286,7 +18906,6 @@ nieymünellkandunguiñchiñmew.
 *
 6:2Isaia49.8.
 
---- page 383 ---
 2Korintio6:13 380 2Korintio7:7
 13Feymewtallellipuwayiñ,chumngechitakiñechawllellipukeytañipu
 fotüm,tamünfeypimuafielkomnordungu,chumngechitaiñchefemkenta
@@ -19338,7 +18957,6 @@ dungumewdoyelchiayüwün.
 *
 20.34. 6:182Samuel7.8,14.
 
---- page 384 ---
 2Korintio7:8 381 2Korintio8:3
 8Iñchetañiwirielchikartatunteweñangkülkafeymünmewrume,welu
 wirilelpürarkefiñpilelan,welukuyfitupichiñmafeypifunkimluiñchefeychi
@@ -19388,7 +19006,6 @@ kakeluchefentrenpoyenmew,rikulelureke.
 tañipepiwülkeel,kadoywülkeykütu.Ineynorumefeypilaeyewengüntañi
 femngechiwülael.
 
---- page 385 ---
 2Korintio8:4 382 2Korintio8:17
 4Rumellellipueiñmewengüntaiñllowafieltipülatafemngechiiñchiñtaiñ
 eluwafieltatitrokiñfeyentulechichemülelutaJerusalenwariamew.
@@ -19439,7 +19056,6 @@ eymünkisutañirakiduamelmew,kisuamllowluiñchetañingülam.
 *
 8:15Exodo16.18.
 
---- page 386 ---
 2Korintio8:18 383 2Korintio9:6
 18Titomewyefaltukuankiñepeñi,rumekümedunguyenchengelukom
 tatiputrokiñfeyentuleyelumew,ñifentekümeküdawkenmewñi
@@ -19489,7 +19105,6 @@ femnoaelaporiaelchipuchereke.
 6Ngüneduamfimüntüfachidungu:Feytipichinnganlu,pichinkosechakey.
 Welutifentrennganlu,fentrenkosechakey.
 
---- page 387 ---
 2Korintio9:7 384 2Korintio10:5
 7Kakekiñekefeleytañiwülaeltuntetañirakiduamelñipiwkemew,welu
 wesaduamkechinokaaporiangenmewnorume.FeyNgünechenam
@@ -19541,7 +19156,6 @@ kimchekawünngen,tatikatrütukeluñikimngeaeltaNgünechen.Komcheñi
 *
 9:9Salmo112.9.
 
---- page 388 ---
 2Korintio10:6 385 2Korintio10:16
 rakiduamfamtukupakefiyiñtaCristomew,femngechiñimüngeltunieafielta
 kisu.
@@ -19594,7 +19208,6 @@ wariamew,welukimeltuaiñchewineynorumetañipetukimeltukenon.
 Femngechiineynorumetañifeypinoamiñchiñtaiñrangiñkonkiyawken
 chewkangeludewkimeltuwiyekemum.
 
---- page 389 ---
 2Korintio10:17 386 2Korintio11:12
 17Fey“kiñecherüfayüleñimallmawael,mallmawpetaÑidolñifemelchi
 dungumew.”*
@@ -19646,7 +19259,6 @@ koyladungungentüfeychipukimeltufefeypikeluñiküdawküleniñchereke.
 *
 10:17Jeremia9.24.
 
---- page 390 ---
 2Korintio11:13 387 2Korintio11:26
 Femngechifemantüfachidungutüfeychipukimeltufefeypikeluamñirüf
 apostolngen,welufeyngelay.Küdawkeyngünñirengünenkacheaelka“iñche
@@ -19697,7 +19309,6 @@ kutrankafenew.Kakiñekemewrupankuñiwünngechidungukiñekewaria
 mew,lelfünmew,lafkenmew,kakiñekecherewünmewfeypikeluñi
 feyentulenCristomewküpakutrankafenew.
 
---- page 391 ---
 2Korintio11:27 388 2Korintio12:7
 27Rumefentrenküdawniekenkafillkatrülkandungu,rumefentreke
 rupapepiumawtukelan,kutrankawkentangüñünmewkawüywünmew,
@@ -19747,7 +19358,6 @@ Ngünechentañipengeleletew,Ngünechenfemkünuyiñchetañikutranael.
 Kutrankaenewkiñepülliñrekesipokonküleluñikuerpumew,weküfütañi
 pepikaletewchikutrantañikutrankayaetew.
 
---- page 392 ---
 2Korintio12:8 389 2Korintio12:19
 8KülarupachillellipufuiñtaÑidolJesusmewtañifamentulelaetewta
 tüfachikutran.
@@ -19799,7 +19409,6 @@ iñcheretañiingkawaelmütenkisutuiñche,welulkawküleymün.Tüfatañi
 feypipeelchidunguNgünechentakomkimnieychemdungutañiwiripeelta
 iñchekaiñcheñikoneltulentaCristomew.Feypiwpeyiñtaeymün,pupeñi
 
---- page 393 ---
 2Korintio12:20 390 2Korintio13:7
 kalamngen,tamünpiwkeyewfielmew.Komtañifemkeelkañifeypikeel
 femkentamündoymaneluwkülerpuaeltaCristomew.
@@ -19851,7 +19460,6 @@ feypiayngünrumetaiñkimnontamünkümewerküwafiel.
 *
 13:1Deuteronomio19.15.
 
---- page 394 ---
 2Korintio13:8 391 2Korintio13:14
 8IñchechemdungurumetafemlayanfeypilenoleNgünechenñiküme
 rüfngechidungu,welumayfeleytañikelluafielmütentatikimnielukati
@@ -19876,7 +19484,6 @@ piwkeyeaeymünmew,katiLifKümePüllürumelkelluaeymünmew.Felepe
 may.†
 † 13:14Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 395 ---
 Galata1:1 392 Galata1:10
 Galata
 PabloñikartatatipuGalasiachengealu
@@ -19926,7 +19533,6 @@ iñchiñmüten,feytafamngechiCristoñikümekonangelayafun!
 *
 1:1apostol:kiñemanelnieelchiwerken.
 
---- page 396 ---
 Galata1:11 393 Galata2:2
 ChumngechiPabloapostolngey
 11Eymün,pupeñikalamngen,ayülentamünkimaeltüfachidungu:tati
@@ -19977,7 +19583,6 @@ tatipujudiutuwünngenolumew.Feytüfafamngechifemünayünoluam
 iñchetañidewkimeltukeelchidungutañikümelaytañipingenoael,feykom
 dungumewtrüruwiyiñ.
 
---- page 397 ---
 Galata2:3 394 Galata2:14
 3Tito,tatigriegutuwünngelu,miyawiyutakisuiñchiw,weluaporiangelay
 tañisirkunsidangeaelchumngechiñifeypilentatipujudiuñiwimtun
@@ -20028,7 +19633,6 @@ akulukiñekejudiu,¿chemmewantafeypimitatipujudiutuwünngenoluñi
 müngeltuafieltatipujudiuñiwimtundungu?”
 Komchellowitimontuluwünmupiltunmew
 
---- page 398 ---
 Galata2:15 395 Galata3:7
 15Iñchiñtajudiungeiñtaiñjudiutuwünngenmew,tatipujudiu
 tuwünngenochipucherekeyafkafetuwünngelaiñ.
@@ -20080,7 +19684,6 @@ NgünechenmewrüfdungumewtaAbraamñituwüncherekefeleay.
 *
 3:6Genesis15.6.
 
---- page 399 ---
 Galata3:8 396 Galata3:19
 8TatiWirinChillkamewtafeypileyfemngechiNgünechentañi
 montulafieltañiyafkanmewtipujudiutuwünngenolutüfeyengünnieluta
@@ -20130,7 +19733,6 @@ Moyseelngeyñirangiñelweleaelreke.
 † 3:8Genesis12.3;18.8. ‡ 3:10Deuteronomio27.26LXX. § 3:11Abakuk2.4. * 3:12Levitiko
 18.5. † 3:13Deuteronomio21.23. ‡ 3:16Genesis12.7.
 
---- page 400 ---
 Galata3:20 397 Galata4:7
 20WelufeychiNgünechenfeypikünuluñieldungutaAbraammew,
 ngelafuyñimüleaelkiñerangiñelwe,Ngünechenamtakiñelelumüten.
@@ -20179,7 +19781,6 @@ Ngünechenñiyalltaeymi.Feykisuñiyallngeluameymün,Ngünechen
 femkünuytamünkoneltuaelkisuñiFotümñiduam.
 Pablofillrakiduamküleytatipufeyentulelumew
 
---- page 401 ---
 Galata4:8 398 Galata4:24
 8Kuyfimew,feychipetukimnofilueymüntaNgünechen,poyekefuymünti
 pichikeadentunngünechen,welutüfeyengüntarüfdungumewNgünechen
@@ -20231,7 +19832,6 @@ Abraam.
 feypikünufieltatipuche.KiñeeldungutatiSinaywingkulmewtripalu,fey
 tüfachidomoñipüñeñpüresukonangeyengün.FeytüfachidomotaAgarürke.
 
---- page 402 ---
 Galata4:25 399 Galata5:8
 25AgaradentunieytatiSinaypingechiwingkul,Arabiamapumew,feyka
 adentuniefiJerusalenwaria.FeyAgarñipüñeñengünpüresukonangey
@@ -20281,7 +19881,6 @@ welurakiduameltueymünmewtamünfeyentuwenoafieltatirüfdungu?
 8Ngünechenno,kisuammütrümfetewtaeymün.
 * 4:27Isaia4.27. † 4:30Genesis21.10.
 
---- page 403 ---
 Galata5:9 400 Galata5:23
 9Feypingekeychumngechikiñepichinlefawrafayümkeykomtimasan,
 kafemngechikiñekecheñiwesakenütramwesaduamelkefikomche.
@@ -20331,7 +19930,6 @@ chemchingen,kutranduamyechen,kümengünewünngelu,
 rumekondenakefilutatüfafamngechidungu.
 * 5:14Levitiko19.18. † 5:21Kiñekekuyfiwirinmewngelay:“langümchefengey”.
 
---- page 404 ---
 Galata5:24 401 Galata6:14
 24KomtatikoneltulelutaJesucristomew,dewlangümfirekeengünkom
 tañiwesaillutukeelchidungukatañiwesakeayütukeel.
@@ -20382,7 +19980,6 @@ kürusmew.FeyCristotañilanmew,iñchefalintuwelafiñtüfachimapumew
 mülechidungu,kaiñchekafalintuniewetulaenewkomtatingüneniefilu
 tüfachimapu.
 
---- page 405 ---
 Galata6:15 402 Galata6:18
 15Chemfalilayrumetasirkunsidalenkamfelenonrume.Feytatirüf
 falilumaytatiwemongentanietulu.
@@ -20395,7 +19992,6 @@ konangen.
 18Pupeñikapulamngen,pewmangentaiñÑidolJesucristo
 füreneaeymünmewitrokomeymün.Felepemay.
 
---- page 406 ---
 Efesio1:1 403 Efesio1:11
 Efesio
 PabloñikartatatipuEfesochengealu
@@ -20443,7 +20039,6 @@ femngechitaiñpüramyeafieliñchiñtaiñmongenmew.
 *
 1:1Kiñekekuyfiwirinmewngelay:“taEfesowariamew”.
 
---- page 407 ---
 Efesio1:12 404 Efesio2:3
 12IñchiñtaiñpujudiungenwünelumewmaneluwiyiñtaCristomew,
 femngechitaiñmongenmewñipüramyengeaeltaNgünechenñifütra
@@ -20494,7 +20089,6 @@ Ngünechen.
 3Kafemngechimongelekefuiñkuyfimewkomiñchiñ.Inaniekefuiñ
 kisukeiñchiñtaiñillutukeelchidungu,feykamallmawkülekefuiñtaiñ
 
---- page 408 ---
 Efesio2:4 405 Efesio2:19
 yafkafemongenmewkataiñrakiduammew.Tüfeychikuerpuñiwesake
 wimtunmewfelefuyNgünechentaiñfütrakutrankayaetew,chumngechi
@@ -20547,7 +20141,6 @@ fülpuaeltaChawmewtatikiñenLifKümePüllümewmüten.
 19Feymewllemay,eymüntadewkatripancherekefelewetulaymün,ka
 wichutrokiñmapungelaymün,welumaytafewlakiñewünkoneltuleymün
 
---- page 409 ---
 Efesio2:20 406 Efesio3:12
 taNgünechenñitrokiñcheñinieelchikümedungumew,ka
 reñmakonkületuymüntaNgünechenñireñmachemew.
@@ -20599,7 +20192,6 @@ maneluwüntaiñnieeltaiñfeyentunCristomew.
 2:20tipupelonwentru:feytüfachipuchetatipupelonwentruKuyfiChillkamewmüleluno,welu
 maykiñekefeyentulechichenütramyekeluJesusñikümedungu.
 
---- page 410 ---
 Efesio3:13 407 Efesio4:8
 13Feymewllemay,llellipuwayiñtamünngañwadduamnoaeliñcheñi
 kutrankawkülenmew,iñcheamkutrankawkülelueymüntamünduam,
@@ -20651,7 +20243,6 @@ feypüresuyetufitaiñpüresuniekefetew,
 *
 3:14Kiñekekuyfiwirinmewngelay:“taiññidolJesucristoñi”.
 
---- page 411 ---
 Efesio4:9 408 Efesio4:24
 feykisuelufiñipepiltipuche.”*
 9Fey¿chemamtati“püratuywenumapu”pin?Tüfatafeypinürkekisu
@@ -20703,7 +20294,6 @@ tatiadkünuelchumngechiñiayüeltaNgünechen,kakimfalkelutakiñenor
 * 4:8Salmo68.18. † 4:11kiñeketañiapostolngeael: Jesusñidullielchimariepuwentruka
 femngechikiñekeküdawkeluPabloreke;tüfaengündullieyewtaCristo.
 
---- page 412 ---
 Efesio4:25 409 Efesio5:8
 mongenmewkalifrakiduammew,tatinewentuwkülelurüfngechidungu
 mew.
@@ -20753,7 +20343,6 @@ engünmewtañimüngeltukenoetew.
 miyawkefuymün,welufewlatamünkiñewkülentaCristomew,
 ‡ 4:25Sakaria8.16. § 4:26Salmo4.4LXX.
 
---- page 413 ---
 Efesio5:9 410 Efesio5:27
 miyawtuymünpelonrekefelechikümekedungumew.Feymiyawtuluam
 eymüntipelonmewreke,feleytamünnieaellifmongen,
@@ -20803,7 +20392,6 @@ lifmongenmewfelelu.
 *
 5:9Kiñekekuyfiwirinmewfeypiley:“tatiLifKümePüllü”.
 
---- page 414 ---
 Efesio5:28 411 Efesio6:12
 28Chumngechitakiñewentrupiwkeyenieykisuñikuerpu,kafemngechi
 feleyñipiwkenieaelkisuñikure.Feytipiwkeyelukisuñikure,kisututa
@@ -20852,7 +20440,6 @@ engüntanieykisuñiwerkendungu,kaawtoridadkangüneniefilutatüfachi
 dumiñmalechimapu.
 † 5:31Genesis2.24. * 6:3Exodo20.12;Deuteronomio5.16.
 
---- page 415 ---
 Efesio6:13 412 Efesio6:24
 13Feymew,nüfimünkomtiweychawerekefeleluNgünechentamün
 eluetew,femngechitamünnewenngeaeltiküpalechikuñiwünngechiantü
@@ -20891,7 +20478,6 @@ piwkeyeniefiluiñchiñtaiñÑidolJesucristokiñeafkenochipiwkeyenmew.
 Felepemay.†
 † 6:24Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 416 ---
 Filipense1:1 413 Filipense1:10
 Filipense
 PabloñikartatatiFilipochengealu
@@ -20940,7 +20526,6 @@ fentrenkimünkatamündoyadümaelNgünechenñikümedungu.
 femngechinieaymüntakiñelifmongen,feytamünnienoaelchemwesa
 dungunorumetamünfamentuaetewfeychiwiñometuletaCristo.
 
---- page 417 ---
 Filipense1:11 414 Filipense1:27
 11Katamünrumelfemaelrekümekedungumüten,eymünamdew
 koneltulelutaJesucristomew,feyfemngechiñipüramyengeaeltaNgünechen.
@@ -20992,7 +20577,6 @@ kamamullenolirume,ayülentañikimaeleymüntamünyafüluwkülenka
 tamünrumekümekiñewkülentamupiltunmewtiküpalutawerken
 montuluwündungumew,
 
---- page 418 ---
 Filipense1:28 415 Filipense2:14
 28tamünchemllükalenoaelrumetamünpukayñemew.Feytüfafente
 kümengünelküleykisuengüntañiamulenñiapümkangeael,kafemngechi
@@ -21042,7 +20626,6 @@ takisuñiayükeel.
 14Femkeaymüntakomkümekedungu,welutamünfillpimekewnoaelka
 tamünüyawtumekewnoaeltaeymün,
 
---- page 419 ---
 Filipense2:15 416 Filipense2:30
 15femngechitaineynorumeñipenoaeltaeymünmewkiñeyafkanno
 rumekawelulkannorume.NgünechenñiFotümrekefelemünchemwesa
@@ -21093,7 +20676,6 @@ mongentañikelluetewmewtaiñche.
 3
 Rüfdungumewfalilu
 
---- page 420 ---
 Filipense3:1 417 Filipense3:14
 1Feyfewla,iñcheñipupeñikalamngen,ayüwkülemüntaÑidolmew.
 Iñchechemmewrumeafeluwkülelantañikawiñomefeypiaeltamündew
@@ -21146,7 +20728,6 @@ mew.
 3:5farisew:kiñetrokiñjudiuchemüngeltuniekefiluMoysetañileydungu,kafemngechitatikakelu
 wimtun.
 
---- page 421 ---
 Filipense3:15 418 Filipense4:8
 15Komiñchiñ,rüfmewmupiltuleluCristomew,feleytaiñfamngechi
 rakiduamael.Welukiñekedungumewkangelurakiduamnielmün,fey
@@ -21196,7 +20777,6 @@ Rakiduamkülemünkümekedungumew
 8Feytüfafamngechi,pupeñikalamngen,rakiduamkeaymüntakom
 rüfngechidungumew,komtatifeleluñiyamngeael,komkümekedungu,ka
 
---- page 422 ---
 Filipense4:9 419 Filipense4:23
 komlifngelu,kakomtuteluñiayüngeael,komtatikümeüytundungu.
 Rakiduamkeaymünkomtatikümekedungumewkatipüramyefalchidungu.
@@ -21246,7 +20826,6 @@ Felepemay.*
 *
 4:23Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 423 ---
 Kolosense1:1 420 Kolosense1:9
 Kolosense
 PabloñikartatatipuKolosachengealu
@@ -21295,7 +20874,6 @@ femngechikelluaeymünmewtamünfentekümekimafieltaNgünechenñi
 * 1:2Kiñekekuyfiwirinmewngelay: “kataiññidolJesucristo”. † 1:7Kiñekekuyfiwirinmew
 feypiley:“eymünmew”.
 
---- page 424 ---
 Kolosense1:10 421 Kolosense1:23
 ayükeelchidungufeykakimelelaeymünmewitrofillkümekekimünka
 longkontukuafimüntaNgünechenñidungu.
@@ -21346,7 +20924,6 @@ maneluwünmew,tatiwerkenmontuluwündungutamünallküelmew.Fey
 ‡ 1:12Kiñekekuyfiwirinmewfeypiley:“taiñdullietew”. § 1:14Kiñekekuyfiwirinmewngelay:
 “Cristoñiwütrulelchimollfüñmew”.
 
---- page 425 ---
 Kolosense1:24 422 Kolosense2:9
 tüfachiwerkendungutatidewkimelngeluitrofillpülekakommapumew,
 feyiñchePablokellukentañiwewpingeaeltüfachidungu.
@@ -21397,7 +20974,6 @@ may,tatipucheñipepikaelchiwimtundungumewkatimüleyechi
 pepiluwünngüneniefilutatüfachimapu.
 9CristomewkimngeykomñichumngentaNgünechen,
 
---- page 426 ---
 Kolosense2:10 423 Kolosense2:22
 10feykiñewküleluameymüntaCristomewNgünechenkimeleymünmewñi
 fütrapepiluwünngen,Cristoamlongkoleluitrokomtipuwerkenpüllümew,
@@ -21447,7 +21023,6 @@ kimeltundungu.
 püresurekeyeniefi:kiñewimtunürkefelñiwifkünuaeltatipüresuelchipusoltawñitrekaleaeltatipu
 cheñiadkiñmewfemngechitañiayentukayael.
 
---- page 427 ---
 Kolosense2:23 424 Kolosense3:12
 23Feyngeytatüfachidungukümekimünrekeñifelefel,feyamNgünechen
 ñidungurekefelelutañiñompiwkengeaeltachekañieluwküleaelñi
@@ -21498,7 +21073,6 @@ ngenoafeluwünngeael.
 feypiley: “iñchiñmongeletuiñ”. ‡ 3:6Kiñekekuyfiwirinmewngelay: “tüfeychichemewtañi
 müngeltukenoetew”.
 
---- page 428 ---
 Kolosense3:13 425 Kolosense4:3
 13Welukonkechingenoafelniewaymün,kawiñoduamawaymünkiñeke
 femlewesadunguñilladkülkayafieltakangelu.ChumngechitaÑidol
@@ -21548,7 +21122,6 @@ mañumtulekeaymüntaNgünechenmew.
 Cristoñiwerkendungu.Tüfachidungutakuyfimewtañiallkükenofel
 engün,feytüfachidunguñiduamiñchetapüresulen.
 
---- page 429 ---
 Kolosense4:4 426 Kolosense4:18
 4Ngillatulemünfemngechiiñchetañikimeltuafielkümekimünmewtati
 puchechumngechifeleytañifemael.
@@ -21599,7 +21172,6 @@ taeymün.Felepemay.‡
 pifaleymünmewtaJesus:KuyfimewtarumefentrencheJesuspingerkefuyñiüy,feytüfachiwentru
 JesuspingeluCristonotati. ‡ 4:18Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 430 ---
 1Tesalonisense1:1 427 1Tesalonisense1:8
 1Tesalonisense
 Pabloñiwünewirielchikartatatipu
@@ -21647,7 +21219,6 @@ MasedoniakaAkayamewmütenno,welumaytaitrokompülekakimngey
 *
 1:1Kiñekekuyfiwirinmewngelay:“kataiññidolJesucristo”.
 
---- page 431 ---
 1Tesalonisense1:9 428 1Tesalonisense2:11-12
 timupiltuntamünnieeleymüntaNgünechenmew,feytüfafamngechi
 iñchiñngelaytaiñchempiaelrume.
@@ -21699,7 +21270,6 @@ cheñiadkiñmew.
 kiñeketaeymün,chumngechifemkeytakiñechawkisuñipufotümmew.
 Feyiñchiñngülamuwiyiñtamünkümefemyawaelnordungumew
 
---- page 432 ---
 1Tesalonisense2:13 429 1Tesalonisense3:5
 chumngechifeleyñifemaeltatikoneltulelutaNgünechenmew,tüfeytamün
 mütrümetewtamünkonpaleaelkisuñillümllümfütrakümemülewemew.
@@ -21750,7 +21320,6 @@ ramtulmeaetewpetutamünnewentulepenmaytatimupiltunmew,fey
 *
 3:2Kiñekekuyfiwirinmewngelay:“taiñkompañ”.
 
---- page 433 ---
 1Tesalonisense3:6 430 1Tesalonisense4:7
 iñcheamllükalefulutamünwesaüñfituaetewtaWeküfüfemngechi
 elkünutuafuymüntamünmupiltuntaCristomew,feyiñchiñtaiñ
@@ -21800,7 +21369,6 @@ dungufemkelu,chumngechitadewkimeltuwiyiñ.
 7Ngünechenamdullinoetewtaiñchiñtaiñnieaelwesamongen,welumay
 taiñnieaellifmongentakisumew.
 
---- page 434 ---
 1Tesalonisense4:8 431 1Tesalonisense5:6
 8Femngechitatipucheillamtufilutüfachikimeltun,illamtukelafitache
 ñidungumüten,welumayillamtukefitaNgünechen,tamünelueteweymün
@@ -21851,7 +21419,6 @@ mülelaiñkadumiñmewnorume.
 feleytaiñtrepeluwküleaelkümelifrakiduammewtaiñüngümafielfeychi
 antüküpatualetaÑidol.
 
---- page 435 ---
 1Tesalonisense5:7 432 1Tesalonisense5:27
 7TatipucheumawtukelukangollikünuwkeluüngümnielafingüntaÑidol.
 8Weluiñchiñampelonmewtamülelu,feleytaiñnieaellifküme
@@ -21899,14 +21466,12 @@ Lemoriapifalelchidungu
 27Yefaldunguwayiñ,taÑidolñiawtoridadmew,tañichillkatungeael
 tüfachikartataitrokompufeyentulelumew.
 
---- page 436 ---
 1Tesalonisense5:28 433 1Tesalonisense5:28
 28FeytaiñÑidolJesucristoeluaeymünmewkisuñiwülkeelchipiwkeyechen
 taeymünmew.Felepemay.*
 *
 5:28Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 437 ---
 2Tesalonisense1:1 434 2Tesalonisense1:11
 2Tesalonisense
 Pabloñiepupuwchikartatatipu
@@ -21953,7 +21518,6 @@ feytüfachitrokiñchemewkoneltuleymün.
 11FeymewngillatuñmawkeyiñtaNgünechenmewtamünküme
 trokitunieetewkiñentrürkisutañipoyenieelchitrokiñchemew,ka
 
---- page 438 ---
 2Tesalonisense1:12 435 2Tesalonisense2:13
 ngillatuñmaniewkeyiñtamünfemael,kisuñipepiluwünmew,komtamün
 ayünieelchikümekedungukatiküdawtamünfemkeelmupiltunmew.
@@ -22003,7 +21567,6 @@ dewmangenonchemnorumeNgünechenamdullietewmewtaeymün
 tamünmontuluwaeltiLifKümePüllüñikellunmew,katamünfeyentuel
 mewtatirüfngechidungu.
 
---- page 439 ---
 2Tesalonisense2:14 436 2Tesalonisense3:13
 14Feytaiñwewpikeelchiwerkenmontuluwündungumew,
 dullieymünmewtaNgünechen,femngechitamünkoneltuleaeltaiñÑidol
@@ -22054,7 +21617,6 @@ awtoridadmewtañiküdawaelengünfemngechiñikisuamayewküleael
 engün.
 13Pupeñikalamngen,afeluwkilmünkümekedungutamünfemael.
 
---- page 440 ---
 2Tesalonisense3:14 437 2Tesalonisense3:18
 14Feykiñekentuduamkünunoleiñchiñtaiñfeypielchidungutakartamew,
 ngüneduamfimünñiineyngentatüfey,feytrawükilmüntakiñentrürkisuengu
@@ -22073,7 +21635,6 @@ eymün.Felepemay.*
 *
 3:18Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 441 ---
 1Timotew1:1 438 1Timotew1:10
 1Timotew
 PabloñiwünewirielchikartaTimotewngealu
@@ -22122,7 +21683,6 @@ itrokomtatipulangümchefe,
 10tatifillwesadungufemkelutiñiwaluwünwentrukadomoengün,kati
 puwentrueluwkeluwentrumewdomoreke,tatipumiyawülkefiluñi
 
---- page 442 ---
 1Timotew1:11 439 1Timotew2:6
 fendeafielkañiwesafemmekeafielchemcherume,tatipu
 koyladungukelukatatikoylangünenmewkuyalltukelu.Feytüfalletati
@@ -22173,7 +21733,6 @@ Ngünechenmewkapuwentruengünmew:Jesucristotatüfey,
 6kisuameluwluñilangümngeaelfemngechiñimontulafieltaitrokom
 che,feyfamngechifelerpuychumngechitañifeypikünungeel.
 
---- page 443 ---
 1Timotew2:7 440 1Timotew3:7
 7Feychidungumewtaiñchedullingenñiapostolngeaelñiwüldunguael,ka
 yefaldungungentañikimeltuafieltipujudiutuwünngenochipuchetati
@@ -22224,7 +21783,6 @@ Chumngechimongenñinieaeltipudiakono
 *
 3:6Kafamngechifeypingeafuy:“famkonafuyWeküfüñipepikaelchikutrankangenmew”.
 
---- page 444 ---
 1Timotew3:8 441 1Timotew4:6
 8Kafemngechitipudiakonokafeleytañiyamfalchengeaelengün,rumel
 mupituleaelñidungukeelmewkañingollifengenoaelkañiayünoaeltañi
@@ -22274,7 +21832,6 @@ kayafüluwkülelmitatimupiltundungumewkatikümekimeltunmewtami
 dewinanieel,femngechitaJesucristoñikiñekümekonangeaymi.
 † 3:16Kiñekekuyfiwirinmewfeypiley:“Cristo”.
 
---- page 445 ---
 1Timotew4:7 442 1Timotew5:7
 7Welufeyentukefilngechemmaputuwünngechiwedweddungunorume.
 NewentuwkülengetamimaneluwküleaeltaNgünechenmew.
@@ -22323,7 +21880,6 @@ feytalaleyrekeñimongenmew.
 7Feytüfafamngechiwerküaymitüfachidungu,femngechitañinieael
 engünkümelifmongen.
 
---- page 446 ---
 1Timotew5:8 443 1Timotew5:24
 8Ineyrumetakisutungüneduamuwnole,kainaduamnolekisutañi
 rukañmanieelchipureñma,feytallumumanieytañimupiltunkadoyelküley
@@ -22375,7 +21931,6 @@ engüntakuisiomew,welukiñekeyafkantarupaleyechiantümewwüla
 kimfalkey.
 * 5:16Kiñekekuyfiwirinmewfeypiley:“kiñefeyentulechiche”. † 5:18Deuteronomio25.4.
 
---- page 447 ---
 1Timotew5:25 444 1Timotew6:12
 25Kafemngechimüten,tatikümekefemünfentekümekimfalkey.Feytüye
 tatipekenoel,ngelaytañirumelellkaleael.
@@ -22424,7 +21979,6 @@ mew.
 *
 6:5Kiñekekuyfiwirinmewngelay:“Püntütripangetüfafamngechichemew”.
 
---- page 448 ---
 1Timotew6:13 445 1Timotew6:21
 13Feytüfata,Ngünechenmew,tatieluniefilumongenkomtatimüleyelu,
 kaJesucristomew,kakisutafentekümeentudunguykanordunguyta
@@ -22461,7 +22015,6 @@ engüntañimupiltunmew.
 † 6:21Kiñekekuyfiwirinmewfeypiley:“eymi”. ‡ 6:21Kiñekekuyfiwirinmewngelay:“Felepe
 may”.
 
---- page 449 ---
 2Timotew1:1 446 2Timotew1:10
 2Timotew
 PabloñiepupuwchikartaTimotewngealu
@@ -22507,7 +22060,6 @@ mapu.
 Jesucristo,feywewfitatilandunguñipepiluwün,tatiwerkenmontuluwün
 dungumew,feykimeliñimülentatirumelmüleachimongen.
 
---- page 450 ---
 2Timotew1:11 447 2Timotew2:9
 11Ngünechentayefaldunguenewñiwewpiafieltüfachiwerkendungu,ka
 werküenewkiñeapostolkakimeltufereketatipujudiutuwünngenolumew.*
@@ -22557,7 +22109,6 @@ Ngünechenñiwerkendungutrarilelaytakadenamew.
 *
 1:11Kiñekekuyfiwirinmewngelay:“tatipujudiutuwünngenolumew...”
 
---- page 451 ---
 2Timotew2:10 448 2Timotew2:24
 10Feymewtaafeluwkelanitrokommewfemngechitañikümelkaafiel
 Ngünechentañidullielchipuche,kafemngechitakisuengünñillowaeltati
@@ -22608,7 +22159,6 @@ Dewkimnieymitafeychidunguñiküpalkentayafkawün.
 maymüleyñipiwkeyeafielkomche.Feleyñikümeadümnieaeltañi
 kimeltucheaelkatañingenoafeluwünngeael.
 
---- page 452 ---
 2Timotew2:25 449 2Timotew3:11
 25Kafeleytañingülamafielñompiwkemewtatipuwesakepiwkengelu,
 tañimaneluwkületuaelkañiwiñorakiduamtuaelengüntaNgünechenmewka
@@ -22659,7 +22209,6 @@ montulenewkomtüfeychiwesakedungumew.
 3:8tatiepukalkuJaneskaJambres:tatipujudiuñiwimtundungufeypileyfemngechipingefuy
 ñiüytiepukalkutañiüyawtudungufieltaMoyse.
 
---- page 453 ---
 2Timotew3:12 450 2Timotew4:9
 12Rüfngeyllemaykomtatiayülelutañimongeleaellifpiwkemewtañi
 poyeafieltaCristoJesuskutrankawayfillwesakekayñetundungumew,
@@ -22709,7 +22258,6 @@ piwkeyenmewñiwiñometuaeltaCristo.
 Timotewñingülamngen
 9Pepikawngekapürümkechiküpangetamipepayafiel.
 
---- page 454 ---
 2Timotew4:10 451 2Timotew4:22
 10FeyDematakisukünutuenew.Doyayütufitüfachimapumewmülechi
 dungu,feyamutuytaTesalonika.KresenteamuytaGalasiatrokiñmapu
@@ -22747,7 +22295,6 @@ füreneaeymünmewtaeymün.Felepemay.*
 *
 4:22Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 455 ---
 Tito1:1 452 Tito1:9
 Tito
 PabloñikartataTitongealu
@@ -22794,7 +22341,6 @@ kimeltungeel,femngechitañiyafültukuafieltakakeluchetinorküme
 kimeltunmewkafemngechitañikümeduamkechinütramkayafieltati
 welulkawkülechipuche.
 
---- page 456 ---
 Tito1:10 453 Tito2:8
 10Rumefentreleytachetatimüngeltukenolu,tatifilldungupikelu,katati
 ngünekachekeluñikimeltunmew,feytipujudiumüngellfeypikefilutacheñi
@@ -22845,7 +22391,6 @@ rakiduammewkaayekankechinorume.
 8Dungufingekiñekümenütramkanmew,femngechitaineynorumetami
 entuüñfilnoaetew.Kafemngechitayeweayineyrume
 
---- page 457 ---
 Tito2:9 454 Tito3:8
 notukadungueliyiñmew,feypepichempilayayrumetaiñwesa
 dunguyeaetewtaiñchiñ.
@@ -22896,7 +22441,6 @@ llowaeltatirumelmongentaiñmaneluwkülemum.
 8Tüfachidungufeyngey,feyayülentamiafeltukunoafieltüfachidungu,
 femngechitatifeyentulechipucheNgünechenmewñiküdawküleaeltañi
 
---- page 458 ---
 Tito3:9 455 Tito3:15
 femaeltikümekedungu.Tüfachidungutarumekümeytaitrokom
 chengealu.
@@ -22926,7 +22470,6 @@ FeyNgünechenfüreneaeymünmewtaeymün.Felepemay.*
 *
 3:15Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 459 ---
 Filemon1 456 Filemon11
 Filemon
 PabloñikartataFilemonngealu
@@ -22973,7 +22516,6 @@ kisutarumekellukeenew.
 puwtukelafeymew,welufewlakümepuwtunietuaeymewtaeymi
 chumngechifemkeytaiñchemew.
 
---- page 460 ---
 Filemon12 457 Filemon25
 12Feymewwiñomewerküleltuaeyutamikümellowtuafieliñchekamüten
 reketamillowafieltati.
@@ -23008,7 +22550,6 @@ Jesusñiduam.
 kellukeetewtañiküdawmew.
 25FeyÑidolJesucristotafüreneaeymewtaeymi.
 
---- page 461 ---
 Ebrew1:1 458 Ebrew1:9
 Ebrew
 TatikartatipuEbrewchengealu
@@ -23056,7 +22597,6 @@ Ngünechenñipuwerken.KomtüfaengünfeypingekeywirifilutatiKuyfiChillka. † 1:3
 ñimanadpüle:tañifemngechifeypingekentañipüramyeafieltaCristodewyengetulutawenumapu.
 ‡ 1:5Salmo2.7. § 1:52Samuel7.14. * 1:6Deuteronomio32.43LXX. † 1:7Salmo104.4LXX.
 
---- page 462 ---
 Ebrew1:10 459 Ebrew2:8
 doynieymiayüwüntamipukompañmew.”
 10Kafemngechifeypi:
@@ -23106,7 +22646,6 @@ itrokomdunguñingünenieeltakisu,
 ‡ 1:12Salmo102.25-27. § 1:13Salmo110.1. * 2:7Kiñekekuyfiwirinmewngelay:“Kaelufimi
 ñingünenieafielitrokomtamidewmael”. † 2:8Salmo8.4-6LXX.
 
---- page 463 ---
 Ebrew2:9 460 Ebrew3:3
 9welupefiyiñtaJesus.KisuñilanmewNgünechenfemkünueyewtañi
 inankületuaelreketatipuwerkenpüllümew.Ngünechen,kisuñipiwkeyen
@@ -23157,7 +22696,6 @@ saserdoteküdawmew,feykisutuchalintukuwiñilayaelfemngechiñiwiñoduamatuafielta
 *
 mew. 3:1tatiwerküel:apostolñipinürke.
 
---- page 464 ---
 Ebrew3:4 461 Ebrew4:1
 4Komrukamüleyñidewmayaetewtaineyrume,weluNgünechen
 dewmaykomtatimüleyelu.
@@ -23208,7 +22746,6 @@ Ngünechentañikümetüngün,feleytaiñkuñiwtuleaelfemngechikiñekentu
 eymünfelekilpeñillownoafiel.
 † 3:11Salmo95.7-11. ‡ 3:15Salmo95.7-8LXX.
 
---- page 465 ---
 Ebrew4:2 462 Ebrew4:16
 2Feyiñchiñkafemngechikimelngeiñtiwerkenmontuluwündungu,
 chumngechikimelngeytakisuengün,welukisuengünchemmewrume
@@ -23259,7 +22796,6 @@ iñchiñkataiñfüreneaetewchemlelenmewrumeduamtuliyiñtaiñ
 kellungeael.
 * 4:3Salmo95.11. † 4:4Genesis2.2. ‡ 4:5Salmo95.11. § 4:7Salmo95.7-8LXX.
 
---- page 466 ---
 Ebrew5:1 463 Ebrew5:14
 5
 1KomWünenLongkoSaserdotedullingeytatipuwentrumew,ka
@@ -23308,7 +22844,6 @@ kimnieytañingüneduamafielkomdungu,kadewkimnieychemdunguñi
 kümenkamñikümenon.
 * 5:5Salmo2.7. † 5:6Salmo110.4.
 
---- page 467 ---
 Ebrew6:1 464 Ebrew6:16
 6
 1Feymewllemay,feleyñielkünungeaeltatiwünekimeltungeelchidungu
@@ -23361,7 +22896,6 @@ kuyalltunmew,doyngewekelaytachempimekeaelrume.
 *
 6:14Genesis22.16-17.
 
---- page 468 ---
 Ebrew6:17 465 Ebrew7:8
 17Femngechitati,Ngünechenayürkeyñimupitulelafieltüfeychipuche
 feleluñillowaeltitukulpakünuelchidungu,feymewkuyalltuyñimupiaelñi
@@ -23412,7 +22946,6 @@ tañikonpumumtaiñkümelifreadkonpuaeltaNgünechenmew. * 7:2Genesis14.17-20. †
 kiñetrokiñchemkünmarimew:tatipuisraelchewülkefuykiñetrokiñmaritrokiñmewñiwewelmew
 engünfemngechitañimongeluwküleaeltipusaserdote.
 
---- page 469 ---
 Ebrew7:9 466 Ebrew7:24
 9FeyfeleyñifeypingeaeltatipusaserdoteLeviñituwünngelu,fewla
 kofrakeyengünkiñetrokiñchemkünmarimew,feytüfakafemngechi
@@ -23463,7 +22996,6 @@ kangeluñielungetuaelkaineynorumeñielungeael.
 *
 saserdotengey”. 7:21Salmo110.4.
 
---- page 470 ---
 Ebrew7:25 467 Ebrew8:9
 25FeymewfeleyñirumelmontulafieltüfeyengüntatifülpuluNgünechen
 mewkisuñiduam,feykisuamrumelmongelealu,femngechitañi
@@ -23515,7 +23047,6 @@ engüntaEgiptomapumew:
 *
 8:5Exodo25.40.
 
---- page 471 ---
 Ebrew8:10 468 Ebrew9:9
 Feykisuengünammupitunoluiñcheñieldungu,feymew
 kisuelkünutufiñengün,
@@ -23566,7 +23097,6 @@ tikuyfieldungumüten,ineynorumepepifülpulayafuytaNgünechenmew.
 mewchalintukukeelchiofrendakatilangümelchikulliñtatüyemewngelay
 † 8:12Jeremia31.31-34.
 
---- page 472 ---
 Ebrew9:10 469 Ebrew9:22
 ñipepinietuaelkümerakiduamtache.Amulekeyñikutrantupiwken
 engüntañifemngechifemünmewtiwesakedungu.
@@ -23618,7 +23148,6 @@ CristoñilanmewNgünechenkümetrokitunietuaeiñmew
 *
 9:20Exodo24.8.
 
---- page 473 ---
 Ebrew9:23 470 Ebrew10:8
 23Feytafamngechiduamtungekefuytañilangümngeaeltakulliñ
 femngechitañiliftungeaeltüyechichemküntatiadentulelutiwenumew
@@ -23669,7 +23198,6 @@ cheñifemngechifemael.
 *
 10:7Salmo40.6-8.
 
---- page 474 ---
 Ebrew10:9 471 Ebrew10:25
 9Feywülakafeypi:“Tüfatañiküpanfemngechitañifemaeleymitami
 ayükeelchidungu.”Tüfafeypinürke:feyñikiñepülenentutuafieltüyechi
@@ -23720,7 +23248,6 @@ welukonkeyafültukuwael,doyelchimay,kimfal-luñifülpantaÑidolñi
 wiñometuael.
 † 10:17Jeremia31.33-34.
 
---- page 475 ---
 Ebrew10:26 472 Ebrew11:2
 26Feydewkimliyiñtirüfngechidungu,weluamuleletaiñyafkameken,
 doyngewelayayineyñilayaeltayafkanmew.
@@ -23770,7 +23297,6 @@ pekenoelchidungu.
 amtamupiltun.
 ‡ 10:30Deuteronomio32.35-36. § 10:38Abakuk2.3-4LXX.
 
---- page 476 ---
 Ebrew11:3 473 Ebrew11:16
 3MupiltunmewkimnieiñtaNgünechenñidewmafieltaitrokommüleyelu
 kisuñidungunmew.Femngechiitrokomtaiñpekeeldewmangeytati
@@ -23822,7 +23348,6 @@ taeymüntamünNgünechen”,Ngünechenamnielukiñedewkülechiwaria.
 *
 11:5Genesis5.24LXX.
 
---- page 477 ---
 Ebrew11:17 474 Ebrew11:32
 17MupiltunmewtaAbraam,feychiayüleluNgünechenñikimaelAbraam
 ñirüfmüngeltunieetew,eluwiñichalintukuafieltaIsaaktañilangümafiel
@@ -23874,7 +23399,6 @@ trapümlayafuntañidunguaeltaGedeonmew,Barakmew,Sansonmew,Jefte
 mew,Davidmew,Samuelmew,katipupelonwentrumew.
 † 11:18Genesis21.12. ‡ 11:21Genesis47.31.
 
---- page 478 ---
 Ebrew11:33 475 Ebrew12:5
 33Mupiltunmewmüntuyengünkaketrokiñkemapu,kümenordungu
 femyeyengün,llowfiengünNgünechentañitukulpakünuelchidungu.
@@ -23925,7 +23449,6 @@ eluetewchingülamkisuñipuyallreke.FeypileytaWirinChillkamew:
 §
 11:37Kiñekekuyfiwirinmewngelay:“pürofangey”.
 
---- page 479 ---
 Ebrew12:6 476 Ebrew12:19
 kawesaduamkilngerumefemngechikatrütudunguelmew.
 6Ñidolamngülamtudungukefilutüfeychipuchekisutañipiwkeyenieel
@@ -23978,7 +23501,6 @@ dungungewenoael,
 *
 12:6Proverbio3.11-12.
 
---- page 480 ---
 Ebrew12:20 477 Ebrew13:3
 20yafüngenoluengünamñiallkütuafieltidungunfeypilelu:“Ineyrume
 pünopuletiwingkulmew,müleyñiütrüftukangeaelkuramewfeyñilayael
@@ -24027,7 +23549,6 @@ itrokomtüfeyengünmewtatikutrankangekeluÑidolJesusñiduam,fey
 eymünamkafelelutamünrupayaelkafemngechikutrankawünmew.
 † 12:20Exodo19.12-13. ‡ 12:21Deuteronomio9.19. § 12:26Ageo2.6LXX.
 
---- page 481 ---
 Ebrew13:4 478 Ebrew13:18
 4Itrokomcheyamniepetatikureyewündungukañiyamniewaelta
 kurewennorpiwkemew,feyNgünechenamramtukadunguafilutati
@@ -24078,7 +23599,6 @@ rumekümelkalayafeymünmew.
 kaayüleiñtaiñnorchengeaelkomdungumew.
 * 13:5Deuteronomio31.6,8. † 13:6Salmo118.6.
 
---- page 482 ---
 Ebrew13:19 479 Ebrew13:25
 19Feytüfachidungumewmüngellngillatuaymünfemngechiñieluaetew
 taNgünecheniñcheñiwiñotuaelpürümkareketaeymünmew.
@@ -24100,7 +23620,6 @@ pieymünmew.
 Felepemay.‡
 ‡ 13:25Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 483 ---
 Santiaw1:1 480 Santiaw1:13
 Santiaw
 Santiawñikarta
@@ -24147,7 +23666,6 @@ rakiduamkilpeNgünechenñipepikaletewtikintukaduamngen,fey
 Ngünechenamkintukaduamkenofiluineynorumeka
 kintukaduamngekelaytakisutañifemaelwesakedungu.
 
---- page 484 ---
 Santiaw1:14 481 Santiaw2:2-3
 14Welumay,kiñechekintukaduamkeeyewñiillutukeelchidungumew,
 feywülakisuñiwesaillutukeelngünenkakeeyewkawesa
@@ -24198,7 +23716,6 @@ kiñekechemütentikakelumew.
 iwülkuwütukunielukarekümeketakuwüntukuniele,feykümepoyefilmünka
 feypifilmün:“Anüngetüfachikümewangkumew”kafeychilelenmewakule
 
---- page 485 ---
 Santiaw2:4 482 Santiaw2:20
 kiñepofrelludketakuwüntukunielu,feytüfafeypifilmün:“Eymi
 witralengetüyemew”,kam“anünagngetatipüllimew”.
@@ -24249,7 +23766,6 @@ müllmüllkeyfenteñillükanmew.
 fürenechenengu,tañimupiltuntafalilay.
 * 2:8Levitiko19.18. † 2:11Exodo20.13-14;Deuteronomio5.17-18.
 
---- page 486 ---
 Santiaw2:21 483 Santiaw3:11
 21NgünechenllowfitaAbraam,iñchiñtaiñkuyfituwünem,kiñenor
 mongenngelureke,kisutañifemelmewfeychiwültukufiluNgünechenmew
@@ -24301,7 +23817,6 @@ dungu.Iñcheñipupeñikalamngen,feytüfangelayñifeleael.
 11Kiñerüngankomewtripakelayepurumeko:kochükokamükürüchiko.
 ‡ 2:23Genesis15.6.
 
---- page 487 ---
 Santiaw3:12 484 Santiaw4:8
 12Iñcheñipupeñikañilamngen,chumngechitakiñeigerapepi
 wül-layafuytaaseytunakakiñekallweofadpepiwül-layafuytafünigo,ka
@@ -24351,7 +23866,6 @@ tamünmongen,puyafkafe!¡Liftumüntamünpiwkeeymüntaepurume
 rakiduamnielu!
 * 4:4Epurakiduamngechipuche:ñiwafepiwkecheñipinürke. † 4:6Proverbio3.34LXX.
 
---- page 488 ---
 Santiaw4:9 485 Santiaw5:7
 9¡Kutrantupiwketumün,ngümamünkawirarkülenngümamün!¡Kisutamün
 ayekanfeletupelladkenmewkatamünayüwünfeletupeweñangkünmew!
@@ -24399,7 +23913,6 @@ taÑidol.Chumngechitatilelfüntripacheüngümkeytañiñimituaeltañifün
 ketrantawalüngngen,müleyñiüngümaelñirupayaelngenoafeluwünmew
 tatimawünantüngen.
 
---- page 489 ---
 Santiaw5:8 486 Santiaw5:20
 8Eymünkafeyngenoafeluwküleaymünkanewentuleaymün,feyam
 pürümkachirekeküpatualutaÑidol.
@@ -24442,7 +23955,6 @@ welulkawlutatirüfngechidungumew,feykangeluwiñoduamatueliyew,
 mongenmew,montultuafitalandungumew.Feytafamngechirume
 fentrenyafkanñiniefeltawiñoduamangetuay.
 
---- page 490 ---
 1Pedro1:1 487 1Pedro1:8-9
 1Pedro
 Pedrotañiwünenkarta
@@ -24490,7 +24002,6 @@ Feyentuleymüntakisumewfeytamünpekenofielrume.Feymewnieymün
 rumefütraayüwün,eymünamllowfilutatimontuluwündungutamün
 mupiltunmew,feytüfachiayüwünpepinütramyengelayafuytadungunmew.
 
---- page 491 ---
 1Pedro1:10 488 1Pedro1:22
 10Fütrakuyfimewtatipupelonwentru*chillkatuyengünkangüneduamfi
 engüntatüfachimontuluwündungu.NütramyefiengünNgünechentamün
@@ -24541,7 +24052,6 @@ piwkemewtatifeyentulechipuche.Kafemngechifeleytamün
 * 1:10tatipupelonwentru:Ngünechenñipuwerken. † 1:16Levitiko19.2. ‡ 1:22Kiñekekuyfi
 wirinmewngelay:“tatiLifKümePüllüñipepiluwünmew”.
 
---- page 492 ---
 1Pedro1:23 489 1Pedro2:9
 piwkeyewaelwelukonkechikiñelifpiwkemew§kakomtamünnewen
 mew.
@@ -24593,7 +24103,6 @@ kümefelenNgünechenñiduam.FeytüfaNgünechenfemkünueymünmew
 1:22Kiñekekuyfiwirinmewngelay:“kiñelifpiwkemew”. 1:25Isaia40.6-8. 2:6Isaia
 28.16LXX. † 2:7Salmo118.22. ‡ 2:8Isaia8.14.
 
---- page 493 ---
 1Pedro2:10 490 1Pedro2:23
 tamünkimelaelkisutañiafmatufalfürenechen,feyeymüntatidumiñmew
 rekemülekeludullingeymüntamüntripatuaeldumiñmewfemngechi
@@ -24646,7 +24155,6 @@ pimekeetew.Feychikutrankamekengelu,llükalkatuchelayrume,welumay
 §
 2:22Isaia53.9.
 
---- page 494 ---
 1Pedro2:24 491 1Pedro3:10
 chalintukuwitaNgünechenmew,tatiramtukadunguchekelunordungu
 mew.
@@ -24696,7 +24204,6 @@ Fey“ineyrumeayüleñikümelkaleaelñimongenmewkañiayüwünngechi
 feleaelrupalechiantümew,
 kuñiwtukupetañiwesadungunoaelkatañikoyladungunoael.
 
---- page 495 ---
 1Pedro3:11 492 1Pedro4:1
 11Kiñepületripamüntatiwesakedungumew,feyfemaymüntakümeke
 dungu.
@@ -24744,7 +24251,6 @@ kafemngechieluwkülemüntamünkutrankawael.Feytatichekutrankawlu
 tañikuerpumewfeytafamentuwkeytayafkanmew,
 * 3:12Salmo34.12-16. † 3:16Kiñekekuyfiwirinmewngelay:“wesamongennielureketaeymün”.
 
---- page 496 ---
 1Pedro4:2 493 1Pedro4:16
 2feytuntepuleñimongentañiinanieafielNgünechenñidungu
 chumngechiayüleytaNgünechen,weluñifemnoaeltatüfachikuerpuñi
@@ -24795,7 +24301,6 @@ kutrankawündungumew.
 4:14Kiñekekuyfiwirinmewngelay:“Rüfdungumew,tüfeyengünillamtukefitatiLifKümePüllü,
 welueymüntatipufeyentulelupüramyekefimün”.
 
---- page 497 ---
 1Pedro4:17 494 1Pedro5:12
 17FülkülepaydewmataNgünechenñiramtukadunguafieltañipu
 trokiñche.Feytatiramtukadunguchenllituleiñchiñmew,¿chumngechi
@@ -24846,7 +24351,6 @@ Afpualumewlemoriapin
 ñiwiriafieltüfachikarta.Wirifiñtamünngülamuwafielkafemngechitamün
 † 4:18Proverbio11.31LXX.
 
---- page 498 ---
 1Pedro5:13 495 1Pedro5:14
 kümekimaeltamünllowelchikümefelenmewrüfdungumewkimfali
 Ngünechentañipiwkeyechen.¡FeyrumelkümeinaniefimünNgünechentañi
@@ -24861,7 +24365,6 @@ pewmangennieaymüntakümetüngün.Felepemay.*
 *
 5:14Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 499 ---
 2Pedro1:1 496 2Pedro1:11
 2Pedro
 Pedrotañiepupuwchikarta
@@ -24907,7 +24410,6 @@ tamünmupiltulen.
 11Feyfemngechikümellowngeaymünfeyküdawtunolurekepuwaymün
 ÑidolJesucristoñiayfiñmew.
 
---- page 500 ---
 2Pedro1:12 497 2Pedro2:5
 12Feymewiñcheamuleantamünfeypiwafielkomtüfachidungu,tunte
 dewkimniefimünkanewentuleymüntatifeyngechidungumewtamün
@@ -24957,7 +24459,6 @@ ramtukadungungeael.
 5FeyNgünechenkafemngechiwiñoduamalafitatikuyfipucheyafkalu
 engün,feyadkünuyñimüleaelkiñefütramanginkotañiapümafieltatüyechi
 
---- page 501 ---
 2Pedro2:6 498 2Pedro2:20
 wesapiwkengechipuche.Noewewpikefuytacheñinieafellifmongen,
 weluNoekañipureñmachemütenmontuy.
@@ -25009,7 +24510,6 @@ cheampüresunieetewreketüfeychidungutañingünenieetew.
 20FeytüfeychipuchedewkimfilutaÑidoltatiMontulchefeJesucristo,
 dewmontuyengüntatiwesakedungumewmülelutatüfachimapumew.
 
---- page 502 ---
 2Pedro2:21 499 2Pedro3:12
 Feyeluwleñiwiñomengünetuaetewtüfeychiwesakedungu,doy
 wesalkaletuaykuyfimew,chumngechiñifelekefelkuyfi.
@@ -25059,7 +24559,6 @@ chemkünmülelukomlliwaykütralmew.
 *
 2:22Proverbio26.11.
 
---- page 503 ---
 2Pedro3:13 500 2Pedro3:18
 13Weluiñchiñüngümnieiññimületuaeltawedewmatuelchiwenumapu
 kawemapuNgünechentañitukulpakünuel,tüfeymewtakomkümekenor
@@ -25084,7 +24583,6 @@ inanieelchidungumew.
 18WelufeleytamündoykümekimafieltaiñÑidolMontulchefeJesucristo
 kadoypiwkeyeafimün.¡FewlakarumelpüramyengepetaÑidol!Felepemay.
 
---- page 504 ---
 1Juan1:1 501 1Juan2:2
 1Juan
 Juantañiwünewirielchikarta
@@ -25132,7 +24630,6 @@ femngechikomchüfmapumüleyechipuchemew.
 *
 1:4Kiñekekuyfiwirinmewfeypiley:“tamünayüwün”.
 
---- page 505 ---
 1Juan2:3 502 1Juan2:18
 3FeymüngeltufiliyiñNgünechentañiwerkündungu,rüfmewkimfalitaiñ
 kimniefieltakisu.
@@ -25183,7 +24680,6 @@ Tatirüfdungukatatikoyladungu
 18Pichikeweni,tüfatapuwküleydewmatañiafaeltaantü.Eymünta
 allkükeymünñiküpalenCristoñikiñekayñe.Feleytati.Tüfatapewfaluwyey
 
---- page 506 ---
 1Juan2:19 503 1Juan3:5
 Cristotañifentrenpukayñe.Feymewtakimnieiñtañipuwkülendewmañi
 afaeltaantü.
@@ -25235,7 +24731,6 @@ liftuaetewtayafkanmew,feykisutachemyafkannorumetanielay.
 *
 2:20Kiñekekuyfiwirinmewfeypiley:“eymünnieymünkomkimün”.
 
---- page 507 ---
 1Juan3:6 504 1Juan3:23
 6Femngechillemay,komtatirumelkiñewkülelukisumewyafkakelay,
 welukomtatirumelyafkakelupekelaeyewkakimlaeyewrume.
@@ -25285,7 +24780,6 @@ kisuñiwerkündungunkafemkeiñkisutañiayükeelchidungu.
 FotümJesucristomew,kataiñwelukonkechipiwkeyewaelchumngechi
 taiñwerküetewtakisu.
 
---- page 508 ---
 1Juan3:24 505 1Juan4:14
 24TañimüngeltuñmaetewñiwerkündunguNgünechenmewtamüley,fey
 Ngünechenkamüleytakisumew.Feytüfafamngechikimnieiñkisutañi
@@ -25336,7 +24830,6 @@ müleniñchiñmew,kisuñiKümePüllüameluetewtaiñchiñ.
 14FeykisukeiñchiñtapeiñkafeypikeiñtaChawñiwerküntañiFotümñi
 montulafieltüfachimapumewmülechipuche.
 
---- page 509 ---
 1Juan4:15 506 1Juan5:9
 15IneyrumekimfiletaJesusNgünechenñiFotümngen,müleytaNgünechen
 mewfeyNgünechenkamüleytakisumew.
@@ -25388,7 +24881,6 @@ Komkülangenkiñewküleyengün.Kafemngechikülaleytatifentekümepengelnieluñin�
 mew...”Welungelaychemkuyfiwirinrumenielutüfachidungu.Tatipuwirinweweflumütenniey
 tüfachidungu.
 
---- page 510 ---
 1Juan5:10 507 1Juan5:21
 10TatifeyentuluNgünechenñiFotümmew,nentukeytatüfachinütram
 kisutañipiwkemew.TatifeyentunolutaNgünechenmew,koylangelureke
@@ -25427,7 +24919,6 @@ ngünechen.Felepemay.‡
 † 5:13Kiñekekuyfiwirinmewngelay: “kafemngechitamünfeyentuaelNgünechenñiFotümñiüy
 mew”. ‡ 5:21Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 511 ---
 2Juan1 508 2Juan12
 2Juan
 Juantañiepupuwchikarta
@@ -25474,7 +24965,6 @@ Afpumumtiwewpin
 tafeypilayan.Eluwkülentamünpewmeafielfemngechitaiñnütramkawael,
 kafemngechitaiñfentekümeayüwael.
 
---- page 512 ---
 2Juan13 509 2Juan13
 13Tüfachitrokiñchemewmülechipupeñi,tüfaengüntakafemngechi
 Ngünechenñidullielchipuche,feyengüntalemoriapifaleymünmew.Felepe
@@ -25482,7 +24972,6 @@ may.*
 *
 1:13Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
---- page 513 ---
 3Juan1 510 3Juan12
 3Juan
 Juantañikülapuwchikarta
@@ -25530,7 +25019,6 @@ femngechikümetukulpakefiyiñtakisu.Eymikümekimnieymitaiñ
 feypikentatirüfngechidungu.
 Afpuaelchiwewpin
 
---- page 514 ---
 3Juan13 511 3Juan15
 13Iñchepütründunguniefuntamifeypiafieltaeymi,weluayülantañi
 wirintukuafieltakartamew.
@@ -25538,7 +25026,6 @@ wirintukuafieltakartamew.
 15Pewmangennieaymikümetüngün.Taiñpuwenitafentrenlemoria
 pifaleymünmew.Füreneenlemoriapifingekakekiñeketaiñpuweni.
 
---- page 515 ---
 Juda1 512 Juda8
 Juda
 Judatañiwirielchikarta
@@ -25584,7 +25071,6 @@ komchengealu.
 Yafkantukukeyengüntañikuerpu,yamkelafiengünÑidoltañiawtoridadka
 wesadunguyekefiengüntatinielupepiluwün.
 
---- page 516 ---
 Juda9 513 Juda23
 9WelutatifütrawerkenpüllüMiguelpingelu,petuweychalutaweküfü
 engukaüyawtuwpeluenguMoysetañikuerpumew,ayülefuytañiwesa
@@ -25636,7 +25122,6 @@ eluaeiñmewtarumelmongen.
 che,welukuñiwtuwkülemüntakisuengünmewkanüngaytuñmayafimünñi
 takuwünkütutañiwesalkalenmewtatiwesamongenñinienmewengün.
 
---- page 517 ---
 Juda24-25 514 Juda24-25
 Ngünechenpüramyengeyafpualumew
 24-25TatikiñenNgünechen,tatinielufütrakimün,iñchiñtaiñMontulchefe,
@@ -25648,7 +25133,6 @@ koneltuleyñipüramyengeaeltatinielutakompepiluwün,newenka
 awtoridad.PüramyengepetaiñÑidolJesucristo,feytüfakarumelamulechi
 tripantumew.Felepemay.
 
---- page 518 ---
 Apokalipsi1:1 515 Apokalipsi1:7
 Apokalipsi
 Juantañikimelelngeelchidungu
@@ -25695,7 +25179,6 @@ kakommapumülechiputrokiñche
 rumekutrantupiwkeaykangümayayengünkisumew.
 May,felepemay.
 
---- page 519 ---
 Apokalipsi1:8 516 Apokalipsi2:1
 8“Iñchetaalfakaomega,iñchemewamllitulukaafpulukomdungu,*tati
 kompepiluwünniechiNgünechen,tatimülelukamülekelukarumelmülealu”
@@ -25744,7 +25227,6 @@ tiregleoroküdetuwemew,feypi:
 * 1:8Kiñekekuyfiwirinmewngelay:“iñchemewamllitulukaafpulukomdungu.” † 1:11Kiñeke
 kuyfiwirinmewngelay:“Iñchetaalfakaomega,iñchemewamllitulukaafpulukomdungu.”
 
---- page 520 ---
 Apokalipsi2:2 517 Apokalipsi2:13
 2Iñchekimnienkomtamichumken.Kimnientamirumeküdawken
 iñcheñidungumewtuntekutrankawkefuymirume,welu
@@ -25795,7 +25277,6 @@ taiñchemewkaelkünulaymitamifeyentuleniñchemew,üyechiantümew
 *
 2:6nikolayta:kiñetrokiñchekimfalküleluñiwesakewimtunkawesakemongenmew.
 
---- page 521 ---
 Apokalipsi2:14 518 Apokalipsi2:25
 norumefeychitañikümewewpife,Antipapingelu,langümngeluPergamo
 wariamewchewñingünekalemumtaweküfü.
@@ -25846,7 +25327,6 @@ küpatualiwüla.
 † 2:17manapingechikofke: Ngünechenñielufielchiiyaeltatipuisraelchefeychimiyawentulu
 engüntiuwemapumew.
 
---- page 522 ---
 Apokalipsi2:26 519 Apokalipsi3:10
 26Feytatiwewlutuntepunñimongenkümedunguamulnieleñifemün
 chumngechiñiayükeeltaiñche,feyeluafiñtapepiluwünkomtrokiñ
@@ -25897,7 +25377,6 @@ mew,femngechitañikimaelengüneymiiñchetañipiwkeyenchengen.
 iñcheingkanieaeyu,tuntemülellefulerumefütrakutrankawüntakommapu
 mew.
 
---- page 523 ---
 Apokalipsi3:11 520 Apokalipsi4:2
 11Pürümkarekeküpayan.Kümeamulniengetamifemkeelchiküme
 dungu,femngechiineynorumetamimüntuñmanoaetewtamikullitu.
@@ -25948,7 +25427,6 @@ pengelelaeyutatirupayachidungukomfamngechi.”
 kiñefütraülmenwangkumülelutawenumapu,feykiñecheanüleytati
 ülmenwangkumew.
 
---- page 524 ---
 Apokalipsi4:3 521 Apokalipsi5:5
 3Tatianülelutiülmenwangkumewkiñejaspekurafemngerumeyñiad
 kamtakornalina,feyitrotripatatiülmenwangkupülemüleytakiñerelmu
@@ -25998,7 +25476,6 @@ nülayafeltichümpotuelchilifru,ñiadkintuafielnorume.
 5Welukiñetatiputremfütachefeypienew:“Ngümawekilnge,feytati
 trapialrekefelelu,tatimüleluJudatañireñmatrokiñchemew,tatilongko
 
---- page 525 ---
 Apokalipsi5:6 522 Apokalipsi6:2
 ülmenDavidtañituwünngelu,feytawewikapepinülayafuytati
 chümpotuelchilifrukawecharafuytatireglesellu.”
@@ -26049,7 +25526,6 @@ püllütañidunguntrününlukiñetralkanreke,feyfeypi:“¡Küpange!”
 yenieytakiñearkutañikuwümew.Elungeykiñetrarilongko,feytripayñi
 wewael.
 
---- page 526 ---
 Apokalipsi6:3 523 Apokalipsi6:17
 3FeytatiKorderuwecharüfilutatiepupuwchisellu,allkünñifeypintati
 epupuwchimongelechipüllüfeypilu:“¡Küpange!”
@@ -26100,7 +25576,6 @@ tatilifrelechipuche.
 17Dewakuluamtatifütrakutrankangenantü,¿ineyantafütra
 piwkeway?”
 
---- page 527 ---
 Apokalipsi7:1 524 Apokalipsi7:12
 7
 Tipumarkaleluisraelchetañitrokiñreñmamew
@@ -26153,7 +25628,6 @@ katiyamniengen,tatinewenkatiawtoridad
 7:2Ngünechenñisellu:kiñesellupünengekefuymarkawereke. Tatisellumewmülekefuykiñeüy
 femngechitañikümekimngeamtingenngelu.
 
---- page 528 ---
 Apokalipsi7:13 525 Apokalipsi8:8
 chalintukunielngepetaiñNgünechenfewla
 karumelrupaleachitripantumew.
@@ -26204,7 +25678,6 @@ tamapu,kiñentrüreperangiñtatipualiwenkaitrokomkarükachu.
 lafkenmewkiñeüykülechifütrawingkulweywiñkütralkechiley.Feyepe
 rangiñtalafkenmollfüñuwi.
 
---- page 529 ---
 Apokalipsi8:9 526 Apokalipsi9:11
 9Kaeperangiñitrokomtatimülelutalafkenmew,layey,kaeperangiñ
 tatipufarkuteyfükalewey.
@@ -26255,7 +25728,6 @@ kechuküyen.
 mülelutatifütrakonchilolomew,ebrewdungunmewtaAbadonpingeyka
 griegudungunmewApolionpingey.
 
---- page 530 ---
 Apokalipsi9:12 527 Apokalipsi10:4
 12Rupaytatiwünelechiwesakutrankawündungu,weluepuwesadungu
 tapetumüley.
@@ -26305,7 +25777,6 @@ chillkamewñikimelüntatiregletralkan,weluallküntakiñedungunwenu
 mapu,tañifeypietew:“Ñüküfkechiellkanieafimitatidungunñipieltatipu
 regletralkan,feywirintukukefilngetachillkamew.”
 
---- page 531 ---
 Apokalipsi10:5 528 Apokalipsi11:8
 5Feymewtañipeelchiwerkenpüllüwitralelutawentelafkenkamapu
 mew,fampüramiñimankuwütawenumapu.
@@ -26356,7 +25827,6 @@ feywewngeaykalangümngeayengu.
 mewchewlangümngeykisuengutañiÑidol,feytüfachiwariatañi
 adkünungenSodomakamEgiptopingekey.
 
---- page 532 ---
 Apokalipsi11:9 529 Apokalipsi11:19
 9Feykülaantükarangiñfillpületuwchipuche,kaketripatuwünche,
 kakerumedungunnielukatrokiñkemapuküpalupeñmayaeyewtañialwe
@@ -26406,7 +25876,6 @@ Tidomokatatifütrafilu
 *
 11:17Kiñekekuyfiwirinmewngelay:“katatiküpayalu”.
 
---- page 533 ---
 Apokalipsi12:1 530 Apokalipsi12:16
 1Pengeytakallfüwenumewkiñeafmafaldungu:kiñedomo
 munuluwkülelutaantümew,kiñepolleramewreke,küyenmiñchenamun
@@ -26458,7 +25927,6 @@ fütrafilumew,chewtañieluniengeaeltaiyaelkiñekülatripantukarangiñ.
 16Welutimapukellufitatidomo,feytimapunülatripaywünreke,fey
 wütrukonitikotatifütrafilutañiwütrunentueltañiwünmew.
 
---- page 534 ---
 Apokalipsi12:17 531 Apokalipsi13:13
 17Feymewtatifütrafilurumeñmalladkütufitatidomo,feyamuytañi
 weychameafieltüfeychipuchereñmayefilutidomotatimüngeltukelu
@@ -26510,7 +25978,6 @@ peelchiwapowesakulliñ,tatitremolmangeluñilanngechiallfen.
 famngechifeypilelu,tüfachidungumüley13.1mew. 13:10Kiñekekuyfiwirinmewfeypiley:ka
 tatilangümchelukuchillumew,kuchillumewtalangümngeay.
 
---- page 535 ---
 Apokalipsi13:14 532 Apokalipsi14:7
 14Feytüfeychiinanngechipewfaluwchikulliñeluniengeyñifemael
 afmatufaldunguñikellupeafieltiwünepewfaluwchiwapowesakulliñ,fey
@@ -26560,7 +26027,6 @@ mülechiwüfko.”
 *
 14:5Kiñekekuyfiwirinmewngelay:“Ngünechenñilongkoülmenwangkumew”.
 
---- page 536 ---
 Apokalipsi14:8 533 Apokalipsi14:20
 8Kainannieeyewtakangelukiñewerkenpüllüfeypilu:“¡Dew
 tranarupay,dewtranarupaytatifütrawariaBabilonia,tatingollilkakefilu
@@ -26612,7 +26078,6 @@ kutrankangeaeltatipuchemüngeltukefulutaweküfü.
 kütrüngngemumtripaytamollfüñ,feytaditupuykawellutañi
 witrantukuwemewkiñekülapatakakilometrowallpayñiingafkülen.
 
---- page 537 ---
 Apokalipsi15:1 534 Apokalipsi16:3
 15
 Tatipuwerkenpüllüküpalnielutiregleinalepachiwesakekutrankangen
@@ -26662,7 +26127,6 @@ feylayeytalafkenmewitrokomnieyelutamongen.
 15:3Kiñekekuyfiwirinmewfeypiley:“itrokomtrokiñkemapumew”;kakeluwirinmewfeypiley:
 “Ngünechenñitrokiñchemew”.
 
---- page 538 ---
 Apokalipsi16:4 535 Apokalipsi16:17
 4Feytikülapuwchiwerkenpüllüwütrunagümiñiapolechikopaitrokom
 lewfümewkaitrokomposokomew,feyitrokommollfüñuwtuytiko.
@@ -26714,7 +26178,6 @@ kürüfmew,feywenumapumülechingillatuwerukamewtilongkoülmen
 wangkumewallkünngeykiñenewentudungun,feyNgünechenfeypi:“¡Dew
 itrokomdewi!”
 
---- page 539 ---
 Apokalipsi16:18 536 Apokalipsi17:9
 18Feymewtamüleyllüfkeñün,dungunkatralkan,feymaputa
 nengümkawikiñefütranüyüntañiduam,doynewenturupalutaitrokom
@@ -26764,7 +26227,6 @@ engün,pefileñiwiñomeküpatuntüfeychiwapowesakulliñkuyfimülekefulu.
 reglelongkotaadentuleyreglewingkultañianüleelmewtatüfeychidomo.
 Kafemngechiadentuleyreglelongkoülmen.
 
---- page 540 ---
 Apokalipsi17:10 537 Apokalipsi18:4
 10Kechutatüfachipulongkoülmendewngewetulayengün,kiñetapetu
 longkoülmenküley,feytatikangelupetuküpalay.Weluküpaletatiinalelu,
@@ -26815,7 +26277,6 @@ tañifentreadelkawelchifillkümekechemkünmew.”
 4Kakiñedungunallküntawenumapu,feypilu:
 “Tripamüntatüfachiwariamew,eymüntaiñcheñitrokiñchengelu,
 
---- page 541 ---
 Apokalipsi18:5 538 Apokalipsi18:17
 tamünkoneltunoaelkisuengüntañiyafkanmewtamünkafemngechi
 dinoaetewrumekisuengüntañiwesakekutrankangen:
@@ -26868,7 +26329,6 @@ rumeadchikurakawilüfchiperlamew
 tatilafkenmew,tatipumarinerukaitrokomtatipuwewkelutapülata
 lafkenmewtañimongeluwküleam,alükamapumüleweyengün.
 
---- page 542 ---
 Apokalipsi18:18 539 Apokalipsi19:3
 18Feyka,pefiluengüntipitrunñipetulüfüntatiwirariengün:
 “‘¿Kachuchikangeluwariamewtrürümngeafuytatüfachifütrawaria?’
@@ -26918,7 +26378,6 @@ tañipoyekeetewchipuche.”
 Feychiwariaküridomorekemülelutañipitrunchumkawnorume
 fentekünulayayñipürantawenumapu.”
 
---- page 543 ---
 Apokalipsi19:4 540 Apokalipsi19:16
 4Katatiepumarimeliputremfütakechekatatimelimongelechipüllü
 lloyünagiengüntapüllimewfeypüramyefiengüntaNgünechen,tatianüleluti
@@ -26969,7 +26428,6 @@ pepiluwünniechiNgünechentañifütralladkenñiduam.
 LONGKOÜLMENKÜLELUKOMLONGKOÜLMENMEW
 KAÑIDOLKÜLELUKOMÑIDOLMEW.
 
---- page 544 ---
 Apokalipsi19:17 541 Apokalipsi20:6
 17Feykapefiñkiñewerkenpüllüfeywitralelutaantümew,newentu
 wirarelfiitrokomilotukechipuüñümtatimüpüyawlurangikallfüwenu
@@ -27019,7 +26477,6 @@ Cristoñisaserdotengeay,feyCristolongkoülmenküleaykisuengünmew
 kiñewarangkatripantu.
 Ñiwewngentaweküfü
 
---- page 545 ---
 Apokalipsi20:7 542 Apokalipsi21:4
 7Feydewrupaletakiñewarangkatripantu,Weküfütaneykümngetuay
 tañipüresulemum.
@@ -27069,7 +26526,6 @@ Ngünechenngeay.
 norume,eyütunnorume,kutrantunnorume.Itrokomtatimülekefuluam
 takuyfidewtamülewetunolu.”
 
---- page 546 ---
 Apokalipsi21:5 543 Apokalipsi21:20
 5Feytatianülelutiülmenwangkumewfeypi:“Iñchetaitrokommülelu
 wekünutuafiñ.”Feywülakafemngechifeypi:“Wirintukufingetañi
@@ -27121,7 +26577,6 @@ katatimelipuwlu,esmeraldamew;
 20tatikechupuwlu,onisemew;
 tatikayupuwlu,kornalinamew;
 
---- page 547 ---
 Apokalipsi21:21 544 Apokalipsi22:6
 tatireglepuwlu,krisolitomew;
 tatipurapuwlu,berilokuramew;
@@ -27172,7 +26627,6 @@ poyekeetewtatipürümkarekemüleachidungu.”
 * 21:24Kiñekekuyfiwirinmewngelay:“tatimontulngelu”. † 21:24Kiñekekuyfiwirinmewngelay:
 “kañifütrakekümefelen”.
 
---- page 548 ---
 Apokalipsi22:7 545 Apokalipsi22:21
 7FeyJesusyefaldunguenewtamünfeypiwafiel:“¡Pürümkarekeküpayan!
 ¡Ayüwünnieaytatimüngeltufilutiwerkündunguwirintukulelutatüfachi
@@ -27221,4 +26675,3 @@ Felepemay.¡Küpange,ÑidolJesus!
 *
 22:21Kiñekekuyfiwirinmewngelay:“Felepemay”.
 
-```

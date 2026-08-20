@@ -1,11 +1,11 @@
-# Ngünechen Ñi Küme Dungu — PyMuPDF extraction
-### Raw output of Python `PyMuPDF` (fitz) on arnNT_prt.pdf
+# Ngünechen Ñi Küme Dungu — New Testament in Mapudungun
 
-```text
---- page 1 ---
+Copyright © 2011 Wycliffe Bible Translators, Inc. CC BY-NC-ND.
+
+---
 
 
---- page 2 ---
+
 ii
 Ngünechen ñi Küme Dungu
 New Testament in Mapudungun (CI:arn:Mapudungun)
@@ -43,7 +43,6 @@ PDF generated using Haiola and XeLaTeX on 8 Aug 2026 from source files dated 29 
 e483fc1d-75da-5814-bcbc-2919e9a5acad
 
 
---- page 3 ---
 Contents
 Matew
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -88,7 +87,6 @@ Apokalipsi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 515
 iii
 
 
---- page 4 ---
 Matew 1:1
 1
 Matew 1:12
@@ -141,7 +139,6 @@ püresukonayengelu tati pu israelche Babilonia trokiñ mapu mew.
 12 Dew rupalu ti tripantu ñi püresukonalepun engün,
 
 
---- page 5 ---
 Matew 1:13
 2
 Matew 1:25
@@ -198,7 +195,6 @@ engu.
 § 1:25 Kiñeke kuyfi wirin mew ngelay: “wünen”.
 
 
---- page 6 ---
 Matew 2:1
 3
 Matew 2:13
@@ -255,7 +251,6 @@ mew.
 § 2:11 mira: kiñe anümka mew nentuelchi perfume.
 
 
---- page 7 ---
 Matew 2:14
 4
 Matew 3:3
@@ -308,7 +303,6 @@ femngechi tamün llowafiel ta Ñidol.’ ”*
 * 3:3 Isaia 40.3 LXX.
 
 
---- page 8 ---
 Matew 3:4
 5
 Matew 3:17
@@ -360,7 +354,6 @@ kakelu wimtun; sadusew: kiñe pichi trokiñ judiuche, epe kom reke saserdotengey
 falintukefilu tati wünelechi kechu lifru mülelu Kuyfi Chillka mew.
 
 
---- page 9 ---
 Matew 4:1
 6
 Matew 4:16
@@ -418,7 +411,6 @@ Galilea mapu chew tañi mülemum tati pu judiu tuwünngenochi che.
 6.13.
 
 
---- page 10 ---
 Matew 4:17
 7
 Matew 5:4
@@ -472,7 +464,6 @@ pingechi ruka ñi trawüluam engün ka ñi kimeltungeam engün.
 kiñe fütra trokiñ mapu nielu mari pichike waria.
 
 
---- page 11 ---
 Matew 5:5
 8
 Matew 5:20
@@ -527,7 +518,6 @@ dungu.
 falinolu reke felelu ti ley dungu mew.
 
 
---- page 12 ---
 Matew 5:21
 9
 Matew 5:34
@@ -582,7 +572,6 @@ Deuteronomio 24.1.
 † 5:33 Levitiko 19.12; Numero 30.2.
 
 
---- page 13 ---
 Matew 5:35
 10
 Matew 5:48
@@ -637,7 +626,6 @@ romache tañi kofrayael ta impuestu, feymew kakelu ti pu judiu rume üdekefeyew 
 ti pu trokiñ judiu trokingekefuy.
 
 
---- page 14 ---
 Matew 6:1
 11
 Matew 6:14
@@ -694,7 +682,6 @@ longko ülmen wenu mapu mew, ka nieymi pepiluwün, ka fütra küme felen, ka rum
 tripantu mew. Felepe may.”
 
 
---- page 15 ---
 Matew 6:15
 12
 Matew 6:26
@@ -747,7 +734,6 @@ nieael ñi inanieelchi wimtun dungu. Tüfachi wimtun kuyfike pu judiu ñi wimtun
 kuyfi wirin mew ngelay: “femngechi ta kom che ñi kimael”.
 
 
---- page 16 ---
 Matew 6:27
 13
 Matew 7:6
@@ -804,7 +790,6 @@ femnoel.
 illamtukefuy.
 
 
---- page 17 ---
 Matew 7:7
 14
 Matew 7:23
@@ -857,7 +842,6 @@ ka eymi tami üy mew femiyiñ afmanngechi dungu.
 ¡Kiñe püle tripamün iñche mew, wesake dungu femkelu!’
 
 
---- page 18 ---
 Matew 7:24
 15
 Matew 8:9
@@ -912,7 +896,6 @@ kapitan: longkolechi soltaw kiñe pataka soltaw mew. Kisu ngüneniekefuy ti kuar
 chew ñi mülen tati trokiñ soltaw Roma tuwlu.
 
 
---- page 19 ---
 Matew 8:10
 16
 Matew 8:23
@@ -967,7 +950,6 @@ Jesus tüngümnagümfi tati kürüf ka ti rew lafken
 üytuwkefel.
 
 
---- page 20 ---
 Matew 8:24
 17
 Matew 9:3
@@ -1020,7 +1002,6 @@ dungu, rakiduami engün: “Fey tüfa tañi feypielchi dungu mew notukafi ta
 Ngünechen.”
 
 
---- page 21 ---
 Matew 9:4
 18
 Matew 9:15
@@ -1073,7 +1054,6 @@ nofio, fey wülake ta ayunayay engün.
 † 9:13 Kiñeke kuyfi wirin mew ngelay: “ñi wiñorakiduamtuael”.
 
 
---- page 22 ---
 Matew 9:16
 19
 Matew 9:30
@@ -1129,7 +1109,6 @@ dullielchi Yomelche: ti pu judiu ñi feypikefelchi üy ñi tukulelafiel ti Montu
 Yomelchengeael.
 
 
---- page 23 ---
 Matew 9:31
 20
 Matew 10:6
@@ -1183,7 +1162,6 @@ dungu.
 ñi weychayafiel tati pu romache ngüneniefilu tati pu judiu Israel mapu mew.
 
 
---- page 24 ---
 Matew 10:7
 21
 Matew 10:23
@@ -1239,7 +1217,6 @@ kom rupanon israelche tañi pu waria mew.
 nieel tamün okota: femngechi femkefuy tati pu che ñi pengelael ñi rume wesa duamün.
 
 
---- page 25 ---
 Matew 10:24
 22
 Matew 10:39
@@ -1294,7 +1271,6 @@ ruka kütu: femngechi ta kom che ñi küme allküael ti dungu.
 ‡ 10:36 Mikea 7.6.
 
 
---- page 26 ---
 Matew 10:40
 23
 Matew 11:13
@@ -1349,7 +1325,6 @@ fentekünuy engün.
 † 11:10 Malakia 3.1.
 
 
---- page 27 ---
 Matew 11:14
 24
 Matew 11:29
@@ -1402,7 +1377,6 @@ mew, iñche am ñom piwkengelu ka mallmangelan rume, fey ta famngechi
 kansatuaymün.
 
 
---- page 28 ---
 Matew 11:30
 25
 Matew 12:13
@@ -1457,7 +1431,6 @@ no rume.
 † 12:7 Osea 6.6.
 
 
---- page 29 ---
 Matew 12:14
 26
 Matew 12:29
@@ -1512,7 +1485,6 @@ ngañwadkülechi che ka kuñifallkülelu.
 * 12:21 Isaia 42.4 LXX.
 
 
---- page 30 ---
 Matew 12:30
 27
 Matew 12:42
@@ -1567,7 +1539,6 @@ domo witrapürayay ñi kondenayafiel tüfachi pu che, fewla mülelu am eymün
 mew kiñe doy fütra kimün nielu ta Salomon mew.
 
 
---- page 31 ---
 Matew 12:43
 28
 Matew 13:8
@@ -1622,7 +1593,6 @@ mülekefel lelfün püle chew ñi ngenon chem no rume.
 versu 47.
 
 
---- page 32 ---
 Matew 13:9
 29
 Matew 13:23
@@ -1677,7 +1647,6 @@ che allkülu tati kimelün dungu ka küme kimfilu, fey rume küme kosecha
 * 13:15 Isaia 6.9-10 LXX.
 
 
---- page 33 ---
 Matew 13:24
 30
 Matew 13:36
@@ -1731,7 +1700,6 @@ dungu ti wesa kachu weflu ti lelfün mew.
 † 13:35 Salmo 78.2.
 
 
---- page 34 ---
 Matew 13:37
 31
 Matew 13:52
@@ -1784,7 +1752,6 @@ weke chemkün ka kuyfintuwkülechi chemkün mew, kake kiñeke kimniefi ñi
 tunteke falin.
 
 
---- page 35 ---
 Matew 13:53
 32
 Matew 14:12
@@ -1838,7 +1805,6 @@ amuy engün tañi kimelafiel ta Jesus ñi langümngen ta Juan.
 Felipe: Erode tañi chaw mew peñi mülekefulu Roma waria mew.
 
 
---- page 36 ---
 Matew 14:13
 33
 Matew 14:30
@@ -1893,7 +1859,6 @@ Feymew Pedro tripay ti pichi farku mew, fey llituy ñi trekayael wente ko
 llañnagün ti ko mew, fey wirari:
 
 
---- page 37 ---
 Matew 14:31
 34
 Matew 15:10
@@ -1951,7 +1916,6 @@ rume”.
 § 15:9 Isaia 29.13 LXX.
 
 
---- page 38 ---
 Matew 15:11
 35
 Matew 15:28
@@ -2006,7 +1970,6 @@ Feychi lelen mew müten tati domo ñi püñeñ tremolewetuy.
 Jesus tremolyefi fentren pu kutran
 
 
---- page 39 ---
 Matew 15:29
 36
 Matew 16:3
@@ -2060,7 +2023,6 @@ ngüneduamlaymün chem dungu ñi mülen fantepu mew?*
 * 16:3 Kiñeke kuyfi wirin mew ngelay ta versu 2 ka versu 3.
 
 
---- page 40 ---
 Matew 16:4
 37
 Matew 16:18
@@ -2116,7 +2078,6 @@ Mesiangealu.
 ‡ 16:18 Pedro ñi üy “kura” pin ürke.
 
 
---- page 41 ---
 Matew 16:19
 38
 Matew 17:4
@@ -2168,7 +2129,6 @@ pichike küni ruka: kiñe eymingealu, ka kiñe ta Moysengealu ka kiñe
 Eliangealu.
 
 
---- page 42 ---
 Matew 17:5
 39
 Matew 17:21
@@ -2222,7 +2182,6 @@ Jesus ka wiñome nütramkay ñi layael ka ñi wiñomongetuael
 * 17:21 Kiñeke kuyfi wirin mew müten müley versu 21.
 
 
---- page 43 ---
 Matew 17:22
 40
 Matew 18:6
@@ -2276,7 +2235,6 @@ judiu wentru ti ngillatuwe ruka mew. Tati kulliael fanten ürke tati küdawfe ñ
 mew.
 
 
---- page 44 ---
 Matew 18:7
 41
 Matew 18:20
@@ -2330,7 +2288,6 @@ iñche mülean kisu engün mew.”
 * 18:11 Kiñeke kuyfi wirin mew ngelay versu 11.
 
 
---- page 45 ---
 Matew 18:21
 42
 Matew 19:2
@@ -2384,7 +2341,6 @@ Judea trokiñ mapu mew, Jordan tañi tripawe antü püle.
 kutrankülelu.
 
 
---- page 46 ---
 Matew 19:3
 43
 Matew 19:17
@@ -2440,7 +2396,6 @@ mongen?
 kureyefilu ti wüdakünuelchi domo, ka femngechi ñiwaldomofengey”.
 
 
---- page 47 ---
 Matew 19:18
 44
 Matew 20:1
@@ -2497,7 +2452,6 @@ longko akucha mew: rume küdawngechi dungu pin ürke.
 “kam domo”.
 
 
---- page 48 ---
 Matew 20:2
 45
 Matew 20:18
@@ -2553,7 +2507,6 @@ tati ley dungu mew, ka kondenangean fey tañi langümngeael.
 wirin mew ngelay: “Pütrüley tati mangelel, welu pichiley tati dullinieel”.
 
 
---- page 49 ---
 Matew 20:19
 46
 Matew 20:30
@@ -2608,7 +2561,6 @@ femngechi fawtisangeafuymu chumngechi fawtisangen ta iñche?”
 ngelay: “ka fawtisangeaymu chumngechi fawtisangen ta iñche”.
 
 
---- page 50 ---
 Matew 20:31
 47
 Matew 21:11
@@ -2663,7 +2615,6 @@ Jesus wemünentufi tati neosiakelu ngillatuwe ruka mew
 † 21:9 Salmo 118.25-26.
 
 
---- page 51 ---
 Matew 21:12
 48
 Matew 21:22
@@ -2719,7 +2670,6 @@ pülata ngillatuwe ruka mew.
 * 21:16 Salmo 8.2 LXX.
 
 
---- page 52 ---
 Matew 21:23
 49
 Matew 21:33
@@ -2773,7 +2723,6 @@ ofadentu ka malalmafi. Pepikay kiñe mülewe chew tañi dewmayam ta
 pulku ka dewmay kiñe alüpürachi ruka kom püle tañi puwkintunieam ñi
 
 
---- page 53 ---
 Matew 21:34
 50
 Matew 22:4
@@ -2827,7 +2776,6 @@ pu mangel, welu tüfey engün pilay tañi küpayael.
 ‡ 21:44 Kiñeke kuyfi wirin mew ngelay versu 44.
 
 
---- page 54 ---
 Matew 22:5
 51
 Matew 22:21
@@ -2882,7 +2830,6 @@ Feymew feypi ta Jesus:
 * 22:19 denario: tati pu romache ñi pünekefelchi moneda pülata.
 
 
---- page 55 ---
 Matew 22:22
 52
 Matew 22:37
@@ -2939,7 +2886,6 @@ Exodo 3.6.
 * 22:37 Deuteronomio 6.5.
 
 
---- page 56 ---
 Matew 22:38
 53
 Matew 23:6
@@ -2995,7 +2941,6 @@ wüla tami pu kayñe: miñche namun pin ürke.
 poyeniefiel ta Ngünechen.
 
 
---- page 57 ---
 Matew 23:7
 54
 Matew 23:23
@@ -3052,7 +2997,6 @@ mari puwlu mew tati menta, ka anis ka tati kuminu, welu
 14.
 
 
---- page 58 ---
 Matew 23:24
 55
 Matew 23:39
@@ -3105,7 +3049,6 @@ dungu: ‘¡Püramyengepe tati küpalelu Ñidol Ngünechen mew!’ ”§
 § 23:39 Salmo 118.26.
 
 
---- page 59 ---
 Matew 24:1
 56
 Matew 24:16
@@ -3159,7 +3102,6 @@ fey pefilmün Ngünechen ñi kayñe ñi fill wesa meken ti ngillatuwe ruka mew
 fütrake wingkul mew.
 
 
---- page 60 ---
 Matew 24:17
 57
 Matew 24:32
@@ -3213,7 +3155,6 @@ walüng antü.
 doy kiñe kilometro.
 
 
---- page 61 ---
 Matew 24:33
 58
 Matew 24:51
@@ -3268,7 +3209,6 @@ tañi foro.
 † 24:36 Kiñeke kuyfi wirin mew ngelay: “tati Fotüm no rume”.
 
 
---- page 62 ---
 Matew 25:1
 59
 Matew 25:16
@@ -3322,7 +3262,6 @@ ka kechu moneda.
 * 25:13 Kiñeke kuyfi wirin mew ngelay: “ñi wiñometuael ta Ngünechen ñi Fotüm tati Wentrukünuwpalu”.
 
 
---- page 63 ---
 Matew 25:17
 60
 Matew 25:35
@@ -3377,7 +3316,6 @@ iñche, elumun ko ñi pütokoael. Ka penolu ñi umañtuam ta iñche, elumun ñi
 umañtuael tamün ruka mew.
 
 
---- page 64 ---
 Matew 25:36
 61
 Matew 26:5
@@ -3430,7 +3368,6 @@ Kiñe domo tukulelfi perfume ta Jesus
 montulngen püresukonalelu tati pu judiu Egipto mapu mew.
 
 
---- page 65 ---
 Matew 26:6
 62
 Matew 26:21
@@ -3484,7 +3421,6 @@ engün.
 lefawrangenolu dew tripatulu engün ta Egipto mapu mew.
 
 
---- page 66 ---
 Matew 26:22
 63
 Matew 26:35
@@ -3538,7 +3474,6 @@ Fey kom tati pu disipulu ka femngechi feypi engün.
 § 26:31 Sakaria 13.7.
 
 
---- page 67 ---
 Matew 26:36
 64
 Matew 26:52
@@ -3592,7 +3527,6 @@ katrünentuñmafi ñi kiñe pilun tati Wünen Longko Saserdote tañi kona.
 52 Jesus ta feypieyew:
 
 
---- page 68 ---
 Matew 26:53
 65
 Matew 26:66
@@ -3647,7 +3581,6 @@ wesa notukafiel ta Ngünechen ñi dungun mew!
 66 ¿Chumngentufimün kay?
 
 
---- page 69 ---
 Matew 26:67
 66
 Matew 27:5
@@ -3700,7 +3633,6 @@ Welu kisu engün ta llowdungueyew:
 mew, fey tripay ka pültrükünuwi.
 
 
---- page 70 ---
 Matew 27:6
 67
 Matew 27:22
@@ -3754,7 +3686,6 @@ Kom llowdunguy engün:
 * 27:10 Sakaria 11.12-13.
 
 
---- page 71 ---
 Matew 27:23
 68
 Matew 27:39
@@ -3810,7 +3741,6 @@ ngelay: “femngechi ñi mupiael ñi feypikünuel ti pelon wentru: pewtuwi engü
 kisuke engün tañi takuwün”.
 
 
---- page 72 ---
 Matew 27:40
 69
 Matew 27:57
@@ -3864,7 +3794,6 @@ tuwünche, ka feyentulelu ta Jesus mew.
 ponwitulechi ngillatuwe mew.
 
 
---- page 73 ---
 Matew 27:58
 70
 Matew 28:7
@@ -3917,7 +3846,6 @@ amuay ta Galilea. Wüne puway ta eymün mew. Tiye mew ta peafimün.’ Fey
 tüfachi dungu ta iñche niepen tamu feypiwafiel.
 
 
---- page 74 ---
 Matew 28:8
 71
 Matew 28:20
@@ -3962,7 +3890,6 @@ Felepe may.†
 † 28:20 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 75 ---
 Marku 1:1
 72
 Marku 1:10
@@ -4016,7 +3943,6 @@ LXX.
 püle.
 
 
---- page 76 ---
 Marku 1:11
 73
 Marku 1:22
@@ -4072,7 +3998,6 @@ Rume küme kimniefilu Moyse ñi ley dungu, tati kechu wüne wirielchi lifru ebre
 yamfal wentrungey engün tañi rume kimfiel mew tati ley dungu ka ti kakelu wimtun.
 
 
---- page 77 ---
 Marku 1:23
 74
 Marku 1:39
@@ -4126,7 +4051,6 @@ Tremolngey ta kiñe wentru nielu ta lepra kutran
 rupayüm ti ürkütun antü (v. 1.21), fey kisu engün ka llitutukefuy ñi küdaw.
 
 
---- page 78 ---
 Marku 1:40
 75
 Marku 2:10
@@ -4184,7 +4108,6 @@ Wentrukünuwpalu: Wentru ñi Fotüm pin ürke, kiñe wichulechi üy ñi üytunge
 mew.
 
 
---- page 79 ---
 Marku 2:11
 76
 Marku 2:21
@@ -4240,7 +4163,6 @@ eluwnolu ñi iyael tañi mupitunieael ñi inanieelchi wimtun dungu. Tüfachi wim
 ñi wimtun ürke.
 
 
---- page 80 ---
 Marku 2:22
 77
 Marku 3:6
@@ -4295,7 +4217,6 @@ trawüluam engün ka ñi kimeltungeam engün.
 kiñe trokiñ judiuche ayülelu Erode ñi gobernadorküleael, welu ti Roma tuwchi gobernador no.
 
 
---- page 81 ---
 Marku 3:7
 78
 Marku 3:22
@@ -4353,7 +4274,6 @@ weychayafiel tati pu romache ngüneniefilu tati pu judiu Israel mapu mew.
 pin ürke, tati longkolelu ti pu weküfü mew.
 
 
---- page 82 ---
 Marku 3:23
 79
 Marku 4:4
@@ -4407,7 +4327,6 @@ nganael.
 † 3:32 Kiñeke kuyfi wirin mew feypiley “Tami ñuke, tami pu peñi ka lamngen...”
 
 
---- page 83 ---
 Marku 4:5
 80
 Marku 4:19
@@ -4461,7 +4380,6 @@ küme dungu.‡
 ‡ 4:19 elukelafi ñi müleael piwke mew ti küme dungu: ñi wülael fün pin ürke.
 
 
---- page 84 ---
 Marku 4:20
 81
 Marku 4:34
@@ -4514,7 +4432,6 @@ kimeltuel mew, welu wichu kom küme kimeltukefi ñi pu disipulu.
 § 4:23 tati ayülu ñi allkütuael, allkütupe: tati nielu pilun, allküpe pin ürke.
 
 
---- page 85 ---
 Marku 4:35
 82
 Marku 5:11
@@ -4568,7 +4485,6 @@ trokiñ mapu mew.
 † 5:9 Lekion rume fentren weküfü pin ürke.
 
 
---- page 86 ---
 Marku 5:12
 83
 Marku 5:28
@@ -4621,7 +4537,6 @@ tremolewetuan” pirkey ñi rakiduam.
 ‡ 5:20 Dekapolis trokiñ mapu: kiñe fütra trokiñ mapu nielu mari pichike waria.
 
 
---- page 87 ---
 Marku 5:29
 84
 Marku 6:2
@@ -4675,7 +4590,6 @@ Tati trawülechi pu che, allkütuñmafilu ñi dungun ta Jesus, rume afmatulen
 ramtuwi engün:
 
 
---- page 88 ---
 Marku 6:3
 85
 Marku 6:14
@@ -4730,7 +4644,6 @@ pu judiu ñi wimtun.
 kuyfi wirin mew müley: “feypingerkey”.
 
 
---- page 89 ---
 Marku 6:15
 86
 Marku 6:29
@@ -4785,7 +4698,6 @@ Jesus elufi iyael ta kechu warangka wentru
 ñi pepikapayael ti Mesiangealu.
 
 
---- page 90 ---
 Marku 6:30
 87
 Marku 6:46
@@ -4841,7 +4753,6 @@ che.
 46 Fey dew chalitufilu ti pu che, amuy ta wingkul mew ñi ngillatumeael.
 
 
---- page 91 ---
 Marku 6:47
 88
 Marku 7:5
@@ -4895,7 +4806,6 @@ fütakeche em tañi wimtun dungu? Podkülen tañi kuwü ikey engün.
 * 7:4 Kiñeke kuyfi wirin mew ngelay: “ka ti ngütantu”.
 
 
---- page 92 ---
 Marku 7:6
 89
 Marku 7:23
@@ -4953,7 +4863,6 @@ Deuteronomio 5.16.
 † 7:16 Kiñeke kuyfi wirin mew ngelay versu 16.
 
 
---- page 93 ---
 Marku 7:24
 90
 Marku 8:1
@@ -5006,7 +4915,6 @@ disipulu, fey feypifi:
 ‡ 7:24 Kiñeke kuyfi wirin mew ngelay: “ka Sidon”.
 
 
---- page 94 ---
 Marku 8:2
 91
 Marku 8:17
@@ -5061,7 +4969,6 @@ longkontukulaymün ka ngüneduamlaymün iñche tañi femelchi dungu? ¿Rüf
 dungu mew anta petu longkontukulaymün?
 
 
---- page 95 ---
 Marku 8:18
 92
 Marku 8:31
@@ -5116,7 +5023,6 @@ Ngünechen ñi tukulpakünuel.
 ‡ 8:31 putrem fütakeche: ti pu judiu ñi longko, rume yamfalkülelu.
 
 
---- page 96 ---
 Marku 8:32
 93
 Marku 9:7
@@ -5168,7 +5074,6 @@ iñche ñi sakin Fotüm: allkütuñmafimün ta kisu müten ñi dungun!”
 § 8:34 eluwkülepe ñi kutrankawael iñche reke: meñkuñpürampe tañi kürus pin ürke.
 
 
---- page 97 ---
 Marku 9:8
 94
 Marku 9:23
@@ -5224,7 +5129,6 @@ ta iñchiñ ka kellumuiñ.
 —¿Chumngechi am pepilfulmi pimi? ¡Kom pepilfali tati feyentulu mew!
 
 
---- page 98 ---
 Marku 9:24
 95
 Marku 9:38
@@ -5278,7 +5182,6 @@ fey miyawkenolu am iñchiñ mew, feymew katrütufiyiñ.
 * 9:29 Kiñeke kuyfi wirin mew ngelay: “ka ayuno”.
 
 
---- page 99 ---
 Marku 9:39
 96
 Marku 10:4
@@ -5333,7 +5236,6 @@ engün, fey ramtufi engün:
 § 9:49 Kiñeke kuyfi wirin mew feypiley: “Ka kom chalintukuelchi ilo chadiñmangeay”.
 
 
---- page 100 ---
 Marku 10:5
 97
 Marku 10:20
@@ -5389,7 +5291,6 @@ engu”.
 § 10:19 Exodo 20.12-16; Deuteronomio 5.16-20.
 
 
---- page 101 ---
 Marku 10:21
 98
 Marku 10:33
@@ -5446,7 +5347,6 @@ ngelay: “feyti pu che maneluwlu ñi fentren chemkün mew”.
 “kam domo”.
 
 
---- page 102 ---
 Marku 10:34
 99
 Marku 10:47
@@ -5502,7 +5402,6 @@ chumngechi ñi rupayael ta iñche feychi dungu mew: Eymu ta pepi putuaymu tati f
 llowaymu tati fawtisangen iñche tañi llowael pin ürke.
 
 
---- page 103 ---
 Marku 10:48
 100
 Marku 11:10
@@ -5557,7 +5456,6 @@ tukulpakünuelchi Montulchefe David ñi yomelche ñi tripayael.
 * 11:10 Salmo 118.25-26.
 
 
---- page 104 ---
 Marku 11:11
 101
 Marku 11:23
@@ -5611,7 +5509,6 @@ ngillatuwe ruka mew.
 ‡ 11:17 Isaia 56.7.
 
 
---- page 105 ---
 Marku 11:24
 102
 Marku 12:3
@@ -5664,7 +5561,6 @@ chem no rume.
 § 11:26 Kiñeke kuyfi wirin mew ngelay versu 26.
 
 
---- page 106 ---
 Marku 12:4
 103
 Marku 12:17
@@ -5717,7 +5613,6 @@ Femngechi ñi llowdunguel mew ta Jesus, rumeñma afmatulewey engün.
 * 12:11 Salmo 118.22-23.
 
 
---- page 107 ---
 Marku 12:18
 104
 Marku 12:31
@@ -5776,7 +5671,6 @@ wirin mew ngelay: “feychi mongeletule engün”.
 ‡ 12:31 Levitiko 19.18.
 
 
---- page 108 ---
 Marku 12:32
 105
 Marku 12:43
@@ -5829,7 +5723,6 @@ kom ti kakelu pu che mew chew ñi tukungekemum ta pülata.
 * 12:36 Salmo 110.1 LXX.
 
 
---- page 109 ---
 Marku 12:44
 106
 Marku 13:13
@@ -5882,7 +5775,6 @@ welu tati pu che tuntepule ñi mongen yafüluwün mew inanieelimew, fey
 engün ta montuay.
 
 
---- page 110 ---
 Marku 13:14
 107
 Marku 13:31
@@ -5936,7 +5828,6 @@ mupiael.
 * 13:14 Kiñeke kuyfi wirin mew ngelay: “tati pelon wentru Daniel ñi wirielchi”.
 
 
---- page 111 ---
 Marku 13:32
 108
 Marku 14:7
@@ -5991,7 +5882,6 @@ mapu mew.
 † 14:3 nardo: tati aseyte nentukeel kiñe folil anümka mülelu India trokiñ mapu mew.
 
 
---- page 112 ---
 Marku 14:8
 109
 Marku 14:22
@@ -6046,7 +5936,6 @@ feypilen mew:
 ‡ 14:8 tukulelenew perfume: tati pu judiu wimtulerkefuy ñi tukulelafiel perfume ti la.
 
 
---- page 113 ---
 Marku 14:23
 110
 Marku 14:37
@@ -6103,7 +5992,6 @@ kuyfi wirin mew ngelay: “epu rupachi mew”.
 pin ürke.
 
 
---- page 114 ---
 Marku 14:38
 111
 Marku 14:55
@@ -6157,7 +6045,6 @@ kintukadungulelfi engün ta Jesus ñi kondenayafiel ka ñi langümafiel, welu ta
 perkelay engün chem koyla dungu rume ñi witrantulelafiel.
 
 
---- page 115 ---
 Marku 14:56
 112
 Marku 14:70
@@ -6211,7 +6098,6 @@ müleyelu tüfey mew ka wiñome feypifi engün ta Pedro:
 § 14:68 Kiñeke kuyfi wirin mew ngelay: “Feymew kakaray kiñe alka”.
 
 
---- page 116 ---
 Marku 14:71
 113
 Marku 15:13
@@ -6266,7 +6152,6 @@ femngechi ñi feypiael engün tañi lifrenentungetuael ta Barabas.
 Kiñeke kuyfi wirin mew ngelay: “epuchi kakaranon”.
 
 
---- page 117 ---
 Marku 15:14
 114
 Marku 15:30
@@ -6319,7 +6204,6 @@ wiñome dewmatukefilu,
 * 15:28 Kiñeke kuyfi wirin mew ngelay versu 28.
 
 
---- page 118 ---
 Marku 15:31
 115
 Marku 15:46
@@ -6375,7 +6259,6 @@ ulechi ngillatuwe mew.
 § 15:39 Kiñeke kuyfi wirin mew ngelay: “allkülu ñi wirarün ka”.
 
 
---- page 119 ---
 Marku 15:47
 116
 Marku 16:13
@@ -6428,7 +6311,6 @@ Jesus tañi yefaldungufiel tañi pu apostol
 * 16:9 Tati doy kümeke kuyfi wirin mew ngelay tati pu versu 16.9-20.
 
 
---- page 120 ---
 Marku 16:14
 117
 Marku 16:20
@@ -6459,7 +6341,6 @@ Felepe may.†
 † 16:20 Kiñeke kuyfi wirin mew ngelay: “Felepe may.”
 
 
---- page 121 ---
 Luka 1:1
 118
 Luka 1:13
@@ -6511,7 +6392,6 @@ ngillatuwe ñi man ad püle chew lüpümngekey ti insienso.
 tami kure Isabel nieay kiñe wentru püñeñ, fey ñi üy Juan pintukulelafimi.
 
 
---- page 122 ---
 Luka 1:14
 119
 Luka 1:30
@@ -6564,7 +6444,6 @@ fey kisutu ramtuwi ñi chem pifel chey ti chalin dungu.
 * 1:28 Kiñeke kuyfi wirin mew ngelay: “Rume poyefal domo ta eymi kakelu pu domo mew.”
 
 
---- page 123 ---
 Luka 1:31
 120
 Luka 1:51
@@ -6618,7 +6497,6 @@ tati ¡trürümfalnochi küme üy nielu!
 51 Afmatufal dungu femi kom ñi pepiluwün mew.
 
 
---- page 124 ---
 Luka 1:52
 121
 Luka 1:73
@@ -6672,7 +6550,6 @@ ka ñi ngüyünentunoafiel ñi nor küme eldungu.
 em:
 
 
---- page 125 ---
 Luka 1:74
 122
 Luka 2:10
@@ -6726,7 +6603,6 @@ feypiwayiñ kiñe küme dungu, fey tüfa rume fütra ayüwünngeay ta kom che
 mew.
 
 
---- page 126 ---
 Luka 2:11
 123
 Luka 2:28
@@ -6781,7 +6657,6 @@ feypilen mew:
 † 2:24 Levitiko 12.8.
 
 
---- page 127 ---
 Luka 2:29
 124
 Luka 2:46
@@ -6834,7 +6709,6 @@ rangi ti pu kimeltukelu Moyse ñi ley dungu, allkütuñmaniengey ñi chem
 pimeken ka ramtukaniengey.
 
 
---- page 128 ---
 Luka 2:47
 125
 Luka 3:8
@@ -6887,7 +6761,6 @@ Ngünechen tüfachi pu kura femkünuafuy Abraam ñi yomelchengeael.
 * 3:5-6 Isaia 40.3-5.
 
 
---- page 129 ---
 Luka 3:9
 126
 Luka 3:23
@@ -6942,7 +6815,6 @@ Jose ñi fotüm trokiniengekerkefuy.
 Jose Eli em ñi fotüm ürkefel,
 
 
---- page 130 ---
 Luka 3:24
 127
 Luka 4:1
@@ -6999,7 +6871,6 @@ Jesus ta kintukaduamngey
 Ngünechen ñi Lif Küme Püllü ñi pepiluwün mew puwi ti uwe mapu mew.
 
 
---- page 131 ---
 Luka 4:2
 128
 Luka 4:17
@@ -7058,7 +6929,6 @@ Deuteronomio 6.16.
 pingechi ruka ñi trawüluam engün ka ñi kimeltungeam engün.
 
 
---- page 132 ---
 Luka 4:18
 129
 Luka 4:34
@@ -7113,7 +6983,6 @@ kimnien eymi ta Ngünechen tañi lif küme Dullinngen.
 ‡ 4:19 Isaia 61.1-2.
 
 
---- page 133 ---
 Luka 4:35
 130
 Luka 5:1
@@ -7166,7 +7035,6 @@ engün am tañi allkütuael Ngünechen tañi werken dungu.
 Genesaret: tati Galilea pingechi lafken ñi kangelu üy, fülkülelu am Genesaret pingechi lür mapu mew.
 
 
---- page 134 ---
 Luka 5:2
 131
 Luka 5:16
@@ -7220,7 +7088,6 @@ tremoltuafiel ti pu kutran.
 ruka che no rume.
 
 
---- page 135 ---
 Luka 5:17
 132
 Luka 5:29
@@ -7275,7 +7142,6 @@ mew.
 wimtun.
 
 
---- page 136 ---
 Luka 5:30
 133
 Luka 6:5
@@ -7330,7 +7196,6 @@ kofke pu saserdote müten felerkefuy tañi iyafel.
 5 Feymew ka feypi:
 
 
---- page 137 ---
 Luka 6:6
 134
 Luka 6:17
@@ -7386,7 +7251,6 @@ dungu.
 ñi weychayafiel tati pu romache ngüneniefilu tati pu judiu Israel mapu mew.
 
 
---- page 138 ---
 Luka 6:18
 135
 Luka 6:34
@@ -7441,7 +7305,6 @@ müten, ¿chem küme dungu am tati? Ka femngechi tati pu yafkafe welukonke
 areluwkeyngün, femngechi tañi wiñoleltuael ñi aretuel.
 
 
---- page 139 ---
 Luka 6:35
 136
 Luka 6:47
@@ -7495,7 +7358,6 @@ femkelaymün iñche tañi ayüelchi dungu?
 iñche mew, tañi allkütuñmaetew ka femkelu iñche ñi ayüelchi dungu:
 
 
---- page 140 ---
 Luka 6:48
 137
 Luka 7:13
@@ -7547,7 +7409,6 @@ Kompañnieeyew rume fentren che mülelu ti waria mew.
 —Ngümakilnge.
 
 
---- page 141 ---
 Luka 7:14
 138
 Luka 7:28
@@ -7601,7 +7462,6 @@ koneltulelu Ngünechen ñi ülmen mülewe mew, doy wünenküley ta Juan mew.”
 * 7:27 Malakia 3.1.
 
 
---- page 142 ---
 Luka 7:29
 139
 Luka 7:44
@@ -7656,7 +7516,6 @@ Fey Jesus feypifi ta Simon:
 mew, fey elulaen ko tañi küchayael ñi namun, welu feytachi domo
 
 
---- page 143 ---
 Luka 7:45
 140
 Luka 8:8
@@ -7709,7 +7568,6 @@ kiñe witran tukulelkefuy olifu aseyte ñi ange mew ka longko mew, fey ñi küch
 longko mew ñi trekalepaelchi trufürngechi rüpü mew.
 
 
---- page 144 ---
 Luka 8:9
 141
 Luka 8:21
@@ -7764,7 +7622,6 @@ peaetew.
 * 8:10 Isaia 6.9.
 
 
---- page 145 ---
 Luka 8:22
 142
 Luka 8:32
@@ -7818,7 +7675,6 @@ konpuael.
 ‡ 8:30 Lekion fentren weküfü pin ürke.
 
 
---- page 146 ---
 Luka 8:33
 143
 Luka 8:46
@@ -7872,7 +7728,6 @@ feypi:
 kulliafiel ti pu lawentuchekelu.”
 
 
---- page 147 ---
 Luka 8:47
 144
 Luka 9:6
@@ -7926,7 +7781,6 @@ Erode ta newe feyentulay
 (Matew 14.1-12; Marku 6.14-29)
 
 
---- page 148 ---
 Luka 9:7
 145
 Luka 9:20
@@ -7981,7 +7835,6 @@ wentrungen, tati wiñomongetulu.
 Feymew llowdungueyew Pedro:
 
 
---- page 149 ---
 Luka 9:21
 146
 Luka 9:36
@@ -8035,7 +7888,6 @@ engün.
 disipulu feypirkelafi iney no rume tüfachi dungu tañi peel engün.
 
 
---- page 150 ---
 Luka 9:37
 147
 Luka 9:50
@@ -8089,7 +7941,6 @@ kelluley tati.
 Duamkünungelay ta Jesus Samaria ñi kiñe waria mew
 
 
---- page 151 ---
 Luka 9:51
 148
 Luka 10:2
@@ -8144,7 +7995,6 @@ mew ngelay: “Eymün kimlaymün chem tamün pimeken. Tati Wentrukünuwpalu küp
 disipulu”.
 
 
---- page 152 ---
 Luka 10:3
 149
 Luka 10:19
@@ -8198,7 +8048,6 @@ ilolafe mew, ka tamün wewafiel kom kayñe ñi newen, welu
 allfül-layaeymünmew rume.
 
 
---- page 153 ---
 Luka 10:20
 150
 Luka 10:32
@@ -8253,7 +8102,6 @@ püle rumey, fey amuy ñi rüpütulen.
 Levi ñi trokiñ reñmache mew, nierkefuy ti küdaw ñi kelluael ti ngillatuwe ruka mew.
 
 
---- page 154 ---
 Luka 10:33
 151
 Luka 11:3
@@ -8308,7 +8156,6 @@ pünengekefuy ñi liftuam ti allfen.
 müngeltuniengeymi wenu mapu ka femngechi müngeltun mülepe tüfachi mapu mew”.
 
 
---- page 155 ---
 Luka 11:4
 152
 Luka 11:18
@@ -8363,7 +8210,6 @@ weküfü Belsebu ñi ngüneluwün mew.
 Kiñeke kuyfi wirin mew ngelay: “elupeafuy may ñi fotüm kiñe kura, eluen kofke pieliyew? ¿Ka”.
 
 
---- page 156 ---
 Luka 11:19
 153
 Luka 11:32
@@ -8418,7 +8264,6 @@ mülepan, doy fütra kimün nien ta Salomon mew.
 afaelchi antü mew, kondenayafi fantepu mülechi pu che, fey Ninife pu che
 
 
---- page 157 ---
 Luka 11:33
 154
 Luka 11:46
@@ -8471,7 +8316,6 @@ dungu:
 46 Welu Jesus llowdungufi ti wentru kimeltukelu Moyse ñi ley dungu:
 
 
---- page 158 ---
 Luka 11:47
 155
 Luka 12:5
@@ -8524,7 +8368,6 @@ müntuñmafilu ñi mongen ta che ka niey pepiluwün tañi tukuafiel ta kütral
 mapu mew. Fey may ta llükakeafimün.
 
 
---- page 159 ---
 Luka 12:6
 156
 Luka 12:21
@@ -8577,7 +8420,6 @@ Ngünechen kisukünukelafi ñi pu yall
 (Matew 6.25-34)
 
 
---- page 160 ---
 Luka 12:22
 157
 Luka 12:39
@@ -8635,7 +8477,6 @@ ka pichin
 tremümpeafuy may ñi kuerpu kiñe rangiñ metro rewall?
 
 
---- page 161 ---
 Luka 12:40
 158
 Luka 12:55
@@ -8688,7 +8529,6 @@ konwe antü püle, ‘mawünay tati’ pikeymün, fey femkey.
 femngechi femkey.
 
 
---- page 162 ---
 Luka 12:56
 159
 Luka 13:11
@@ -8741,7 +8581,6 @@ sinagoga mew.
 Kiñe weküfü potrongelnierkeeyew, fey pepi küme norümkerkelay ñi kuerpu.
 
 
---- page 163 ---
 Luka 13:12
 160
 Luka 13:28
@@ -8795,7 +8634,6 @@ wentru mülelu Ngünechen ñi ülmen mülewe mew, welu eymün
 wemütripaleaymün.
 
 
---- page 164 ---
 Luka 13:29
 161
 Luka 14:7
@@ -8846,7 +8684,6 @@ ngülamfi:
 * 13:35 Salmo 118.26.
 
 
---- page 165 ---
 Luka 14:8
 162
 Luka 14:23
@@ -8901,7 +8738,6 @@ tati pu che mew, fey amunge ti pu rüpü püle, fey aporiafinge ti pu che tañi
 konpayael engün, femngechi fentren che müleay tañi ruka mew.
 
 
---- page 166 ---
 Luka 14:24
 163
 Luka 15:5
@@ -8955,7 +8791,6 @@ Fey petufile wüla, nor duamküleweay.
 5 Fey dew petufile, fente ñi ayüwün meñkupüramafi ñi llangka foro mew.
 
 
---- page 167 ---
 Luka 15:6
 164
 Luka 15:24
@@ -9009,7 +8844,6 @@ kuwü mew ka okota ñi namun mew.
 petufiyiñ!’ Fey eluwi engün ñi nieael ta kawiñ.
 
 
---- page 168 ---
 Luka 15:25
 165
 Luka 16:9
@@ -9064,7 +8898,6 @@ mapu mew femngechi tamün wewael ta weni, fey dew afle ti fentren
 chemkün, müleay iney tamün llowaetew ta eymün ti rumel mülewe mew.
 
 
---- page 169 ---
 Luka 16:10
 166
 Luka 16:23
@@ -9117,7 +8950,6 @@ lalu, fey pürakintuy, feymew perkefi alü kamapu ta Abraam, ka Lasaru engu
 mülelu tüye mew.
 
 
---- page 170 ---
 Luka 16:24
 167
 Luka 17:7
@@ -9170,7 +9002,6 @@ Chumngechi ñi poyecheael ta kiñe kona
 tüfachi kona wiñomele lelfün mew, dew ketramapumele kam dew
 
 
---- page 171 ---
 Luka 17:8
 168
 Luka 17:23
@@ -9221,7 +9052,6 @@ tati Wentrukünuwpalu, welu pelayafimün.
 ka inakefilmün rume.
 
 
---- page 172 ---
 Luka 17:24
 169
 Luka 18:4
@@ -9275,7 +9105,6 @@ ta pu che.
 36.
 
 
---- page 173 ---
 Luka 18:5
 170
 Luka 18:19
@@ -9329,7 +9158,6 @@ Kiñe riku wentru petu dungulu Jesus engu
 müten: Ngünechen tatey.
 
 
---- page 174 ---
 Luka 18:20
 171
 Luka 18:38
@@ -9383,7 +9211,6 @@ ta iñche!
 * 18:20 Exodo 20.12-16; Deuteronomio 5.16-20.
 
 
---- page 175 ---
 Luka 18:39
 172
 Luka 19:12
@@ -9437,7 +9264,6 @@ pürümkachi Ngünechen ñi longko ülmenngen.
 longko ülmen küpalmengelu, fey tüfa amurkey alü kamapu, tati kangelu
 
 
---- page 176 ---
 Luka 19:13
 173
 Luka 19:31
@@ -9491,7 +9317,6 @@ iney rume petu püralaeyew, nentutrapelafimu, fey küpalafimu.
 feypiafimu ‘Ñidol duamtueyew tati’.
 
 
---- page 177 ---
 Luka 19:32
 174
 Luka 19:47
@@ -9547,7 +9372,6 @@ langümafuel engün ta Jesus.
 7.11.
 
 
---- page 178 ---
 Luka 19:48
 175
 Luka 20:16
@@ -9601,7 +9425,6 @@ langümfingün.
 eluafi ta kakelu küdawfe.”
 
 
---- page 179 ---
 Luka 20:17
 176
 Luka 20:28
@@ -9655,7 +9478,6 @@ fotümelafiel ñi lachi peñi.†
 † 20:28 Deuteronomio 25.5.
 
 
---- page 180 ---
 Luka 20:29
 177
 Luka 20:47
@@ -9712,7 +9534,6 @@ pünotuwe reke miñche tami namun: kiñe adkünu dungu tati wewfilu ñi pu kayñ
 110.1.
 
 
---- page 181 ---
 Luka 21:1
 178
 Luka 21:16
@@ -9766,7 +9587,6 @@ chem pilayaeymünmew rume.
 pu reñma ka tami pu weni ka femay. Ka kiñekentu eymün langümngeaymün.
 
 
---- page 182 ---
 Luka 21:17
 179
 Luka 21:34
@@ -9820,7 +9640,6 @@ reke ka ñi konael ti wesake wimtun mew, ti putun dungu mew no rume ka
 * 21:27 Daniel 7.13.
 
 
---- page 183 ---
 Luka 21:35
 180
 Luka 22:14
@@ -9874,7 +9693,6 @@ Jesus, fey pepikapuyngu ti Paskua pun iyael.
 mesa mew.
 
 
---- page 184 ---
 Luka 22:15
 181
 Luka 22:31
@@ -9928,7 +9746,6 @@ Jesus wüne kimelüy ta Pedro ñi llumumayaetew
 chiñükayaetew kachilla reke.
 
 
---- page 185 ---
 Luka 22:32
 182
 Luka 22:46
@@ -9982,7 +9799,6 @@ femngechi ta wewlayaeymünmew tati kintukaduamchekelu.
 † 22:44 Kiñeke kuyfi wirin mew ngelay versu 43-44.
 
 
---- page 186 ---
 Luka 22:47
 183
 Luka 22:62
@@ -10037,7 +9853,6 @@ Tati pu soltaw ayentuniefi engün ta Jesus
 (Matew 26.67-68; Marku 14.65)
 
 
---- page 187 ---
 Luka 22:63
 184
 Luka 23:6
@@ -10089,7 +9904,6 @@ ta Galilea.
 ‡ 22:69 Salmo 110.1.
 
 
---- page 188 ---
 Luka 23:7
 185
 Luka 23:23
@@ -10142,7 +9956,6 @@ engün ñi ayüel.
 * 23:17 Kiñeke kuyfi wirin mew ngelay versu 17.
 
 
---- page 189 ---
 Luka 23:24
 186
 Luka 23:40
@@ -10198,7 +10011,6 @@ kürus mew, lukatuniefi ta Jesus:
 § 23:34 Salmo 22.18.
 
 
---- page 190 ---
 Luka 23:41
 187
 Luka 23:55
@@ -10251,7 +10063,6 @@ amuyngün ka pemefingün ti rüngan lolo ka inaduammefingün chumngechi
 * 23:46 Salmo 31.5.
 
 
---- page 191 ---
 Luka 23:56
 188
 Luka 24:18
@@ -10305,7 +10116,6 @@ Feymew witrakünuwingu, fey rume weñangkülen
 rupachi dungu?
 
 
---- page 192 ---
 Luka 24:19
 189
 Luka 24:35
@@ -10360,7 +10170,6 @@ Jesus pewfaluwfi ñi pu apostol
 (Matew 28.16-20; Marku 16.14-18; Juan 20.19-23; Hecho 1.6-8)
 
 
---- page 193 ---
 Luka 24:36
 190
 Luka 24:53
@@ -10413,7 +10222,6 @@ Felepe may.*
 * 24:53 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 194 ---
 Juan 1:1
 191
 Juan 1:16
@@ -10465,7 +10273,6 @@ pepiluwünngey ta iñche mew, kisu am wünenkülelu iñche mew” pi.
 felen.
 
 
---- page 195 ---
 Juan 1:17
 192
 Juan 1:28
@@ -10521,7 +10328,6 @@ kom dungu ñi pepikapayael ti Mesiangealu.
 judiuche müngeltuniekefilu Moyse tañi ley dungu, ka femngechi tati kakelu wimtun.
 
 
---- page 196 ---
 Juan 1:29
 193
 Juan 1:45
@@ -10574,7 +10380,6 @@ ka Pedro.
 ‡ 1:42 Sefa: üy che “kura” pin ürke.
 
 
---- page 197 ---
 Juan 1:46
 194
 Juan 2:8
@@ -10628,7 +10433,6 @@ Fey fente küme apolfingün.
 mafün mew.
 
 
---- page 198 ---
 Juan 2:9
 195
 Juan 2:21
@@ -10683,7 +10487,6 @@ ngillatuwe ruka mew.
 ‡ 2:17 Salmo 69.9.
 
 
---- page 199 ---
 Juan 2:22
 196
 Juan 3:11
@@ -10737,7 +10540,6 @@ feypiwkefiel,
 wimtun.
 
 
---- page 200 ---
 Juan 3:12
 197
 Juan 3:29
@@ -10793,7 +10595,6 @@ nieelchi weni, mülelu ti mafün mew allküñmafilu ñi nütramkameken ti nofio,
 feypiley: “kiñeke judiu engün”.
 
 
---- page 201 ---
 Juan 3:30
 198
 Juan 4:10
@@ -10847,7 +10648,6 @@ kayñetukerkefuyngün ti pu judiu ti samariache engün kake rumelu engün am ñi
 dungu mew.
 
 
---- page 202 ---
 Juan 4:11
 199
 Juan 4:26
@@ -10901,7 +10701,6 @@ kom küme kimelpayaeiñmew.
 —Fey iñche tati, eymi tami petu dunguetew.
 
 
---- page 203 ---
 Juan 4:27
 200
 Juan 4:45
@@ -10955,7 +10754,6 @@ am ka femngechi amulu tati Paskua kawiñ mew ta Jerusalen ka dew
 pefuyngün itrokom ñi femel ta kisu tüfeychi waria mew.
 
 
---- page 204 ---
 Juan 4:46
 201
 Juan 5:7
@@ -11008,7 +10806,6 @@ kangelu kutran wüne konkey.
 * 5:4 Kiñeke kuyfi wirin mew ngelay versu 4.
 
 
---- page 205 ---
 Juan 5:8
 202
 Juan 5:24
@@ -11065,7 +10862,6 @@ iney no rume.
 langümafuel”.
 
 
---- page 206 ---
 Juan 5:25
 203
 Juan 5:42
@@ -11119,7 +10915,6 @@ eluwafiel ta rumel mongen.
 42 Kimniewiyiñ ta eymün ka kimnien tamün piwkeyenofiel ta Ngünechen.
 
 
---- page 207 ---
 Juan 5:43
 204
 Juan 6:13
@@ -11172,7 +10967,6 @@ tati wükanke kofke mew, tati sofralu ti kechu kawella kofke mew.
 * 6:7 Rume fentren pülata: epu pataka denario faliy pura küyen küdaw.
 
 
---- page 208 ---
 Juan 6:14
 205
 Juan 6:30
@@ -11225,7 +11019,6 @@ mew kisu tañi werküetew.
 30 Feymew ramtuy engün:
 
 
---- page 209 ---
 Juan 6:31
 206
 Juan 6:48
@@ -11280,7 +11073,6 @@ mongen.
 ‡ 6:45 Isaia 54.13.
 
 
---- page 210 ---
 Juan 6:49
 207
 Juan 6:65
@@ -11335,7 +11127,6 @@ Chaw ta küpalnoeliyew.
 trawüluam engün ka ñi kimeltungeam engün.
 
 
---- page 211 ---
 Juan 6:66
 208
 Juan 7:11
@@ -11389,7 +11180,6 @@ feypiyawingün:
 mülekefel küni ruka mew ti uwe mapu mew.
 
 
---- page 212 ---
 Juan 7:12
 209
 Juan 7:28
@@ -11445,7 +11235,6 @@ küpale tati Cristo, iney rume kimlayay chew ñi tuwün.”
 kimeltun tati ngillatuwe ruka mew, feypi newentu dungun mew:
 
 
---- page 213 ---
 Juan 7:29
 210
 Juan 7:44
@@ -11498,7 +11287,6 @@ llüwatuleael ti ngillatuwe ruka mew.
 ‡ 7:42 Mikea 5.2.
 
 
---- page 214 ---
 Juan 7:45
 211
 Juan 8:9
@@ -11552,7 +11340,6 @@ kisulewetulu tati domo engu,
 § 7:52 Mikea 5.2.
 
 
---- page 215 ---
 Juan 8:10
 212
 Juan 8:23
@@ -11606,7 +11393,6 @@ tüfachi nag mapu mew tuwimün, welu iñche wenu mapu mew tuwün.
 * 8:17 Deuteronomio 19.15.
 
 
---- page 216 ---
 Juan 8:24
 213
 Juan 8:39
@@ -11659,7 +11445,6 @@ Welu Jesus llowdunguy:
 kisu tañi femel.
 
 
---- page 217 ---
 Juan 8:40
 214
 Juan 8:55
@@ -11714,7 +11499,6 @@ pifuli, iñche ta rume koylangeafun eymün reke. Welu rüfngey tañi
 kimniefiel, fey ka müngeltuñmakefiñ kisu ñi dungu.
 
 
---- page 218 ---
 Juan 8:56
 215
 Juan 9:12
@@ -11769,7 +11553,6 @@ pelotun.
 —¿Chew anta müley üyechi wentru?
 
 
---- page 219 ---
 Juan 9:13-14
 216
 Juan 9:28
@@ -11824,7 +11607,6 @@ tamün wiñome feypiwafiel? ¿Eymün anta ayüleymün kay tamün inayafiel?
 28 Feymew wesa pifingün, ka feypifingün:
 
 
---- page 220 ---
 Juan 9:29
 217
 Juan 10:2
@@ -11878,7 +11660,6 @@ saltiachefe.
 tati llüwatuniefilu ti pu ufisa.
 
 
---- page 221 ---
 Juan 10:3
 218
 Juan 10:21
@@ -11932,7 +11713,6 @@ am elupeafuy ñi pelotuael tati pu trawma? ―pi engün.
 Tati pu judiu feyentulafingün ta Jesus
 
 
---- page 222 ---
 Juan 10:22
 219
 Juan 10:39
@@ -11986,7 +11766,6 @@ kiñe püle tripay, fey amutuy.
 † 10:34 Salmo 82.6.
 
 
---- page 223 ---
 Juan 10:40
 220
 Juan 11:18
@@ -12040,7 +11819,6 @@ Jesus, tati wiñomongeltukefilu ta kakelu che ka tati wülkelu mongen
 18 Betania waria mülerkey Jerusalen ñi fülpüle kiñe küla kilometro,
 
 
---- page 224 ---
 Juan 11:19
 221
 Juan 11:37
@@ -12094,7 +11872,6 @@ Fey feypingün:
 Lasaru?
 
 
---- page 225 ---
 Juan 11:38
 222
 Juan 11:51
@@ -12149,7 +11926,6 @@ Longko Saserdote.
 femngechi ngüneniekefuy tati trokiñ saserdote.
 
 
---- page 226 ---
 Juan 11:52
 223
 Juan 12:9
@@ -12202,7 +11978,6 @@ Betania mew, fey amuyngün ta üyew, fey Jesus müten ürke no tañi pemeafiel
 engün, welu ka femngechi ta Lasaru, tüfey tañi wiñomongeltuel ta Jesus.
 
 
---- page 227 ---
 Juan 12:10
 224
 Juan 12:25
@@ -12257,7 +12032,6 @@ mapu mew, fey ta nieay rumel mongen.
 † 12:15 Sakaria 9.9.
 
 
---- page 228 ---
 Juan 12:26
 225
 Juan 12:40
@@ -12311,7 +12085,6 @@ ka elungelay ñi longkontukuafiel ti dungu,
 ‡ 12:38 Isaia 53.1.
 
 
---- page 229 ---
 Juan 12:41
 226
 Juan 13:6
@@ -12364,7 +12137,6 @@ küchanamunafiel ñi pu disipulu ka angkümeltufi ti toalla mew.
 § 12:40 Isaia 6.10.
 
 
---- page 230 ---
 Juan 13:7
 227
 Juan 13:22
@@ -12418,7 +12190,6 @@ engün iney ñi feypipefiel.
 * 13:18 Salmo 41.9.
 
 
---- page 231 ---
 Juan 13:23
 228
 Juan 13:38
@@ -12472,7 +12243,6 @@ lakonael rume ta eymi iñchiw!
 küme püramyengen”.
 
 
---- page 232 ---
 Juan 14:1
 229
 Juan 14:16-17
@@ -12526,7 +12296,6 @@ müngeltuafimün iñche ñi werkün dungu.
 Küme Püllü tamün kellunieaetew, fey ta rumel müleay eymün mew. Tati
 
 
---- page 233 ---
 Juan 14:18
 230
 Juan 15:1
@@ -12580,7 +12349,6 @@ Kiñewkülemün iñche mew tati row ofad reke kiñewkülelu tati anüm ofad mew
 anüm ofad reke felen, fey iñche ñi Chaw tati dapikefilu ti anüm ofad.
 
 
---- page 234 ---
 Juan 15:2
 231
 Juan 15:19
@@ -12635,7 +12403,6 @@ che mew, feymew ta mapu mew mülechi pu che üdekeeymünmew, fey eymün
 am feyentulu iñche mew.
 
 
---- page 235 ---
 Juan 15:20
 232
 Juan 16:9
@@ -12688,7 +12455,6 @@ che ñi chumngen.
 * 15:25 Salmo 35.19; 69.4.
 
 
---- page 236 ---
 Juan 16:10
 233
 Juan 16:25
@@ -12743,7 +12509,6 @@ doy kimeltuwewlayayiñ adkünu dungu mew, welu may re küme
 kimeltuwayiñ ta Chaw ñi dungu.
 
 
---- page 237 ---
 Juan 16:26
 234
 Juan 17:9
@@ -12796,7 +12561,6 @@ pu che mew, welu may tüfey engün mew tami elufiel, fey eymi ngenngelu
 am kisu engün mew.
 
 
---- page 238 ---
 Juan 17:10
 235
 Juan 17:25
@@ -12850,7 +12614,6 @@ welu iñche kimnieeyu, fey tati feyentulechi pu che kimingün kafey eymi
 tami werküfiel.
 
 
---- page 239 ---
 Juan 17:26
 236
 Juan 18:12
@@ -12904,7 +12667,6 @@ Jesus puwülngey Anas ñi ruka mew
 tañi ngillatuwe ruka mew, püresufi engün ta Jesus ka furi trarifingün.
 
 
---- page 240 ---
 Juan 18:13
 237
 Juan 18:27
@@ -12959,7 +12721,6 @@ reñma, Pedro tañi katrüñmafetew ñi pilun:
 27 Fey Pedro ka kiñe rupa “kimlafiñ” pi, feymew müten kakaray ti alka.
 
 
---- page 241 ---
 Juan 18:28
 238
 Juan 18:38
@@ -13013,7 +12774,6 @@ ti pu judiu, fey feypifi:
 podümkefeyew reke, fey pepi ilayafuy rume tati pun iyael.
 
 
---- page 242 ---
 Juan 18:39
 239
 Juan 19:13
@@ -13068,7 +12828,6 @@ anükünuwi kiñe kues reke tati fütra wangku mew, (fey aramewdungun mew
 Gabata pingerkey), fey tüfa feypin ürke llüdümkülelu kura mew.
 
 
---- page 243 ---
 Juan 19:14
 240
 Juan 19:27
@@ -13123,7 +12882,6 @@ Feymew, üyechi disipulu llowfi kisu ñi ruka mew ta Maria.
 * 19:24 Salmo 22.18.
 
 
---- page 244 ---
 Juan 19:28
 241
 Juan 19:41
@@ -13178,7 +12936,6 @@ petu rüngalngelay.
 § 19:37 Sakaria 12.10.
 
 
---- page 245 ---
 Juan 19:42
 242
 Juan 20:15
@@ -13231,7 +12988,6 @@ Maria Magdalena rakiduamkülerkey ñi pefiel tati kuydaeltunkelu, fey
 feypifi:
 
 
---- page 246 ---
 Juan 20:16
 243
 Juan 20:28
@@ -13285,7 +13041,6 @@ yafüwkilpe tami piwke. ¡Feyentunge!
 28 Feymew wirarüy:
 
 
---- page 247 ---
 Juan 20:29
 244
 Juan 21:10
@@ -13338,7 +13093,6 @@ kiñe challwa kangkalelu, ka müley kofke.
 —Küpalmün kiñe mufü challwa tamün we nentupeel.
 
 
---- page 248 ---
 Juan 21:11
 245
 Juan 21:22
@@ -13392,7 +13146,6 @@ ilu engün, fey tati ramtufalngelu: “Ñidol, ¿iney anta wültukuaeymew?”
 chumkonlaymi. Fey eymi ta inaen ―pi.
 
 
---- page 249 ---
 Juan 21:23
 246
 Juan 21:25
@@ -13410,7 +13163,6 @@ Felepe may.*
 * 21:25 Kiñeke kuyfi wirin mew ngelay: “Felepe may.”
 
 
---- page 250 ---
 Hecho 1:1
 247
 Hecho 1:10
@@ -13461,7 +13213,6 @@ mapu, epu wentru fülangtukuluwkülelu pewfaluwi kisu engün mew.
 * 1:2 apostol: kiñe werken wentru.
 
 
---- page 251 ---
 Hecho 1:11
 248
 Hecho 1:25
@@ -13516,7 +13267,6 @@ chayafiel tati pu romache ngüneniefilu tati pu judiu Israel mapu mew.
 Salmo 109.8.
 
 
---- page 252 ---
 Hecho 1:26
 249
 Hecho 2:16
@@ -13571,7 +13321,6 @@ antü ti kosechakachillangen.
 mapu mew, fey amukefuyngün ta Jerusalen ñi mülepuael ti doy kümeke kawiñ antü mew.
 
 
---- page 253 ---
 Hecho 2:17
 250
 Hecho 2:31
@@ -13629,7 +13378,6 @@ kuerpu no rume ñi wesañmanoael.†
 † 2:31 Salmo 16.10.
 
 
---- page 254 ---
 Hecho 2:32
 251
 Hecho 2:47
@@ -13682,7 +13430,6 @@ femngechi ñi deyükonael ti trokiñ feyentulelu mew.
 ‡ 2:35 Salmo 110.1.
 
 
---- page 255 ---
 Hecho 3:1
 252
 Hecho 3:16
@@ -13736,7 +13483,6 @@ fente küme tremoltufi, fey kom eymün leliwülnietufimün tatey.
 * 3:13 Exodo 3.6, 15.
 
 
---- page 256 ---
 Hecho 3:17
 253
 Hecho 4:6
@@ -13793,7 +13539,6 @@ wünelechi kechu lifru mülelu Kuyfi Chillka mew.
 † 4:5 putrem fütakeche: yamfal pu longko.
 
 
---- page 257 ---
 Hecho 4:7
 254
 Hecho 4:24
@@ -13849,7 +13594,6 @@ mapu, lafken ka kom tati müleyelu ta mapu mew ka lafken mew.
 Longko Saserdote.
 
 
---- page 258 ---
 Hecho 4:25
 255
 Hecho 5:3
@@ -13902,7 +13646,6 @@ Küme Püllü? Rangiñ elkünuymi tami pülata tami fendeelchi mapu mew.
 * 4:26 Salmo 2.1-2.
 
 
---- page 259 ---
 Hecho 5:4
 256
 Hecho 5:20
@@ -13954,7 +13697,6 @@ tüfachi mongen wülkechi werken dungu.”
 tati wünelechi kechu lifru mülelu Kuyfi Chillka mew.
 
 
---- page 260 ---
 Hecho 5:21
 257
 Hecho 5:36
@@ -14008,7 +13750,6 @@ langümngey. Fey ñi inañmakefetew ñi ngülam, kom püdtuy, feymew kom aftuy
 wimtun.
 
 
---- page 261 ---
 Hecho 5:37
 258
 Hecho 6:8
@@ -14062,7 +13803,6 @@ trokiñche mew.
 gukeyngün.
 
 
---- page 262 ---
 Hecho 6:9
 259
 Hecho 7:7
@@ -14119,7 +13859,6 @@ engün ka ñi kimeltungeam engün.
 § 7:7 Exodo 3.12.
 
 
---- page 263 ---
 Hecho 7:8
 260
 Hecho 7:26
@@ -14175,7 +13914,6 @@ engu. Fey kisu ayüfulu am ñi wüdamentuafiel, fey feypifi engu: ‘¿Chumael t
 * 7:18 Exodo 1.8.
 
 
---- page 264 ---
 Hecho 7:27
 261
 Hecho 7:41
@@ -14234,7 +13972,6 @@ püramyeafiel ti adentun kisu engün tañi dewmael.
 * 7:40 Exodo 32.1, 23.
 
 
---- page 265 ---
 Hecho 7:42
 262
 Hecho 7:54
@@ -14288,7 +14025,6 @@ tuwünngenochi che ñi püramyekefiel.
 § 7:50 Isaia 66.1-2.
 
 
---- page 266 ---
 Hecho 7:55
 263
 Hecho 8:12
@@ -14342,7 +14078,6 @@ Ngünechen ñi longko ülmenngen ka Jesucristo, tati pu wentru ka fentren
 domo fawtisangey engün.
 
 
---- page 267 ---
 Hecho 8:13
 264
 Hecho 8:30
@@ -14397,7 +14132,6 @@ mew.”
 —¿Ngüneduamfimi kay tami chillkatupeel?
 
 
---- page 268 ---
 Hecho 8:31
 265
 Hecho 9:5
@@ -14451,7 +14185,6 @@ mapu wilüfrumepay kisu ñi inafül.
 † 8:37 Kiñeke kuyfi wirin mew ngelay versu 37.
 
 
---- page 269 ---
 Hecho 9:6
 266
 Hecho 9:19
@@ -14504,7 +14237,6 @@ wayki mew reke felelu. Fey Sawlu müllmüllkülen ka rume llükalen feypi: ‘ñ
 ñidol feypieyew”.
 
 
---- page 270 ---
 Hecho 9:20
 267
 Hecho 9:35
@@ -14558,7 +14290,6 @@ Feymew müten Enea witratuy.
 tremotun ka ñi witratun, feymew feyentuyngün ta Ñidol Jesus mew.
 
 
---- page 271 ---
 Hecho 9:36
 268
 Hecho 10:6
@@ -14611,7 +14342,6 @@ Simon, Pedro ka pingekey ñi üy.
 lafken mülelu.
 
 
---- page 272 ---
 Hecho 10:7
 269
 Hecho 10:24
@@ -14667,7 +14397,6 @@ mangelyeel.
 ünunngen mew.
 
 
---- page 273 ---
 Hecho 10:25
 270
 Hecho 10:41
@@ -14722,7 +14451,6 @@ wüne dullikünuetew taiñ nütramyeafiel tüfachi dungu. Iñchiñ ta ituiñ ka
 putuiñ kisu iñchiñ rupan wiñomongetulu.
 
 
---- page 274 ---
 Hecho 10:42
 271
 Hecho 11:12
@@ -14775,7 +14503,6 @@ yepaaetew, akuyngün tati ruka mew chew tañi mülemum ta iñche.
 konpuiñ ti wentru tañi ruka mew.
 
 
---- page 275 ---
 Hecho 11:13
 272
 Hecho 11:28
@@ -14829,7 +14556,6 @@ mapu mew. (Fey fente küme felerpuy, feychi mew Klawdio
 emperadorkülelu Roma waria mew.)
 
 
---- page 276 ---
 Hecho 11:29
 273
 Hecho 12:11
@@ -14882,7 +14608,6 @@ trokiñ feyentulelu mew.
 pu judiu ñi kawiñ ñi tukulpakeel ñi entumetufiel Egipto mew ka ñi inofiel lefawrangenochi kofke.
 
 
---- page 277 ---
 Hecho 12:12
 274
 Hecho 13:1
@@ -14936,7 +14661,6 @@ Bernabe engu Sawlu llituy ñi wewpiyawael kake trokiñ mapu mew
 wentru ka kimeltufe. Bernabe engu, Simon (tati kurü che pingekelu), Lusio
 
 
---- page 278 ---
 Hecho 13:2
 275
 Hecho 13:15
@@ -14991,7 +14715,6 @@ Pablo engu Bernabe:
 feychi mew eluñmakelafuy ñi küdawael iney no rume.
 
 
---- page 279 ---
 Hecho 13:16
 276
 Hecho 13:31
@@ -15047,7 +14770,6 @@ mew tüfa engün tati tripalu ta Galilea trokiñ mapu mew ñi küpayael ta
 § 13:22 1 Samuel 13.14.
 
 
---- page 280 ---
 Hecho 13:32
 277
 Hecho 13:46
@@ -15105,7 +14827,6 @@ mew, fey eymün tamün judiungen. Dew llowlafimün ka duamlafimün tati
 Abakuk 1.5.
 
 
---- page 281 ---
 Hecho 13:47
 278
 Hecho 14:8
@@ -15157,7 +14878,6 @@ wentru anülerkey,
 † 13:47 Isaia 49.6.
 
 
---- page 282 ---
 Hecho 14:9
 279
 Hecho 14:25
@@ -15212,7 +14932,6 @@ mapu mew.
 engu ta Atalia ñi ayliñ mew.
 
 
---- page 283 ---
 Hecho 14:26
 280
 Hecho 15:10
@@ -15266,7 +14985,6 @@ Kimeltumekefimün tati pu feyentuleyelu tati pepilfalnochi dungu iñchiñ no
 rume ka taiñ kuyfike che em no rume tañi pepi femnoel.
 
 
---- page 284 ---
 Hecho 15:11
 281
 Hecho 15:25
@@ -15320,7 +15038,6 @@ taiñ sakin epu peñi Bernabe ka Pablo engün.
 * 15:17 Amos 9.11-12.
 
 
---- page 285 ---
 Hecho 15:26
 282
 Hecho 15:41
@@ -15371,7 +15088,6 @@ Timotew kompañfi ta Pablo ka Silas
 † 15:34 Kiñeke kuyfi wirin mew ngelay versu 34.
 
 
---- page 286 ---
 Hecho 16:1
 283
 Hecho 16:15
@@ -15425,7 +15141,6 @@ Feymew aporiaeiñmew taiñ mülewenagael.
 * 16:7 Kiñeke kuyfi wirin mew ngelay: “Jesus tañi”.
 
 
---- page 287 ---
 Hecho 16:16
 284
 Hecho 16:32
@@ -15480,7 +15195,6 @@ tami pu reñmache.
 tañi küme dungu ka itrokom ñi reñma müleyelu ñi ruka mew.
 
 
---- page 288 ---
 Hecho 16:33
 285
 Hecho 17:6
@@ -15532,7 +15246,6 @@ yefi engün tati waria che tañi awtoridad mew, wirarküley engün:
 femngechi akuy engün ta tüfa mew,
 
 
---- page 289 ---
 Hecho 17:7
 286
 Hecho 17:20
@@ -15587,7 +15300,6 @@ Areopago: Atena ñi trawün che Areopago pingey, fey engün am trawüluwkefulu t
 Areopago pingelu.
 
 
---- page 290 ---
 Hecho 17:21
 287
 Hecho 18:2
@@ -15642,7 +15354,6 @@ waria mew.
 mülelu. We akuleturkey, tati epu kurewen Akila engu Prisila wiñomerkey ta
 
 
---- page 291 ---
 Hecho 18:3
 288
 Hecho 18:18
@@ -15697,7 +15408,6 @@ tati pu feyentulechi che. Kiñentrür Prisila ka Akila engün püray ta farku
 mew, fey amuy Siria ñi trokiñ mapu mew. Welu Senkrea mew petu ñi
 
 
---- page 292 ---
 Hecho 18:19
 289
 Hecho 19:3
@@ -15751,7 +15461,6 @@ Fey kisu engün llowdunguy:
 püllelepachi kawiñ antü mew”.
 
 
---- page 293 ---
 Hecho 19:4
 290
 Hecho 19:19
@@ -15805,7 +15514,6 @@ nentudungupay kom tañi wesa femkefel engün kuyfi mew,
 chillka ka lüpümfingün, fey ñi penieetew kom che. Inaduamngeyelu tañi
 
 
---- page 294 ---
 Hecho 19:20
 291
 Hecho 19:33
@@ -15858,7 +15566,6 @@ dungu ñi mülen, tati pu judiu tañi rültrentukupuel itrokom che ñi adkiñ me
 * 19:24 Artemisa: kiñe dewman ngünechen, ka femngechi Diana pingey ñi üy.
 
 
---- page 295 ---
 Hecho 19:34
 292
 Hecho 20:7
@@ -15910,7 +15617,6 @@ ta kofke chumngechi femi Jesus tañi pu disipulu engün, Pablo nütramkaniefi
 † 19:35 Artemisa: kiñe dewman ngünechen, ka femngechi Diana pingey ñi üy.
 
 
---- page 296 ---
 Hecho 20:8
 293
 Hecho 20:22
@@ -15962,7 +15668,6 @@ fey tañi kimnon chem dungu tañi üngümnieetew ta üyew.
 * 20:15 Kiñeke kuyfi wirin mew ngelay: “Ka rumeiñ Trogilio ayliñ mew”.
 
 
---- page 297 ---
 Hecho 20:23
 294
 Hecho 21:2
@@ -16014,7 +15719,6 @@ mapu.
 püraiñ.
 
 
---- page 298 ---
 Hecho 21:3
 295
 Hecho 21:20
@@ -16069,7 +15773,6 @@ miyawlu tati pu judiu tuwünngenolu mew.
 longko feypifi engün ta Pablo:
 
 
---- page 299 ---
 Hecho 21:21
 296
 Hecho 21:33
@@ -16124,7 +15827,6 @@ trarilelngeael ta epu kadena mew. Fey wüla ramtuy ñi ineyngen ka tañi
 chem wesa femün.
 
 
---- page 300 ---
 Hecho 21:34
 297
 Hecho 22:7
@@ -16178,7 +15880,6 @@ wall püle,
 ‘Sawlu, Sawlu, ¿chem mew anta inantukuyawülen?’
 
 
---- page 301 ---
 Hecho 22:8
 298
 Hecho 22:24
@@ -16232,7 +15933,6 @@ tañi wimakangeael, tañi nentudunguael chem mew tañi üdengen fente
 wirarkümeken mew tati pu judiuche.
 
 
---- page 302 ---
 Hecho 22:25
 299
 Hecho 23:6
@@ -16288,7 +15988,6 @@ engün, fey doy falintukefilu tati wünelechi kechu lifru mülelu Kuyfi Chillka 
 kiñe trokiñ judiuche müngeltuniekefilu Moyse tañi ley dungu, ka femngechi tati kakelu wimtun.
 
 
---- page 303 ---
 Hecho 23:7
 300
 Hecho 23:22
@@ -16343,7 +16042,6 @@ eymi tami llowdungukan müten.
 feypinoafiel iney no rume feychi dungu tañi nütrameletew.
 
 
---- page 304 ---
 Hecho 23:23
 301
 Hecho 24:4
@@ -16396,7 +16094,6 @@ fentren mañumün nieiñ.
 Allkütumuaiñ kiñe lelen rewall.
 
 
---- page 305 ---
 Hecho 24:5
 302
 Hecho 24:20
@@ -16452,7 +16149,6 @@ dungu”.
 mew”.
 
 
---- page 306 ---
 Hecho 24:21
 303
 Hecho 25:8
@@ -16504,7 +16200,6 @@ rume küme tripalay kom tañi piel mew engün.
 8 Pablo kay feypi kisutu tañi ingkawün:
 
 
---- page 307 ---
 Hecho 25:9
 304
 Hecho 25:21
@@ -16559,7 +16254,6 @@ tañi werkülelafiel tati emperador.
 felerkefuy ñi feypiael tati emperador ñi ramtukadunguaetew ñi welulkawün mew.
 
 
---- page 308 ---
 Hecho 25:22
 305
 Hecho 26:8
@@ -16614,7 +16308,6 @@ feypintukumekeenew eymi tami adkiñ mew longko ülmen Agripa.
 la?
 
 
---- page 309 ---
 Hecho 26:9
 306
 Hecho 26:22
@@ -16669,7 +16362,6 @@ küpa langümfenew engün.
 amulen. Nütramelniefiñ kom che Ngünechen ñi dungu, pichikeche ka
 
 
---- page 310 ---
 Hecho 26:23
 307
 Hecho 27:4
@@ -16723,7 +16415,6 @@ newe kürüflay, feymew doy matu amuiñ ti farku mew, kañpüle rumeliyiñ
 amulayafuy ti farku.
 
 
---- page 311 ---
 Hecho 27:5
 308
 Hecho 27:21
@@ -16778,7 +16469,6 @@ rangiñ mew fey feypi:
 Femngechi fente wesake üllüflayafuiñ ka fente ngünalayafuy taiñ chemkün.
 
 
---- page 312 ---
 Hecho 27:22
 309
 Hecho 27:40
@@ -16833,7 +16523,6 @@ farku. Feymew adkürüfkünufi engün tati inüfpüralechi pañu wünelechi fark
 ñi ad püle, fey tati farku ñochingey tañi fülpun tati ayliñ mew.
 
 
---- page 313 ---
 Hecho 27:41
 310
 Hecho 28:12
@@ -16885,7 +16574,6 @@ rütran ngünechen Kastor ka Polu pingelu,* pünantukulelu ti farku mew.
 * 28:11 Kastor ka Polu pingelu: epu dewman ngünechen püramyekeel tati pu marineru.
 
 
---- page 314 ---
 Hecho 28:13
 311
 Hecho 28:26
@@ -16941,7 +16629,6 @@ wentru Isaia ñi feypiel mew:
 Tunte allkütuayngün rume, kimentulayay engün.
 
 
---- page 315 ---
 Hecho 28:27
 312
 Hecho 28:31
@@ -16966,7 +16653,6 @@ katrütunielaeyew.
 ‡ 28:29 Kiñeke kuyfi wirin mew ngelay ta versu 29.
 
 
---- page 316 ---
 Romanu 1:1
 313
 Romanu 1:11
@@ -17018,7 +16704,6 @@ kelluwafiel Ngünechen ñi dungu mew, femngechi tamün doy newenküleael,
 ebrewdungun mew.
 
 
---- page 317 ---
 Romanu 1:12
 314
 Romanu 1:25
@@ -17071,7 +16756,6 @@ may.
 ‡ 1:17 Abakuk 2.4.
 
 
---- page 318 ---
 Romanu 1:26
 315
 Romanu 2:7
@@ -17124,7 +16808,6 @@ Ngünechen ka kintukelu chumkawnorume afkenochi mongen, fey rumel
 ayülekelu ñi femael ta kümeke dungu,
 
 
---- page 319 ---
 Romanu 2:8
 316
 Romanu 2:24
@@ -17178,7 +16861,6 @@ judiungenolu üyawtukefi engün ta Ngünechen eymün tamün yafkan mew.”*
 * 2:24 Isaia 52.5 LXX.
 
 
---- page 320 ---
 Romanu 2:25
 317
 Romanu 3:9
@@ -17230,7 +16912,6 @@ ta kakelu che mew? ¡Felelay! Fey dew feypipeiñ ta iñchiñ tati pu judiuche ka
 * 3:4 Salmo 51.4 LXX.
 
 
---- page 321 ---
 Romanu 3:10
 318
 Romanu 3:26
@@ -17289,7 +16970,6 @@ tati pu pelonke wentru ñi wirielchi dungu: tüfachi wirin dungu tukulpaniefi ta
 ebrewdungun mew.
 
 
---- page 322 ---
 Romanu 3:27
 319
 Romanu 4:10
@@ -17344,7 +17024,6 @@ rume? Femlay tatey, petu ñi sirkunsidangenon rume mayfe.
 ‡ 4:9 Genesis 15.6.
 
 
---- page 323 ---
 Romanu 4:11
 320
 Romanu 4:23-24
@@ -17400,7 +17079,6 @@ wirintukungey iñchiñ taiñ femael. Fey taiñ mupiltun mew, Ngünechen ka
 ‡ 4:22 Genesis 15.6.
 
 
---- page 324 ---
 Romanu 4:25
 321
 Romanu 5:15
@@ -17453,7 +17131,6 @@ may kümey ka afmatufali Ngünechen ñi fürenechen ñi elungeel ta itrokom
 che Jesucristo mew.
 
 
---- page 325 ---
 Romanu 5:16
 322
 Romanu 6:12
@@ -17507,7 +17184,6 @@ Cristo Jesus eymün.
 afachi kuerpu, femngechi tamün müngeltunoafiel ñi ayütukeel ta kuerpu.
 
 
---- page 326 ---
 Romanu 6:13
 323
 Romanu 7:3
@@ -17560,7 +17236,6 @@ tati ley dungu mew, fey ñiwalayay tunte kureyewtuafuy ta kangelu wentru
 engu rume.
 
 
---- page 327 ---
 Romanu 7:4
 324
 Romanu 7:20
@@ -17615,7 +17290,6 @@ iñche mew ngünekeenew ñi femael wesake dungu.
 * 7:7 Exodo 20.17; Deuteronomio 5.21.
 
 
---- page 328 ---
 Romanu 7:21
 325
 Romanu 8:9
@@ -17668,7 +17342,6 @@ wesake wimtun, welu may, ti Lif Küme Püllü ñi ayükeel. Rüf mew mülele
 femkelu tati Lif Küme Püllü ñi ayükeelchi dungu”.
 
 
---- page 329 ---
 Romanu 8:10
 326
 Romanu 8:24
@@ -17722,7 +17395,6 @@ llowliyiñ taiñ üngümkeel, doy maneluwkülewelaiñ, fey tati dew llowel ngela
 ñi üngümngeael.
 
 
---- page 330 ---
 Romanu 8:25
 327
 Romanu 8:39
@@ -17777,7 +17449,6 @@ taiñ Ñidol!
 † 8:36 Salmo 44.22.
 
 
---- page 331 ---
 Romanu 9:1
 328
 Romanu 9:15
@@ -17833,7 +17504,6 @@ kutranpiwkeyeel.”*
 * 9:15 Exodo 33.19.
 
 
---- page 332 ---
 Romanu 9:16
 329
 Romanu 9:29
@@ -17889,7 +17559,6 @@ Tati pu judiu feyentulafi Cristo tañi küme dungu
 Isaia 1.9 LXX.
 
 
---- page 333 ---
 Romanu 9:30
 330
 Romanu 10:11
@@ -17948,7 +17617,6 @@ Levitiko 18.5.
 LXX.
 
 
---- page 334 ---
 Romanu 10:12
 331
 Romanu 11:2
@@ -18007,7 +17675,6 @@ Deuteronomio 32.21.
 § 10:21 Isaia 65.2 LXX.
 
 
---- page 335 ---
 Romanu 11:3
 332
 Romanu 11:13
@@ -18064,7 +17731,6 @@ felefule, ti küme femün chem falilayafuy rume.”
 Salmo 69.22-23 LXX.
 
 
---- page 336 ---
 Romanu 11:14
 333
 Romanu 11:27
@@ -18118,7 +17784,6 @@ Fey kimeltuafi ta Jakob ñi reñmache ñi elkünutuael ñi wesa mongen.
 27 Fey tüfa lle tañi eldungu ñi femael ta kisu engün mew,
 
 
---- page 337 ---
 Romanu 11:28
 334
 Romanu 12:6
@@ -18175,7 +17840,6 @@ elufiel ta kisu kake kiñeke che. Feymew, Ngünechen elueliyiñmew ta
 * 11:35 Job 41.11.
 
 
---- page 338 ---
 Romanu 12:7
 335
 Romanu 13:1
@@ -18228,7 +17892,6 @@ awtoridadkülelu, kisu ñi piel mew ta müley.
 † 12:20 Proverbio 25.21, 22 LXX.
 
 
---- page 339 ---
 Romanu 13:2
 336
 Romanu 13:14
@@ -18283,7 +17946,6 @@ ayütukefilmün tamün illutukeelchi wesake wimtun dungu.
 wirin mew ngelay: “koyladungukilnge”.
 
 
---- page 340 ---
 Romanu 14:1
 337
 Romanu 14:13
@@ -18339,7 +18001,6 @@ ta Ngünechen”.
 § 14:11 Isaia 49.18; 45.23.
 
 
---- page 341 ---
 Romanu 14:14
 338
 Romanu 15:5
@@ -18392,7 +18053,6 @@ kiñewküleael chumngechi femi ta Cristo Jesus,
 * 15:3 Salmo 69.9.
 
 
---- page 342 ---
 Romanu 15:6
 339
 Romanu 15:19
@@ -18450,7 +18110,6 @@ longko ülmen, David ñi chaw em.
 † 15:12 Isaia 11.10 LXX.
 
 
---- page 343 ---
 Romanu 15:20
 340
 Romanu 16:1
@@ -18503,7 +18162,6 @@ trokiñ feyentulelu mew.
 ‡ 15:21 Isaia 52.15 LXX.
 
 
---- page 344 ---
 Romanu 16:2
 341
 Romanu 16:19
@@ -18556,7 +18214,6 @@ tamün kimchengeael femngechi tamün femael kümeke dungu, welu tamün
 femnoael wesake dungu.
 
 
---- page 345 ---
 Romanu 16:20
 342
 Romanu 16:27
@@ -18590,7 +18247,6 @@ Jesucristo mew! Felepe may.
 * 16:24 Kiñeke kuyfi wirin mew ngelay versu 24.
 
 
---- page 346 ---
 1 Korintio 1:1
 343
 1 Korintio 1:8
@@ -18639,7 +18295,6 @@ Jesucristo.
 * 1:1 apostol: kiñe manelnieelchi werken.
 
 
---- page 347 ---
 1 Korintio 1:9
 344
 1 Korintio 1:23
@@ -18694,7 +18349,6 @@ mew.
 ‡ 1:19 Isaia 29.14 LXX.
 
 
---- page 348 ---
 1 Korintio 1:24
 345
 1 Korintio 2:6
@@ -18746,7 +18400,6 @@ rume, kisu engün am aftualu.
 § 1:31 Jeremia 9.24.
 
 
---- page 349 ---
 1 Korintio 2:7
 346
 1 Korintio 3:2
@@ -18801,7 +18454,6 @@ eymün am petu pepi llownolu ti küme kimeltun, tati fane iyael reke felelu.
 † 2:16 Isaia 40.13 LXX.
 
 
---- page 350 ---
 1 Korintio 3:3
 347
 1 Korintio 3:19
@@ -18856,7 +18508,6 @@ welulkawael tati kimkawkülelu kisu ñi ngünen dungu mew.”*
 * 3:19 Job 5.13.
 
 
---- page 351 ---
 1 Korintio 3:20
 348
 1 Korintio 4:10
@@ -18911,7 +18562,6 @@ tamün füreneetew mew kimke chengeymün. Iñchiñ ta ngañwadküleiñ, welu
 Pablo reke femel.
 
 
---- page 352 ---
 1 Korintio 4:11
 349
 1 Korintio 5:5
@@ -18964,7 +18614,6 @@ femngechi ñi apümngetuael reke tañi yafkafechengen, welu ñi püllü
 montuay feychi küpatule ta Ñidol Jesus.
 
 
---- page 353 ---
 1 Korintio 5:6
 350
 1 Korintio 6:5
@@ -19018,7 +18667,6 @@ püresukonalelu tati pu judiu Egipto mapu mew.
 † 5:12-13 Deuteronomio 17.7 LXX.
 
 
---- page 354 ---
 1 Korintio 6:6
 351
 1 Korintio 6:19
@@ -19070,7 +18718,6 @@ Püllü ñi müleael ta eymün mew? Fey eymün ta kisu ngünewkülelaymün,
 * 6:16 Genesis 2.24.
 
 
---- page 355 ---
 1 Korintio 6:20
 352
 1 Korintio 7:14
@@ -19124,7 +18771,6 @@ feyentulenochi domo, lif mongen nietukey tañi kiñewkülen mew tati
 tüfachi dungu”.
 
 
---- page 356 ---
 1 Korintio 7:15
 353
 1 Korintio 7:29
@@ -19177,7 +18823,6 @@ Pichilewey dewma tañi müleweael ta antü. Feymew llemay, tati kurengelu,
 kurengenolu reke felepe.
 
 
---- page 357 ---
 1 Korintio 7:30
 354
 1 Korintio 8:3
@@ -19229,7 +18874,6 @@ fey kiñeke feyentulelu feypikefuy ta che ñi inoael tüfeychi ilo femngechi ñi
 ngünechen.
 
 
---- page 358 ---
 1 Korintio 8:4
 355
 1 Korintio 9:7
@@ -19282,7 +18926,6 @@ mew tayu elungenoael tayu duamtukeelchi chemkün?
 kulliwael? ¿Iney am küdawkey ñi dapillafiel ti anümkülechi ofad, fey ikelay ti
 
 
---- page 359 ---
 1 Korintio 9:8
 356
 1 Korintio 9:20
@@ -19338,7 +18981,6 @@ dungu.
 * 9:9 Deuteronomio 25.4.
 
 
---- page 360 ---
 1 Korintio 9:21
 357
 1 Korintio 10:8
@@ -19391,7 +19033,6 @@ feymew kiñe antü mew müten layey engün epu mari küla warangka che.
 * 10:7 Exodo 32.6.
 
 
---- page 361 ---
 1 Korintio 10:9
 358
 1 Korintio 10:26
@@ -19446,7 +19087,6 @@ dungu no rume tamün ramtunoael, fey tamün wesa rakiduamkületunoael.
 † 10:26 Salmo 24.1.
 
 
---- page 362 ---
 1 Korintio 10:27
 359
 1 Korintio 11:9
@@ -19500,7 +19140,6 @@ wentru ñi duam.
 tüfey mew.”
 
 
---- page 363 ---
 1 Korintio 11:10
 360
 1 Korintio 11:26
@@ -19553,7 +19192,6 @@ nütramyekeafimün kisu ñi lan trawülmün tamün iyafiel ti kofke ka putuafiel
 tüfachi pulku.
 
 
---- page 364 ---
 1 Korintio 11:27
 361
 1 Korintio 12:10
@@ -19606,7 +19244,6 @@ kay ñi nütramtuafiel ti werken dungu ñi llowel ta Ngünechen mew. Ka
 kiñekentu Ngünechen elukeeyew ti kimün femngechi tañi kimafiel ti pu
 
 
---- page 365 ---
 1 Korintio 12:11
 362
 1 Korintio 12:28
@@ -19660,7 +19297,6 @@ che kay ñi tremolafiel ti pu kutran, kam kellualu, kam tati adniealu ti trokiñ
 feyentulechi che kam ti dungualu ka tripa dungun mew.
 
 
---- page 366 ---
 1 Korintio 12:29
 363
 1 Korintio 13:13
@@ -19712,7 +19348,6 @@ ti piwkeyechen, welu tati doy kümelu fey ti küla mew fey ta piwkeyechen.
 fey ti ange küme pengenkelafuy adkintun mew.
 
 
---- page 367 ---
 1 Korintio 14:1
 364
 1 Korintio 14:14
@@ -19766,7 +19401,6 @@ ngillatumeken iñche kisu ñi piwke mew müten, welu iñche ñi longko kimlay
 ñi chem pimeken ñi wün.
 
 
---- page 368 ---
 1 Korintio 14:15
 365
 1 Korintio 14:27
@@ -19821,7 +19455,6 @@ müley ñi rulpadungungetuael tüfeychi dunguelchi dungun.
 * 14:21 Isaia 28.11-12.
 
 
---- page 369 ---
 1 Korintio 14:28
 366
 1 Korintio 15:3
@@ -19874,7 +19507,6 @@ llowel. Kimeltuwiyiñ Cristo tañi lan iñchiñ taiñ yafkan ñi duam,
 chumngechi feypiley ta Wirin Chillka.
 
 
---- page 370 ---
 1 Korintio 15:4
 367
 1 Korintio 15:23
@@ -19928,7 +19560,6 @@ wüne wiñomongetulu, fey wüla, wiñometule ta Cristo, kisu tañi montulelchi
 pu che ka wiñomongetuay.
 
 
---- page 371 ---
 1 Korintio 15:24
 368
 1 Korintio 15:38
@@ -19982,7 +19613,6 @@ kangelu che dew lalu.
 ‡ 15:32 Isaia 22.13.
 
 
---- page 372 ---
 1 Korintio 15:39
 369
 1 Korintio 15:56
@@ -20040,7 +19670,6 @@ Ngünechen ñi ley dungu feypiley kom tati yafkalu ñi layael.
 § 15:55 Osea 13.14 LXX.
 
 
---- page 373 ---
 1 Korintio 15:57
 370
 1 Korintio 16:14
@@ -20091,7 +19720,6 @@ yafüngemün ka newentulemün.
 * 16:8 Pentekoste antü: epe akutule ta walüng antüngen.
 
 
---- page 374 ---
 1 Korintio 16:15
 371
 1 Korintio 16:24
@@ -20121,7 +19749,6 @@ Felepe may.‡
 ngelay: “Felepe may”.
 
 
---- page 375 ---
 2 Korintio 1:1
 372
 2 Korintio 1:9
@@ -20172,7 +19799,6 @@ maneluwael Ngünechen mew, tati wiñomongeltukefilu tati pu la.
 * 1:1 Akaya: tati trokiñ mapu chew ñi mülen ta Korinto.
 
 
---- page 376 ---
 2 Korintio 1:10
 373
 2 Korintio 1:24
@@ -20227,7 +19853,6 @@ tamün aporia feypiwafiel tamün feyentuael kom iñchiñ taiñ feypikeel
 † 1:11 Kiñeke kuyfi wirin ta feypiley: “ngillatuñmanieelmünmew ta eymün”.
 
 
---- page 377 ---
 2 Korintio 2:1
 374
 2 Korintio 2:14
@@ -20280,7 +19905,6 @@ taiñ kimeltukeelchi dungu mew, fey kisu tañi küme dungu wall püle
 rupakey kiñe küme perfume reke.
 
 
---- page 378 ---
 2 Korintio 2:15
 375
 2 Korintio 3:11
@@ -20334,7 +19958,6 @@ trürümngele tüfachi doy fütra pepiluwünngechi dungu mew.
 dungu rumel mülealu am.
 
 
---- page 379 ---
 2 Korintio 3:12
 376
 2 Korintio 4:7
@@ -20388,7 +20011,6 @@ pepiluwünngen, chumngechi ta Jesucristo mew fente küme kimngey.
 fütra küme felen reke feley. Fey tüfachi fütra pepiluwün nieiñ taiñ piwke
 
 
---- page 380 ---
 2 Korintio 4:8
 377
 2 Korintio 5:4
@@ -20441,7 +20063,6 @@ kuerpu fey tañi we kuerpukünungetuael ñi rumel mongeleael.
 * 4:13 Salmo 116.10 LXX.
 
 
---- page 381 ---
 2 Korintio 5:5
 378
 2 Korintio 5:19
@@ -20495,7 +20116,6 @@ yafkan tati pu che. Fey iñchiñ ta werküeiñmew taiñ kimelael fey tüfachi
 werken dungu.
 
 
---- page 382 ---
 2 Korintio 5:20
 379
 2 Korintio 6:12
@@ -20549,7 +20169,6 @@ nieymün ellkan dungu iñchiñ mew.
 * 6:2 Isaia 49.8.
 
 
---- page 383 ---
 2 Korintio 6:13
 380
 2 Korintio 7:7
@@ -20606,7 +20225,6 @@ dungu mew doyelchi ayüwün.
 * 6:18 2 Samuel 7.8, 14.
 
 
---- page 384 ---
 2 Korintio 7:8
 381
 2 Korintio 8:3
@@ -20659,7 +20277,6 @@ tañi pepi wülkeel, ka doy wülkey kütu. Iney no rume feypilaeyew engün tañi
 femngechi wülael.
 
 
---- page 385 ---
 2 Korintio 8:4
 382
 2 Korintio 8:17
@@ -20712,7 +20329,6 @@ eymün kisu tañi rakiduamel mew, kisu am llowlu iñche tañi ngülam.
 * 8:15 Exodo 16.18.
 
 
---- page 386 ---
 2 Korintio 8:18
 383
 2 Korintio 9:6
@@ -20765,7 +20381,6 @@ femnoael aporiaelchi pu che reke.
 Welu ti fentren nganlu, fentren kosechakey.
 
 
---- page 387 ---
 2 Korintio 9:7
 384
 2 Korintio 10:5
@@ -20819,7 +20434,6 @@ kimchekawünngen, tati katrütukelu ñi kimngeael ta Ngünechen. Kom che ñi
 * 9:9 Salmo 112.9.
 
 
---- page 388 ---
 2 Korintio 10:6
 385
 2 Korintio 10:16
@@ -20875,7 +20489,6 @@ Femngechi iney no rume tañi feypinoam iñchiñ taiñ rangiñ konkiyawken
 chew kangelu dew kimeltuwiyekemum.
 
 
---- page 389 ---
 2 Korintio 10:17
 386
 2 Korintio 11:12
@@ -20929,7 +20542,6 @@ koyladungungen tüfeychi pu kimeltufe feypikelu ñi küdawkülen iñche reke.
 * 10:17 Jeremia 9.24.
 
 
---- page 390 ---
 2 Korintio 11:13
 387
 2 Korintio 11:26
@@ -20983,7 +20595,6 @@ mew, lelfün mew, lafken mew, ka kiñeke che re wün mew feypikelu ñi
 feyentulen Cristo mew küpa kutrankafenew.
 
 
---- page 391 ---
 2 Korintio 11:27
 388
 2 Korintio 12:7
@@ -21036,7 +20647,6 @@ Kutrankaenew kiñe pülliñ reke sipokonkülelu ñi kuerpu mew, weküfü tañi
 pepikaletewchi kutran tañi kutrankayaetew.
 
 
---- page 392 ---
 2 Korintio 12:8
 389
 2 Korintio 12:19
@@ -21091,7 +20701,6 @@ feypipeelchi dungu Ngünechen ta kom kimniey chem dungu tañi wiripeel ta
 iñche ka iñche ñi koneltulen ta Cristo mew. Feypiwpeyiñ ta eymün, pu peñi
 
 
---- page 393 ---
 2 Korintio 12:20
 390
 2 Korintio 13:7
@@ -21145,7 +20754,6 @@ feypiayngün rume taiñ kimnon tamün küme werküwafiel.
 * 13:1 Deuteronomio 19.15.
 
 
---- page 394 ---
 2 Korintio 13:8
 391
 2 Korintio 13:14
@@ -21173,7 +20781,6 @@ may.†
 † 13:14 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 395 ---
 Galata 1:1
 392
 Galata 1:10
@@ -21225,7 +20832,6 @@ iñchiñ müten, fey ta famngechi Cristo ñi küme konangelayafun!
 * 1:1 apostol: kiñe manelnieelchi werken.
 
 
---- page 396 ---
 Galata 1:11
 393
 Galata 2:2
@@ -21279,7 +20885,6 @@ iñche tañi dew kimeltukeelchi dungu tañi kümelay tañi pingenoael, fey kom
 dungu mew trüruwiyiñ.
 
 
---- page 397 ---
 Galata 2:3
 394
 Galata 2:14
@@ -21333,7 +20938,6 @@ müngeltuafiel tati pu judiu ñi wimtun dungu?”
 Kom che llowi ti montuluwün mupiltun mew
 
 
---- page 398 ---
 Galata 2:15
 395
 Galata 3:7
@@ -21387,7 +20991,6 @@ Ngünechen mew rüf dungu mew ta Abraam ñi tuwünche reke feleay.
 * 3:6 Genesis 15.6.
 
 
---- page 399 ---
 Galata 3:8
 396
 Galata 3:19
@@ -21445,7 +21048,6 @@ Moyse elngey ñi rangiñelweleael reke.
 ‡ 3:16 Genesis 12.7.
 
 
---- page 400 ---
 Galata 3:20
 397
 Galata 4:7
@@ -21497,7 +21099,6 @@ femkünuy tamün koneltuael kisu ñi Fotüm ñi duam.
 Pablo fill rakiduamküley tati pu feyentulelu mew
 
 
---- page 401 ---
 Galata 4:8
 398
 Galata 4:24
@@ -21552,7 +21153,6 @@ feypikünufiel tati pu che. Kiñe eldungu tati Sinay wingkul mew tripalu, fey
 tüfachi domo ñi püñeñ püresukonangey engün. Fey tüfachi domo ta Agar ürke.
 
 
---- page 402 ---
 Galata 4:25
 399
 Galata 5:8
@@ -21606,7 +21206,6 @@ welurakiduameltueymünmew tamün feyentuwenoafiel tati rüf dungu?
 † 4:30 Genesis 21.10.
 
 
---- page 403 ---
 Galata 5:9
 400
 Galata 5:23
@@ -21660,7 +21259,6 @@ rume kondenakefilu ta tüfa famngechi dungu.
 † 5:21 Kiñeke kuyfi wirin mew ngelay: “langümchefengey”.
 
 
---- page 404 ---
 Galata 5:24
 401
 Galata 6:14
@@ -21714,7 +21312,6 @@ mülechi dungu, ka iñche ka falintuniewetulaenew kom tati ngüneniefilu
 tüfachi mapu.
 
 
---- page 405 ---
 Galata 6:15
 402
 Galata 6:18
@@ -21730,7 +21327,6 @@ konangen.
 füreneaeymünmew itrokom eymün. Felepe may.
 
 
---- page 406 ---
 Efesio 1:1
 403
 Efesio 1:11
@@ -21780,7 +21376,6 @@ femngechi taiñ püramyeafiel iñchiñ taiñ mongen mew.
 * 1:1 Kiñeke kuyfi wirin mew ngelay: “ta Efeso waria mew”.
 
 
---- page 407 ---
 Efesio 1:12
 404
 Efesio 2:3
@@ -21834,7 +21429,6 @@ Ngünechen.
 kisuke iñchiñ taiñ illutukeelchi dungu, fey ka mallmawkülekefuiñ taiñ
 
 
---- page 408 ---
 Efesio 2:4
 405
 Efesio 2:19
@@ -21890,7 +21484,6 @@ fülpuael ta Chaw mew tati kiñen Lif Küme Püllü mew müten.
 wichu trokiñ mapu ngelaymün, welu may ta fewla kiñewün koneltuleymün
 
 
---- page 409 ---
 Efesio 2:20
 406
 Efesio 3:12
@@ -21944,7 +21537,6 @@ maneluwün taiñ nieel taiñ feyentun Cristo mew.
 may kiñeke feyentulechi che nütramyekelu Jesus ñi küme dungu.
 
 
---- page 410 ---
 Efesio 3:13
 407
 Efesio 4:8
@@ -21998,7 +21590,6 @@ fey püresuyetufi taiñ püresuniekefetew,
 * 3:14 Kiñeke kuyfi wirin mew ngelay: “taiñ ñidol Jesucristo ñi”.
 
 
---- page 411 ---
 Efesio 4:9
 408
 Efesio 4:24
@@ -22054,7 +21645,6 @@ tati adkünuel chumngechi ñi ayüel ta Ngünechen, ka kimfalkelu ta kiñe nor
 femngechi kiñeke küdawkelu Pablo reke; tüfa engün dullieyew ta Cristo.
 
 
---- page 412 ---
 Efesio 4:25
 409
 Efesio 5:8
@@ -22108,7 +21698,6 @@ miyawkefuymün, welu fewla tamün kiñewkülen ta Cristo mew,
 § 4:26 Salmo 4.4 LXX.
 
 
---- page 413 ---
 Efesio 5:9
 410
 Efesio 5:27
@@ -22160,7 +21749,6 @@ lif mongen mew felelu.
 * 5:9 Kiñeke kuyfi wirin mew feypiley: “tati Lif Küme Püllü”.
 
 
---- page 414 ---
 Efesio 5:28
 411
 Efesio 6:12
@@ -22213,7 +21801,6 @@ dumiñmalechi mapu.
 * 6:3 Exodo 20.12; Deuteronomio 5.16.
 
 
---- page 415 ---
 Efesio 6:13
 412
 Efesio 6:24
@@ -22255,7 +21842,6 @@ Felepe may.†
 † 6:24 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 416 ---
 Filipense 1:1
 413
 Filipense 1:10
@@ -22307,7 +21893,6 @@ femngechi nieaymün ta kiñe lif mongen, fey tamün nienoael chem wesa
 dungu no rume tamün famentuaetew feychi wiñometule ta Cristo.
 
 
---- page 417 ---
 Filipense 1:11
 414
 Filipense 1:27
@@ -22362,7 +21947,6 @@ tamün rume küme kiñewkülen ta mupiltun mew ti küpalu ta werken
 montuluwün dungu mew,
 
 
---- page 418 ---
 Filipense 1:28
 415
 Filipense 2:14
@@ -22415,7 +21999,6 @@ ta kisu ñi ayükeel.
 tamün üyawtumekewnoael ta eymün,
 
 
---- page 419 ---
 Filipense 2:15
 416
 Filipense 2:30
@@ -22469,7 +22052,6 @@ mongen tañi kelluetew mew ta iñche.
 Rüf dungu mew falilu
 
 
---- page 420 ---
 Filipense 3:1
 417
 Filipense 3:14
@@ -22524,7 +22106,6 @@ mew.
 wimtun.
 
 
---- page 421 ---
 Filipense 3:15
 418
 Filipense 4:8
@@ -22577,7 +22158,6 @@ Rakiduamkülemün kümeke dungu mew
 rüfngechi dungu mew, kom tati felelu ñi yamngeael, kom kümeke dungu, ka
 
 
---- page 422 ---
 Filipense 4:9
 419
 Filipense 4:23
@@ -22629,7 +22209,6 @@ Felepe may.*
 * 4:23 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 423 ---
 Kolosense 1:1
 420
 Kolosense 1:9
@@ -22682,7 +22261,6 @@ femngechi kelluaeymünmew tamün fente küme kimafiel ta Ngünechen ñi
 feypiley: “eymün mew”.
 
 
---- page 424 ---
 Kolosense 1:10
 421
 Kolosense 1:23
@@ -22737,7 +22315,6 @@ maneluwün mew, tati werken montuluwün dungu tamün allküel mew. Fey
 “Cristo ñi wütrulelchi mollfüñ mew”.
 
 
---- page 425 ---
 Kolosense 1:24
 422
 Kolosense 2:9
@@ -22791,7 +22368,6 @@ pepiluwün ngüneniefilu ta tüfachi mapu.
 9 Cristo mew kimngey kom ñi chumngen ta Ngünechen,
 
 
---- page 426 ---
 Kolosense 2:10
 423
 Kolosense 2:22
@@ -22845,7 +22421,6 @@ püresu reke yeniefi: kiñe wimtun ürkefel ñi wifkünuael tati püresuelchi pu
 che ñi adkiñ mew femngechi tañi ayentukayael.
 
 
---- page 427 ---
 Kolosense 2:23
 424
 Kolosense 3:12
@@ -22901,7 +22476,6 @@ feypiley: “iñchiñ mongeletuiñ”.
 müngeltukenoetew”.
 
 
---- page 428 ---
 Kolosense 3:13
 425
 Kolosense 4:3
@@ -22954,7 +22528,6 @@ Cristo ñi werken dungu. Tüfachi dungu ta kuyfi mew tañi allkükenofel
 engün, fey tüfachi dungu ñi duam iñche ta püresulen.
 
 
---- page 429 ---
 Kolosense 4:4
 426
 Kolosense 4:18
@@ -23010,7 +22583,6 @@ Jesus pingelu Cristo no tati.
 ‡ 4:18 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 430 ---
 1 Tesalonisense 1:1
 427
 1 Tesalonisense 1:8
@@ -23060,7 +22632,6 @@ Masedonia ka Akaya mew müten no, welu may ta itrokom püle ka kimngey
 * 1:1 Kiñeke kuyfi wirin mew ngelay: “ka taiñ ñidol Jesucristo”.
 
 
---- page 431 ---
 1 Tesalonisense 1:9
 428
 1 Tesalonisense 2:11-12
@@ -23115,7 +22686,6 @@ kiñeke ta eymün, chumngechi femkey ta kiñe chaw kisu ñi pu fotüm mew.
 Fey iñchiñ ngülamuwiyiñ tamün küme femyawael nor dungu mew
 
 
---- page 432 ---
 1 Tesalonisense 2:13
 429
 1 Tesalonisense 3:5
@@ -23168,7 +22738,6 @@ ramtulmeaetew petu tamün newentulepen may tati mupiltun mew, fey
 * 3:2 Kiñeke kuyfi wirin mew ngelay: “taiñ kompañ”.
 
 
---- page 433 ---
 1 Tesalonisense 3:6
 430
 1 Tesalonisense 4:7
@@ -23221,7 +22790,6 @@ dungu femkelu, chumngechi ta dew kimeltuwiyiñ.
 taiñ nieael lif mongen ta kisu mew.
 
 
---- page 434 ---
 1 Tesalonisense 4:8
 431
 1 Tesalonisense 5:6
@@ -23275,7 +22843,6 @@ feley taiñ trepeluwküleael küme lif rakiduam mew taiñ üngümafiel feychi
 antü küpatuale ta Ñidol.
 
 
---- page 435 ---
 1 Tesalonisense 5:7
 432
 1 Tesalonisense 5:27
@@ -23326,7 +22893,6 @@ Lemoria pifalelchi dungu
 tüfachi karta ta itrokom pu feyentulelu mew.
 
 
---- page 436 ---
 1 Tesalonisense 5:28
 433
 1 Tesalonisense 5:28
@@ -23335,7 +22901,6 @@ ta eymün mew. Felepe may.*
 * 5:28 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 437 ---
 2 Tesalonisense 1:1
 434
 2 Tesalonisense 1:11
@@ -23385,7 +22950,6 @@ fey tüfachi trokiñche mew koneltuleymün.
 trokitunieetew kiñentrür kisu tañi poyenieelchi trokiñche mew, ka
 
 
---- page 438 ---
 2 Tesalonisense 1:12
 435
 2 Tesalonisense 2:13
@@ -23438,7 +23002,6 @@ tamün montuluwael ti Lif Küme Püllü ñi kellun mew, ka tamün feyentuel
 mew tati rüfngechi dungu.
 
 
---- page 439 ---
 2 Tesalonisense 2:14
 436
 2 Tesalonisense 3:13
@@ -23492,7 +23055,6 @@ engün.
 13 Pu peñi ka lamngen, afeluwkilmün kümeke dungu tamün femael.
 
 
---- page 440 ---
 2 Tesalonisense 3:14
 437
 2 Tesalonisense 3:18
@@ -23513,7 +23075,6 @@ eymün. Felepe may.*
 * 3:18 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 441 ---
 1 Timotew 1:1
 438
 1 Timotew 1:10
@@ -23565,7 +23126,6 @@ itrokom tati pu langümchefe,
 pu wentru eluwkelu wentru mew domo reke, tati pu miyawülkefilu ñi
 
 
---- page 442 ---
 1 Timotew 1:11
 439
 1 Timotew 2:6
@@ -23619,7 +23179,6 @@ Ngünechen mew ka pu wentru engün mew: Jesucristo ta tüfey,
 che, fey famngechi felerpuy chumngechi tañi feypikünungeel.
 
 
---- page 443 ---
 1 Timotew 2:7
 440
 1 Timotew 3:7
@@ -23672,7 +23231,6 @@ Chumngechi mongen ñi nieael ti pu diakono
 * 3:6 Ka famngechi feypingeafuy: “famkonafuy Weküfü ñi pepikaelchi kutrankangen mew”.
 
 
---- page 444 ---
 1 Timotew 3:8
 441
 1 Timotew 4:6
@@ -23725,7 +23283,6 @@ dew inanieel, femngechi ta Jesucristo ñi kiñe küme konangeaymi.
 † 3:16 Kiñeke kuyfi wirin mew feypiley: “Cristo”.
 
 
---- page 445 ---
 1 Timotew 4:7
 442
 1 Timotew 5:7
@@ -23777,7 +23334,6 @@ fey ta laley reke ñi mongen mew.
 engün küme lif mongen.
 
 
---- page 446 ---
 1 Timotew 5:8
 443
 1 Timotew 5:24
@@ -23833,7 +23389,6 @@ kimfalkey.
 † 5:18 Deuteronomio 25.4.
 
 
---- page 447 ---
 1 Timotew 5:25
 444
 1 Timotew 6:12
@@ -23884,7 +23439,6 @@ mew.
 * 6:5 Kiñeke kuyfi wirin mew ngelay: “Püntütripange tüfa famngechi che mew”.
 
 
---- page 448 ---
 1 Timotew 6:13
 445
 1 Timotew 6:21
@@ -23925,7 +23479,6 @@ engün tañi mupiltun mew.
 may”.
 
 
---- page 449 ---
 2 Timotew 1:1
 446
 2 Timotew 1:10
@@ -23974,7 +23527,6 @@ Jesucristo, fey wewfi tati lan dungu ñi pepiluwün, tati werken montuluwün
 dungu mew, fey kimeli ñi mülen tati rumel müleachi mongen.
 
 
---- page 450 ---
 2 Timotew 1:11
 447
 2 Timotew 2:9
@@ -24026,7 +23578,6 @@ Ngünechen ñi werken dungu trarilelay ta kadena mew.
 * 1:11 Kiñeke kuyfi wirin mew ngelay: “tati pu judiu tuwünngenolu mew...”
 
 
---- page 451 ---
 2 Timotew 2:10
 448
 2 Timotew 2:24
@@ -24080,7 +23631,6 @@ may müley ñi piwkeyeafiel kom che. Feley ñi küme adümnieael tañi
 kimeltucheael ka tañi ngenoafeluwünngeael.
 
 
---- page 452 ---
 2 Timotew 2:25
 449
 2 Timotew 3:11
@@ -24133,7 +23683,6 @@ montulenew kom tüfeychi wesake dungu mew.
 ñi üy ti epu kalku tañi üyawtudungufiel ta Moyse.
 
 
---- page 453 ---
 2 Timotew 3:12
 450
 2 Timotew 4:9
@@ -24186,7 +23735,6 @@ Timotew ñi ngülamngen
 9 Pepikawnge ka pürümkechi küpange tami pepayafiel.
 
 
---- page 454 ---
 2 Timotew 4:10
 451
 2 Timotew 4:22
@@ -24226,7 +23774,6 @@ füreneaeymünmew ta eymün. Felepe may.*
 * 4:22 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 455 ---
 Tito 1:1
 452
 Tito 1:9
@@ -24276,7 +23823,6 @@ kimeltun mew ka femngechi tañi küme duamkechi nütramkayafiel tati
 welulkawkülechi pu che.
 
 
---- page 456 ---
 Tito 1:10
 453
 Tito 2:8
@@ -24330,7 +23876,6 @@ rakiduam mew ka ayekankechi no rume.
 entuüñfilnoaetew. Ka femngechi ta yeweay iney rume
 
 
---- page 457 ---
 Tito 2:9
 454
 Tito 3:8
@@ -24384,7 +23929,6 @@ llowael tati rumel mongen taiñ maneluwkülemum.
 femngechi tati feyentulechi pu che Ngünechen mew ñi küdawküleael tañi
 
 
---- page 458 ---
 Tito 3:9
 455
 Tito 3:15
@@ -24416,7 +23960,6 @@ Fey Ngünechen füreneaeymünmew ta eymün. Felepe may.*
 * 3:15 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 459 ---
 Filemon 1
 456
 Filemon 11
@@ -24466,7 +24009,6 @@ puwtukelafeymew, welu fewla küme puwtunietuaeymew ta eymi
 chumngechi femkey ta iñche mew.
 
 
---- page 460 ---
 Filemon 12
 457
 Filemon 25
@@ -24504,7 +24046,6 @@ kellukeetew tañi küdaw mew.
 25 Fey Ñidol Jesucristo ta füreneaeymew ta eymi.
 
 
---- page 461 ---
 Ebrew 1:1
 458
 Ebrew 1:9
@@ -24558,7 +24099,6 @@ Ngünechen ñi pu werken. Kom tüfa engün feypingekey wirifilu tati Kuyfi Chill
 † 1:7 Salmo 104.4 LXX.
 
 
---- page 462 ---
 Ebrew 1:10
 459
 Ebrew 2:8
@@ -24614,7 +24154,6 @@ itrokom dungu ñi ngünenieel ta kisu,
 † 2:8 Salmo 8.4-6 LXX.
 
 
---- page 463 ---
 Ebrew 2:9
 460
 Ebrew 3:3
@@ -24671,7 +24210,6 @@ mew.
 * 3:1 tati werküel: apostol ñi pin ürke.
 
 
---- page 464 ---
 Ebrew 3:4
 461
 Ebrew 4:1
@@ -24726,7 +24264,6 @@ eymün felekilpe ñi llownoafiel.
 ‡ 3:15 Salmo 95.7-8 LXX.
 
 
---- page 465 ---
 Ebrew 4:2
 462
 Ebrew 4:16
@@ -24783,7 +24320,6 @@ kellungeael.
 § 4:7 Salmo 95.7-8 LXX.
 
 
---- page 466 ---
 Ebrew 5:1
 463
 Ebrew 5:14
@@ -24836,7 +24372,6 @@ kümen kam ñi kümenon.
 † 5:6 Salmo 110.4.
 
 
---- page 467 ---
 Ebrew 6:1
 464
 Ebrew 6:16
@@ -24891,7 +24426,6 @@ kuyalltun mew, doy ngewekelay ta chem pimekeael rume.
 * 6:14 Genesis 22.16-17.
 
 
---- page 468 ---
 Ebrew 6:17
 465
 Ebrew 7:8
@@ -24947,7 +24481,6 @@ kiñe trokiñ chemkün mari mew: tati pu israelche wülkefuy kiñe trokiñ mari 
 engün femngechi tañi mongeluwküleael ti pu saserdote.
 
 
---- page 469 ---
 Ebrew 7:9
 466
 Ebrew 7:24
@@ -25002,7 +24535,6 @@ saserdotengey”.
 * 7:21 Salmo 110.4.
 
 
---- page 470 ---
 Ebrew 7:25
 467
 Ebrew 8:9
@@ -25056,7 +24588,6 @@ engün ta Egipto mapu mew:
 * 8:5 Exodo 25.40.
 
 
---- page 471 ---
 Ebrew 8:10
 468
 Ebrew 9:9
@@ -25110,7 +24641,6 @@ mew chalintukukeelchi ofrenda ka ti langümelchi kulliñ ta tüye mew ngelay
 † 8:12 Jeremia 31.31-34.
 
 
---- page 472 ---
 Ebrew 9:10
 469
 Ebrew 9:22
@@ -25164,7 +24694,6 @@ Cristo ñi lan mew Ngünechen küme trokitunietuaeiñmew
 * 9:20 Exodo 24.8.
 
 
---- page 473 ---
 Ebrew 9:23
 470
 Ebrew 10:8
@@ -25217,7 +24746,6 @@ che ñi femngechi femael.
 * 10:7 Salmo 40.6-8.
 
 
---- page 474 ---
 Ebrew 10:9
 471
 Ebrew 10:25
@@ -25271,7 +24799,6 @@ wiñometuael.
 † 10:17 Jeremia 31.33-34.
 
 
---- page 475 ---
 Ebrew 10:26
 472
 Ebrew 11:2
@@ -25325,7 +24852,6 @@ am ta mupiltun.
 § 10:38 Abakuk 2.3-4 LXX.
 
 
---- page 476 ---
 Ebrew 11:3
 473
 Ebrew 11:16
@@ -25379,7 +24905,6 @@ ta eymün tamün Ngünechen”, Ngünechen am nielu kiñe dewkülechi waria.
 * 11:5 Genesis 5.24 LXX.
 
 
---- page 477 ---
 Ebrew 11:17
 474
 Ebrew 11:32
@@ -25435,7 +24960,6 @@ mew, David mew, Samuel mew, ka ti pu pelon wentru mew.
 ‡ 11:21 Genesis 47.31.
 
 
---- page 478 ---
 Ebrew 11:33
 475
 Ebrew 12:5
@@ -25488,7 +25012,6 @@ eluetewchi ngülam kisu ñi pu yall reke. Feypiley ta Wirin Chillka mew:
 § 11:37 Kiñeke kuyfi wirin mew ngelay: “pürofangey”.
 
 
---- page 479 ---
 Ebrew 12:6
 476
 Ebrew 12:19
@@ -25543,7 +25066,6 @@ dungungewenoael,
 * 12:6 Proverbio 3.11-12.
 
 
---- page 480 ---
 Ebrew 12:20
 477
 Ebrew 13:3
@@ -25597,7 +25119,6 @@ eymün am ka felelu tamün rupayael ka femngechi kutrankawün mew.
 § 12:26 Ageo 2.6 LXX.
 
 
---- page 481 ---
 Ebrew 13:4
 478
 Ebrew 13:18
@@ -25652,7 +25173,6 @@ ka ayüleiñ taiñ nor chengeael kom dungu mew.
 † 13:6 Salmo 118.6.
 
 
---- page 482 ---
 Ebrew 13:19
 479
 Ebrew 13:25
@@ -25677,7 +25197,6 @@ Felepe may.‡
 ‡ 13:25 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 483 ---
 Santiaw 1:1
 480
 Santiaw 1:13
@@ -25727,7 +25246,6 @@ Ngünechen am kintukaduamkenofilu iney no rume ka
 kintukaduamngekelay ta kisu tañi femael wesake dungu.
 
 
---- page 484 ---
 Santiaw 1:14
 481
 Santiaw 2:2-3
@@ -25781,7 +25299,6 @@ iwülkuwütukunielu ka re kümeke takuwün tukuniele, fey küme poyefilmün ka
 feypifilmün: “Anünge tüfachi küme wangku mew” ka feychi lelen mew akule
 
 
---- page 485 ---
 Santiaw 2:4
 482
 Santiaw 2:20
@@ -25836,7 +25353,6 @@ fürenechen engu, tañi mupiltun ta falilay.
 † 2:11 Exodo 20.13-14; Deuteronomio 5.17-18.
 
 
---- page 486 ---
 Santiaw 2:21
 483
 Santiaw 3:11
@@ -25891,7 +25407,6 @@ dungu. Iñche ñi pu peñi ka lamngen, fey tüfa ngelay ñi feleael.
 ‡ 2:23 Genesis 15.6.
 
 
---- page 487 ---
 Santiaw 3:12
 484
 Santiaw 4:8
@@ -25945,7 +25460,6 @@ rakiduam nielu!
 † 4:6 Proverbio 3.34 LXX.
 
 
---- page 488 ---
 Santiaw 4:9
 485
 Santiaw 5:7
@@ -25996,7 +25510,6 @@ ketran ta walüngngen, müley ñi üngümael ñi rupayael ngenoafeluwün mew
 tati mawün antüngen.
 
 
---- page 489 ---
 Santiaw 5:8
 486
 Santiaw 5:20
@@ -26042,7 +25555,6 @@ mongen mew, montultuafi ta lan dungu mew. Fey ta famngechi rume
 fentren yafkan ñi niefel ta wiñoduamangetuay.
 
 
---- page 490 ---
 1 Pedro 1:1
 487
 1 Pedro 1:8-9
@@ -26093,7 +25605,6 @@ rume fütra ayüwün, eymün am llowfilu tati montuluwün dungu tamün
 mupiltun mew, fey tüfachi ayüwün pepi nütramyengelayafuy ta dungun mew.
 
 
---- page 491 ---
 1 Pedro 1:10
 488
 1 Pedro 1:22
@@ -26149,7 +25660,6 @@ piwke mew tati feyentulechi pu che. Ka femngechi feley tamün
 wirin mew ngelay: “tati Lif Küme Püllü ñi pepiluwün mew”.
 
 
---- page 492 ---
 1 Pedro 1:23
 489
 1 Pedro 2:9
@@ -26207,7 +25717,6 @@ küme felen Ngünechen ñi duam. Fey tüfa Ngünechen femkünueymünmew
 ‡ 2:8 Isaia 8.14.
 
 
---- page 493 ---
 1 Pedro 2:10
 490
 1 Pedro 2:23
@@ -26262,7 +25771,6 @@ pimekeetew. Feychi kutrankamekengelu, llükalkatuchelay rume, welu may
 § 2:22 Isaia 53.9.
 
 
---- page 494 ---
 1 Pedro 2:24
 491
 1 Pedro 3:10
@@ -26315,7 +25823,6 @@ feleael rupalechi antü mew,
 kuñiwtukupe tañi wesa dungunoael ka tañi koyla dungunoael.
 
 
---- page 495 ---
 1 Pedro 3:11
 492
 1 Pedro 4:1
@@ -26367,7 +25874,6 @@ tañi kuerpu mew fey ta famentuwkey ta yafkan mew,
 † 3:16 Kiñeke kuyfi wirin mew ngelay: “wesa mongen nielu reke ta eymün”.
 
 
---- page 496 ---
 1 Pedro 4:2
 493
 1 Pedro 4:16
@@ -26420,7 +25926,6 @@ kutrankawün dungu mew.
 welu eymün tati pu feyentulelu püramyekefimün”.
 
 
---- page 497 ---
 1 Pedro 4:17
 494
 1 Pedro 5:12
@@ -26474,7 +25979,6 @@ Afpualu mew lemoria pin
 † 4:18 Proverbio 11.31 LXX.
 
 
---- page 498 ---
 1 Pedro 5:13
 495
 1 Pedro 5:14
@@ -26491,7 +25995,6 @@ pewmangen nieaymün ta küme tüngün. Felepe may.*
 * 5:14 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 499 ---
 2 Pedro 1:1
 496
 2 Pedro 1:11
@@ -26540,7 +26043,6 @@ tamün mupiltulen.
 Ñidol Jesucristo ñi ayfiñ mew.
 
 
---- page 500 ---
 2 Pedro 1:12
 497
 2 Pedro 2:5
@@ -26593,7 +26095,6 @@ ramtukadungungeael.
 engün, fey adkünuy ñi müleael kiñe fütra mangin ko tañi apümafiel ta tüyechi
 
 
---- page 501 ---
 2 Pedro 2:6
 498
 2 Pedro 2:20
@@ -26648,7 +26149,6 @@ che am püresunieetew reke tüfeychi dungu tañi ngünenieetew.
 dew montuy engün tati wesake dungu mew mülelu ta tüfachi mapu mew.
 
 
---- page 502 ---
 2 Pedro 2:21
 499
 2 Pedro 3:12
@@ -26700,7 +26200,6 @@ chemkün mülelu kom lliway kütral mew.
 * 2:22 Proverbio 26.11.
 
 
---- page 503 ---
 2 Pedro 3:13
 500
 2 Pedro 3:18
@@ -26728,7 +26227,6 @@ inanieelchi dungu mew.
 ka doy piwkeyeafimün. ¡Fewla ka rumel püramyengepe ta Ñidol! Felepe may.
 
 
---- page 504 ---
 1 Juan 1:1
 501
 1 Juan 2:2
@@ -26778,7 +26276,6 @@ femngechi kom chüf mapu müleyechi pu che mew.
 * 1:4 Kiñeke kuyfi wirin mew feypiley: “tamün ayüwün”.
 
 
---- page 505 ---
 1 Juan 2:3
 502
 1 Juan 2:18
@@ -26832,7 +26329,6 @@ Tati rüf dungu ka tati koyla dungu
 allkükeymün ñi küpalen Cristo ñi kiñe kayñe. Feley tati. Tüfa ta pewfaluwyey
 
 
---- page 506 ---
 1 Juan 2:19
 503
 1 Juan 3:5
@@ -26886,7 +26382,6 @@ liftuaetew ta yafkan mew, fey kisu ta chem yafkan no rume ta nielay.
 * 2:20 Kiñeke kuyfi wirin mew feypiley: “eymün nieymün kom kimün”.
 
 
---- page 507 ---
 1 Juan 3:6
 504
 1 Juan 3:23
@@ -26939,7 +26434,6 @@ Fotüm Jesucristo mew, ka taiñ welukonkechi piwkeyewael chumngechi
 taiñ werküetew ta kisu.
 
 
---- page 508 ---
 1 Juan 3:24
 505
 1 Juan 4:14
@@ -26993,7 +26487,6 @@ mülen iñchiñ mew, kisu ñi Küme Püllü am eluetew ta iñchiñ.
 montulafiel tüfachi mapu mew mülechi pu che.
 
 
---- page 509 ---
 1 Juan 4:15
 506
 1 Juan 5:9
@@ -27047,7 +26540,6 @@ mew...” Welu ngelay chem kuyfi wirin rume nielu tüfachi dungu. Tati pu wirin 
 tüfachi dungu.
 
 
---- page 510 ---
 1 Juan 5:10
 507
 1 Juan 5:21
@@ -27090,7 +26582,6 @@ mew”.
 ‡ 5:21 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 511 ---
 2 Juan 1
 508
 2 Juan 12
@@ -27140,7 +26631,6 @@ ta feypilayan. Eluwkülen tamün pewmeafiel femngechi taiñ nütramkawael,
 ka femngechi taiñ fente küme ayüwael.
 
 
---- page 512 ---
 2 Juan 13
 509
 2 Juan 13
@@ -27150,7 +26640,6 @@ may.*
 * 1:13 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
---- page 513 ---
 3 Juan 1
 510
 3 Juan 12
@@ -27201,7 +26690,6 @@ feypiken tati rüfngechi dungu.
 Afpuaelchi wewpin
 
 
---- page 514 ---
 3 Juan 13
 511
 3 Juan 15
@@ -27212,7 +26700,6 @@ wirintukuafiel ta karta mew.
 pifaleymünmew. Füreneen lemoria pifinge kake kiñeke taiñ pu weni.
 
 
---- page 515 ---
 Juda 1
 512
 Juda 8
@@ -27261,7 +26748,6 @@ Yafkantukukey engün tañi kuerpu, yamkelafi engün Ñidol tañi awtoridad ka
 wesa dunguyekefi engün tati nielu pepiluwün.
 
 
---- page 516 ---
 Juda 9
 513
 Juda 23
@@ -27316,7 +26802,6 @@ che, welu kuñiwtuwkülemün ta kisu engün mew ka nüngaytuñmayafimün ñi
 takuwün kütu tañi wesalkalen mew tati wesa mongen ñi nien mew engün.
 
 
---- page 517 ---
 Juda 24-25
 514
 Juda 24-25
@@ -27331,7 +26816,6 @@ awtoridad. Püramyengepe taiñ Ñidol Jesucristo, fey tüfa ka rumel amulechi
 tripantu mew. Felepe may.
 
 
---- page 518 ---
 Apokalipsi 1:1
 515
 Apokalipsi 1:7
@@ -27381,7 +26865,6 @@ rume kutrantupiwkeay ka ngümayay engün kisu mew.
 May, felepe may.
 
 
---- page 519 ---
 Apokalipsi 1:8
 516
 Apokalipsi 2:1
@@ -27434,7 +26917,6 @@ ti regle oro küdetuwe mew, feypi:
 kuyfi wirin mew ngelay: “Iñche ta alfa ka omega, iñche mew am llitulu ka afpulu kom dungu.”
 
 
---- page 520 ---
 Apokalipsi 2:2
 517
 Apokalipsi 2:13
@@ -27487,7 +26969,6 @@ ta iñche mew ka elkünulaymi tami feyentulen iñche mew, üyechi antü mew
 * 2:6 nikolayta: kiñe trokiñche kimfalkülelu ñi wesake wimtun ka wesake mongen mew.
 
 
---- page 521 ---
 Apokalipsi 2:14
 518
 Apokalipsi 2:25
@@ -27541,7 +27022,6 @@ küpatuali wüla.
 engün ti uwe mapu mew.
 
 
---- page 522 ---
 Apokalipsi 2:26
 519
 Apokalipsi 3:10
@@ -27595,7 +27075,6 @@ iñche ingkanieaeyu, tunte mülellefule rume fütra kutrankawün ta kom mapu
 mew.
 
 
---- page 523 ---
 Apokalipsi 3:11
 520
 Apokalipsi 4:2
@@ -27649,7 +27128,6 @@ kiñe fütra ülmen wangku mülelu ta wenu mapu, fey kiñe che anüley tati
 ülmen wangku mew.
 
 
---- page 524 ---
 Apokalipsi 4:3
 521
 Apokalipsi 5:5
@@ -27702,7 +27180,6 @@ nülayafel ti chümpotuelchi lifru, ñi adkintuafiel no rume.
 trapial reke felelu, tati mülelu Juda tañi reñma trokiñche mew, tati longko
 
 
---- page 525 ---
 Apokalipsi 5:6
 522
 Apokalipsi 6:2
@@ -27756,7 +27233,6 @@ yeniey ta kiñe arku tañi kuwü mew. Elungey kiñe trarilongko, fey tripay ñi
 wewael.
 
 
---- page 526 ---
 Apokalipsi 6:3
 523
 Apokalipsi 6:17
@@ -27810,7 +27286,6 @@ tati lifrelechi pu che.
 piwkeway?”
 
 
---- page 527 ---
 Apokalipsi 7:1
 524
 Apokalipsi 7:12
@@ -27865,7 +27340,6 @@ ka ti yamniengen, tati newen ka ti awtoridad
 femngechi tañi küme kimngeam ti ngenngelu.
 
 
---- page 528 ---
 Apokalipsi 7:13
 525
 Apokalipsi 8:8
@@ -27919,7 +27393,6 @@ lafken mew kiñe üykülechi fütra wingkul weywiñ kütral kechiley. Fey epe
 rangiñ ta lafken mollfüñuwi.
 
 
---- page 529 ---
 Apokalipsi 8:9
 526
 Apokalipsi 9:11
@@ -27973,7 +27446,6 @@ mülelu tati fütrakonchi lolo mew, ebrewdungun mew ta Abadon pingey ka
 griegudungun mew Apolion pingey.
 
 
---- page 530 ---
 Apokalipsi 9:12
 527
 Apokalipsi 10:4
@@ -28026,7 +27498,6 @@ mapu, tañi feypietew: “Ñüküfkechi ellkanieafimi tati dungun ñi piel tati 
 regle tralkan, fey wirintukukefilnge ta chillka mew.”
 
 
---- page 531 ---
 Apokalipsi 10:5
 528
 Apokalipsi 11:8
@@ -28080,7 +27551,6 @@ mew chew langümngey kisu engu tañi Ñidol, fey tüfachi waria tañi
 adkünungen Sodoma kam Egipto pingekey.
 
 
---- page 532 ---
 Apokalipsi 11:9
 529
 Apokalipsi 11:19
@@ -28132,7 +27602,6 @@ Ti domo ka tati fütra filu
 * 11:17 Kiñeke kuyfi wirin mew ngelay: “ka tati küpayalu”.
 
 
---- page 533 ---
 Apokalipsi 12:1
 530
 Apokalipsi 12:16
@@ -28187,7 +27656,6 @@ fütra filu mew, chew tañi eluniengeael ta iyael kiñe küla tripantu ka rangi�
 wütrukoni ti ko tati fütra filu tañi wütrunentuel tañi wün mew.
 
 
---- page 534 ---
 Apokalipsi 12:17
 531
 Apokalipsi 13:13
@@ -28241,7 +27709,6 @@ famngechi feypilelu, tüfachi dungu müley 13.1 mew.
 tati langümchelu kuchillu mew, kuchillu mew ta langümngeay.
 
 
---- page 535 ---
 Apokalipsi 13:14
 532
 Apokalipsi 14:7
@@ -28293,7 +27760,6 @@ mülechi wüfko.”
 * 14:5 Kiñeke kuyfi wirin mew ngelay: “Ngünechen ñi longko ülmen wangku mew”.
 
 
---- page 536 ---
 Apokalipsi 14:8
 533
 Apokalipsi 14:20
@@ -28348,7 +27814,6 @@ kütrüngngemum tripay ta mollfüñ, fey ta ditupuy kawellu tañi
 witrantukuwe mew kiñe küla pataka kilometro wallpay ñi ingafkülen.
 
 
---- page 537 ---
 Apokalipsi 15:1
 534
 Apokalipsi 16:3
@@ -28400,7 +27865,6 @@ fey layey ta lafken mew itrokom nieyelu ta mongen.
 “Ngünechen ñi trokiñche mew”.
 
 
---- page 538 ---
 Apokalipsi 16:4
 535
 Apokalipsi 16:17
@@ -28455,7 +27919,6 @@ wangku mew allkünngey kiñe newentu dungun, fey Ngünechen feypi: “¡Dew
 itrokom dewi!”
 
 
---- page 539 ---
 Apokalipsi 16:18
 536
 Apokalipsi 17:9
@@ -28508,7 +27971,6 @@ regle longko ta adentuley regle wingkul tañi anüleel mew ta tüfeychi domo.
 Ka femngechi adentuley regle longko ülmen.
 
 
---- page 540 ---
 Apokalipsi 17:10
 537
 Apokalipsi 18:4
@@ -28562,7 +28024,6 @@ tañi fentre adelkawelchi fill kümeke chemkün mew.”
 “Tripamün ta tüfachi waria mew, eymün ta iñche ñi trokiñchengelu,
 
 
---- page 541 ---
 Apokalipsi 18:5
 538
 Apokalipsi 18:17
@@ -28618,7 +28079,6 @@ tati lafken mew, tati pu marineru ka itrokom tati pu wewkelu ta pülata
 lafken mew tañi mongeluwküleam, alü kamapu mülewey engün.
 
 
---- page 542 ---
 Apokalipsi 18:18
 539
 Apokalipsi 19:3
@@ -28671,7 +28131,6 @@ Feychi waria küri domo reke mülelu tañi pitrun chumkawnorume
 fentekünulayay ñi püran ta wenu mapu.”
 
 
---- page 543 ---
 Apokalipsi 19:4
 540
 Apokalipsi 19:16
@@ -28725,7 +28184,6 @@ LONGKO ÜLMENKÜLELU KOM LONGKO ÜLMEN MEW
 KA ÑIDOLKÜLELU KOM ÑIDOL MEW.
 
 
---- page 544 ---
 Apokalipsi 19:17
 541
 Apokalipsi 20:6
@@ -28778,7 +28236,6 @@ kiñe warangka tripantu.
 Ñi wewngen ta weküfü
 
 
---- page 545 ---
 Apokalipsi 20:7
 542
 Apokalipsi 21:4
@@ -28831,7 +28288,6 @@ no rume, eyütun no rume, kutrantun no rume. Itrokom tati mülekefulu am
 ta kuyfi dew ta mülewetunolu.”
 
 
---- page 546 ---
 Apokalipsi 21:5
 543
 Apokalipsi 21:20
@@ -28886,7 +28342,6 @@ ka tati meli puwlu, esmeralda mew;
 tati kayu puwlu, kornalina mew;
 
 
---- page 547 ---
 Apokalipsi 21:21
 544
 Apokalipsi 22:6
@@ -28941,7 +28396,6 @@ poyekeetew tati pürümka reke müleachi dungu.”
 “ka ñi fütrake küme felen”.
 
 
---- page 548 ---
 Apokalipsi 22:7
 545
 Apokalipsi 22:21
@@ -28992,4 +28446,3 @@ Felepe may. ¡Küpange, Ñidol Jesus!
 * 22:21 Kiñeke kuyfi wirin mew ngelay: “Felepe may”.
 
 
-```
