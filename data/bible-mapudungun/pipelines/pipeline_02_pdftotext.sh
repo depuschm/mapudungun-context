@@ -54,12 +54,11 @@ if [[ -n "${ACTUAL_SHA256}" && "${ACTUAL_SHA256}" != "${EXPECTED_SHA256}" ]]; th
   echo "         arnNT.pdf committed in this repository instead." >&2
 fi
 
-# 3. Extract text, preserving layout. -enc UTF-8 is required explicitly:
-#    pdftotext's default output encoding is NOT UTF-8 on every platform
-#    (notably Windows), so without this flag the same command can produce
-#    Latin-1/cp1252-ish bytes there instead of UTF-8, breaking ñ/ü and
-#    any downstream tool (like pipeline_04) that reads the file as UTF-8.
-echo "Running pdftotext -layout -enc UTF-8..."
-pdftotext -layout -enc UTF-8 "${PDF_PATH}" "${OUT_FILE}"
+# 3. Extract text, preserving layout. This is the bare command on purpose:
+#    adding -enc UTF-8 changed the layout of the output on some setups
+#    (extra blank lines, wider indentation), and the default output is
+#    already UTF-8 here. pipeline_04 still tolerates cp1252 input.
+echo "Running pdftotext -layout..."
+pdftotext -layout "${PDF_PATH}" "${OUT_FILE}"
 
 echo "Done -> ${OUT_FILE}"
