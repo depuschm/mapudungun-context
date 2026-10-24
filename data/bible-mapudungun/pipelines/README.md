@@ -67,17 +67,3 @@ Each script takes the same two optional arguments:
   contains no literal words like "Chapter" — chapter breaks are just a
   centered number on their own line. Chapter 1 of every book has no
   explicit heading in the source and is injected programmatically.
-
-## Reproducibility note
-
-`pdftotext -layout` output (indentation, blank lines, footnote order)
-depends on the installed poppler version, and `pipeline_04` preserves
-that layout in `bible.md`. The reference files were generated with
-poppler **24.02.x** (the `poppler-utils` package of Ubuntu 24.04, e.g.
-via WSL or Docker). Other versions can produce a differently laid-out
-`bible-pdftotext.md` (different file size) and therefore a different
-`bible.md`. `pipeline_02` prints the detected version and warns if it
-is not 24.02.x. Check yours with `pdftotext -v`.
-
-Line endings also depend on the platform: on Windows the files are
-written with CRLF, so compare sizes after normalizing line endings.
