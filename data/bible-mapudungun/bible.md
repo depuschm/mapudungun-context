@@ -2283,8 +2283,8 @@ Tati küdawfe adkünu dungu
 **1** “Fey ka femngechi Ngünechen tañi longko ülmenngen kiñe wentru reke
 feley tati ngenngelu kiñe ofadentu mew, tripalu ta küme puliwen tañi
 kintuael küdawfe ñi katrüofadelaetew.
-§ 19:19 Exodo 20.12-16; Deuteronomio 5.16-20.
                                             * 19:19 Levitiko 19.18. † 19:24 ñi rumeael ti
+§ 19:19 Exodo 20.12-16; Deuteronomio 5.16-20.
 longko akucha mew: rume küdawngechi dungu pin ürke. ‡ 19:29 Kiñeke kuyfi wirin mew ngelay:
 “kam domo”.
 

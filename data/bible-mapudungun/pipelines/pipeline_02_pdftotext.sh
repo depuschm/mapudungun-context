@@ -90,8 +90,10 @@ fi
 #    (notably Windows), so without this flag the same command can produce
 #    Latin-1/cp1252-ish bytes there instead of UTF-8, breaking ñ/ü and
 #    any downstream tool (like pipeline_04) that reads the file as UTF-8.
-#    -eol unix likewise: on Windows the default line ending can be CRLF.
-echo "Running pdftotext -layout -enc UTF-8 -eol unix..."
-"${PDFTOTEXT_BIN}" -layout -enc UTF-8 -eol unix "${PDF_PATH}" "${OUT_FILE}"
+#    -eol dos: the committed .md files are CRLF (like the Python-written
+#    outputs of pipelines 01/03/04 on Windows), so pin it rather than
+#    depend on the platform default.
+echo "Running pdftotext -layout -enc UTF-8 -eol dos..."
+"${PDFTOTEXT_BIN}" -layout -enc UTF-8 -eol dos "${PDF_PATH}" "${OUT_FILE}"
 
 echo "Done -> ${OUT_FILE}"
