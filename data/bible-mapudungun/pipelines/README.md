@@ -42,13 +42,51 @@ Each script takes the same two optional arguments:
   `bible-pdftotext.md` input path for script 04.
 - Arg 2: output directory (default: current directory).
 
+The committed copies of the outputs live one folder up
+(`data/bible-mapudungun/`). To check a run reproduces them byte for byte:
+
+```bash
+for f in bible*.md; do cmp "$f" "../$f" && echo "$f OK"; done
+```
+
 ## Requirements
 
-- `pdftotext` (poppler-utils) — script 02 auto-installs via `apt-get`
-  if missing (needs sudo).
-- Python 3 + `pip` — scripts 01, 03, and 04 auto-install
+- `pdftotext` from **Poppler** (not xpdf). Script 02 uses the first
+  Poppler build on `PATH` and skips xpdf. This matters in Git Bash:
+  Git for Windows ships xpdf 4.00 as `/mingw64/bin/pdftotext`, which
+  comes first on Git Bash's `PATH`. To pick a specific binary, set
+  `PDFTOTEXT=/path/to/pdftotext`. If no Poppler build is found, script 02
+  installs `poppler-utils` via `apt-get` where available (Linux, needs
+  sudo); otherwise it stops with install hints.
+- Python 3 + `pip`. Scripts 01 and 03 auto-install
   `pdfplumber` / `pymupdf` via `pip install --break-system-packages`
   if missing.
+
+## Versions
+
+The committed `.md` files were produced on Windows (Git Bash) with:
+
+| Tool | Version |
+|---|---|
+| Poppler `pdftotext` | 24.04.0 (the one bundled with MiKTeX) |
+| Python | 3.12.10 |
+| pdfplumber | 0.11.10 |
+| pdfminer.six | 20260107 |
+| PyMuPDF | 1.28.2 |
+
+To match the Python packages:
+
+```bash
+python3 -m pip install pdfplumber==0.11.10 pdfminer.six==20260107 pymupdf==1.28.2
+```
+
+Other versions can produce different output. For example, Poppler 24.02
+swaps two footnote lines near Matew 19:19, which changes both
+`bible-pdftotext.md` and `bible.md`.
+
+Line endings: the committed files are CRLF. Script 02 forces CRLF
+(`-eol dos`), but scripts 01, 03 and 04 write the platform's native line
+ending, so on Linux/macOS they produce LF files that otherwise match.
 
 ## Notes
 
