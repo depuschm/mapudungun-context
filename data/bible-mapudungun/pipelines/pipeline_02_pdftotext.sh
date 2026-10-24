@@ -29,29 +29,21 @@ if ! command -v pdftotext &>/dev/null; then
   sudo apt-get install -y -qq poppler-utils
 fi
 
+# 1b. pdftotext's -layout output (indentation, blank lines, footnote order)
+#     depends on the poppler version, and pipeline_04 keeps that layout in
+#     bible.md. The reference output was generated with poppler 24.02.x
+#     (Ubuntu 24.04's poppler-utils); other versions may produce a different
+#     layout and therefore a differently sized bible-pdftotext.md / bible.md.
+PDFTOTEXT_VERSION="$( (pdftotext -v 2>&1 || true) | head -n 1 | awk '{print $NF}')"
+echo "Using pdftotext version: ${PDFTOTEXT_VERSION}"
+if [[ "${PDFTOTEXT_VERSION}" != 24.02.* ]]; then
+  echo "WARNING: expected pdftotext 24.02.x; layout of the output may differ." >&2
+fi
+
 # 2. Download the PDF if it isn't already present locally
 if [[ ! -f "${PDF_PATH}" ]]; then
   echo "Downloading source PDF from ${PDF_URL}..."
   curl -fsSL -o "${PDF_PATH}" "${PDF_URL}"
-fi
-
-# 2b. The extraction (and everything built from it, e.g. bible.md) depends
-#     on the exact PDF build: ebible.org regenerates this PDF from time to
-#     time, and a different build lays out the text differently. The
-#     reference output was generated from the PDF with this SHA-256:
-EXPECTED_SHA256="0559e97db315fe8b5cf90749756ca927084b939997dba04bb59466fa18a4f823"
-if command -v sha256sum &>/dev/null; then
-  ACTUAL_SHA256="$(sha256sum "${PDF_PATH}" | awk '{print $1}')"
-elif command -v shasum &>/dev/null; then
-  ACTUAL_SHA256="$(shasum -a 256 "${PDF_PATH}" | awk '{print $1}')"
-else
-  ACTUAL_SHA256=""
-fi
-if [[ -n "${ACTUAL_SHA256}" && "${ACTUAL_SHA256}" != "${EXPECTED_SHA256}" ]]; then
-  echo "WARNING: ${PDF_PATH} is not the PDF build the reference output was" >&2
-  echo "         generated from (SHA-256 ${ACTUAL_SHA256})." >&2
-  echo "         The extracted layout, and bible.md, may differ. Use the" >&2
-  echo "         arnNT.pdf committed in this repository instead." >&2
 fi
 
 # 3. Extract text, preserving layout. -enc UTF-8 is required explicitly:

@@ -70,16 +70,14 @@ Each script takes the same two optional arguments:
 
 ## Reproducibility note
 
-The output of `pipeline_02` (and therefore `bible.md`, which keeps the
-indentation and blank lines of the `pdftotext -layout` output) depends on
-the exact PDF build. ebible.org regenerates `arnNT_prt.pdf` from time to
-time, and a different build can lay out the text differently (different
-line count and file size). The reference files were generated from the
-`arnNT.pdf` with SHA-256
-`0559e97db315fe8b5cf90749756ca927084b939997dba04bb59466fa18a4f823`.
-Always pass the committed `arnNT.pdf` explicitly; if the file is missing
-the scripts download a fresh copy, which may not match. `pipeline_02`
-warns when the checksum differs.
+`pdftotext -layout` output (indentation, blank lines, footnote order)
+depends on the installed poppler version, and `pipeline_04` preserves
+that layout in `bible.md`. The reference files were generated with
+poppler **24.02.x** (the `poppler-utils` package of Ubuntu 24.04, e.g.
+via WSL or Docker). Other versions can produce a differently laid-out
+`bible-pdftotext.md` (different file size) and therefore a different
+`bible.md`. `pipeline_02` prints the detected version and warns if it
+is not 24.02.x. Check yours with `pdftotext -v`.
 
 Line endings also depend on the platform: on Windows the files are
 written with CRLF, so compare sizes after normalizing line endings.
