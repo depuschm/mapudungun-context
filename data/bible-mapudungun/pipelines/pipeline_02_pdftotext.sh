@@ -29,6 +29,17 @@ if ! command -v pdftotext &>/dev/null; then
   sudo apt-get install -y -qq poppler-utils
 fi
 
+# 1b. pdftotext's -layout output (indentation, blank lines, footnote order)
+#     depends on the poppler version, and pipeline_04 keeps that layout in
+#     bible.md. The reference output was generated with poppler 24.02.x
+#     (Ubuntu 24.04's poppler-utils); other versions may produce a different
+#     layout and therefore a differently sized bible-pdftotext.md / bible.md.
+PDFTOTEXT_VERSION="$( (pdftotext -v 2>&1 || true) | head -n 1 | awk '{print $NF}')"
+echo "Using pdftotext version: ${PDFTOTEXT_VERSION}"
+if [[ "${PDFTOTEXT_VERSION}" != 24.02.* ]]; then
+  echo "WARNING: expected pdftotext 24.02.x; layout of the output may differ." >&2
+fi
+
 # 2. Download the PDF if it isn't already present locally
 if [[ ! -f "${PDF_PATH}" ]]; then
   echo "Downloading source PDF from ${PDF_URL}..."

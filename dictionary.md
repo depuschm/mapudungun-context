@@ -1,6 +1,6 @@
 # Mapudungun Dictionary (Word-Form Index)
 
-> Companion file: `grammar.md`. Load both at the start of a chat so Claude can read, understand, and produce Mapudungun.
+> Companion file: `grammar.md`. Load both at the start of a chat so an AI can read, understand, and produce Mapudungun.
 
 ## What this file is
 

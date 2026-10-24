@@ -80,6 +80,11 @@ def read_text(path):
 
 raw = read_text(in_path)
 
+# Normalize line endings: pdftotext on Windows writes CRLF. Without this,
+# stray "\r" characters stay at the end of every line and are doubled
+# again when Python writes the output file in text mode on Windows.
+raw = raw.replace('\r\n', '\n').replace('\r', '\n')
+
 pages = raw.split('\f')
 
 # Page-header pattern, e.g. "Matew 1:13    2    Matew 1:25"
