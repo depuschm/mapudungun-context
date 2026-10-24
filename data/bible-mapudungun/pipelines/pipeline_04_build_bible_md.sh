@@ -79,6 +79,9 @@ def read_text(path):
         return data.decode("cp1252", errors="replace")
 
 raw = read_text(in_path)
+# Normalise Windows line endings so regexes/indent checks behave the same
+# whichever pdftotext / platform produced the file.
+raw = raw.replace('\r\n', '\n').replace('\r', '\n')
 
 pages = raw.split('\f')
 
